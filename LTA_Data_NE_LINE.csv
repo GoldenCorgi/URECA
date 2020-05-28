@@ -1,0 +1,4638 @@
+DAY_TYPE,TIME_PER_HOUR,ORIGIN_PT_CODE,DESTINATION_PT_CODE,TOTAL_TRIPS
+WEEKDAY,18,Sengkang,Punggol,7709
+WEEKDAY,18,Punggol,Sengkang,6474
+WEEKDAY,19,Sengkang,Punggol,6104
+WEEKDAY,17,Punggol,Sengkang,5968
+WEEKDAY,17,Sengkang,Punggol,5839
+WEEKDAY,15,Sengkang,Punggol,5712
+WEEKDAY,19,Punggol,Sengkang,5618
+WEEKDAY,16,Punggol,Sengkang,5616
+WEEKDAY,14,Sengkang,Punggol,5560
+WEEKDAY,16,Sengkang,Punggol,5533
+WEEKDAY,15,Punggol,Sengkang,5399
+WEEKDAY,14,Punggol,Sengkang,5227
+WEEKDAY,13,Sengkang,Punggol,4995
+WEEKDAY,13,Punggol,Sengkang,4789
+WEEKDAY,7,Punggol,Sengkang,4764
+WEEKDAY,12,Little India,Farrer Park,4656
+WEEKDAY,18,Boon Keng,Sengkang,4614
+WEEKDAY,12,Punggol,Sengkang,4529
+WEEKDAY,12,Sengkang,Punggol,4493
+WEEKDAY,7,Sengkang,Outram Park,4421
+WEEKDAY,7,Hougang,Outram Park,4349
+WEEKDAY,18,Boon Keng,Hougang,4314
+WEEKDAY,12,Little India,Dhoby Ghaut,4310
+WEEKDAY,18,Hougang,Punggol,4247
+WEEKDAY,7,Punggol,Hougang,4218
+WEEKDAY,20,Punggol,Sengkang,4209
+WEEKDAY,7,Serangoon,Outram Park,4154
+WEEKDAY,8,Hougang,Clarke Quay,4131
+WEEKDAY,11,Sengkang,Punggol,4008
+WEEKDAY,18,Boon Keng,Serangoon,3935
+WEEKDAY,20,Sengkang,Punggol,3871
+WEEKDAY,18,Dhoby Ghaut,Sengkang,3855
+WEEKDAY,18,Outram Park,Sengkang,3821
+WEEKDAY,7,Sengkang,Punggol,3808
+WEEKDAY,18,Chinatown,Hougang,3794
+WEEKDAY,13,Farrer Park,Little India,3777
+WEEKDAY,18,HarbourFront,Sengkang,3742
+WEEKDAY,18,Chinatown,Sengkang,3737
+WEEKDAY,7,Sengkang,Hougang,3730
+WEEKDAY,8,Sengkang,Clarke Quay,3705
+WEEKDAY,18,Chinatown,Serangoon,3701
+WEEKDAY,7,Punggol,Outram Park,3699
+WEEKDAY,8,Serangoon,Clarke Quay,3685
+WEEKDAY,18,Outram Park,Hougang,3652
+WEEKDAY,7,Sengkang,Boon Keng,3642
+WEEKDAY,21,Punggol,Sengkang,3640
+WEEKDAY,18,Little India,Sengkang,3599
+WEEKDAY,7,Sengkang,Potong Pasir,3590
+WEEKDAY,18,Serangoon,Sengkang,3588
+WEEKDAY,12,Boon Keng,Farrer Park,3568
+WEEKDAY,8,Hougang,Chinatown,3546
+WEEKDAY,7,Hougang,Potong Pasir,3537
+WEEKDAY,8,Hougang,Boon Keng,3510
+WEEKDAY,11,Punggol,Sengkang,3472
+WEEKDAY,18,Boon Keng,Farrer Park,3470
+WEEKDAY,18,Clarke Quay,Sengkang,3469
+WEEKDAY,8,Sengkang,Boon Keng,3430
+WEEKDAY,8,Serangoon,Outram Park,3429
+WEEKDAY,8,Serangoon,Chinatown,3397
+WEEKDAY,6,Punggol,Sengkang,3390
+WEEKDAY,17,Boon Keng,Sengkang,3382
+WEEKDAY,12,Outram Park,Chinatown,3379
+WEEKDAY,18,Dhoby Ghaut,Hougang,3367
+WEEKDAY,18,Potong Pasir,Sengkang,3362
+WEEKDAY,18,Outram Park,Serangoon,3362
+WEEKDAY,18,HarbourFront,Hougang,3357
+WEEKDAY,17,Outram Park,Sengkang,3333
+WEEKDAY,8,Sengkang,Chinatown,3332
+WEEKDAY,8,Punggol,Clarke Quay,3324
+WEEKDAY,18,Hougang,Sengkang,3321
+WEEKDAY,18,Little India,Hougang,3259
+WEEKDAY,8,Hougang,Outram Park,3258
+WEEKDAY,10,Sengkang,Punggol,3229
+WEEKDAY,18,Clarke Quay,Serangoon,3211
+WEEKDAY,18,Boon Keng,Punggol,3192
+WEEKDAY,8,Sengkang,Little India,3190
+WEEKDAY,6,Punggol,Hougang,3169
+WEEKDAY,13,Chinatown,Outram Park,3145
+WEEKDAY,7,Sengkang,Little India,3121
+WEEKDAY,20,Dhoby Ghaut,Sengkang,3112
+WEEKDAY,18,Clarke Quay,Hougang,3108
+WEEKDAY,18,Dhoby Ghaut,Serangoon,3107
+WEEKDAY,17,Dhoby Ghaut,Sengkang,3099
+WEEKDAY,7,Hougang,Chinatown,3097
+WEEKDAY,7,Hougang,HarbourFront,3089
+WEEKDAY,19,Boon Keng,Sengkang,3077
+WEEKDAY,7,Sengkang,HarbourFront,3075
+WEEKDAY,20,Dhoby Ghaut,Hougang,3072
+WEEKDAY,7,Sengkang,Chinatown,3061
+WEEKDAY,8,Hougang,Potong Pasir,3057
+WEEKDAY,8,Sengkang,Outram Park,3056
+WEEKDAY,8,Sengkang,Kovan,3031
+WEEKDAY,7,Hougang,Boon Keng,3011
+WEEKDAY,17,Serangoon,Sengkang,3009
+WEEKDAY,19,Hougang,Punggol,2958
+WEEKDAY,8,Sengkang,Potong Pasir,2935
+WEEKDAY,19,Dhoby Ghaut,Sengkang,2929
+WEEKDAY,18,HarbourFront,Serangoon,2919
+WEEKDAY,13,Farrer Park,Boon Keng,2915
+WEEKDAY,17,Hougang,Punggol,2910
+WEEKDAY,13,Dhoby Ghaut,Little India,2903
+WEEKDAY,21,Dhoby Ghaut,Hougang,2891
+WEEKDAY,11,Boon Keng,Farrer Park,2872
+WEEKDAY,7,Sengkang,Dhoby Ghaut,2864
+WEEKDAY,8,Hougang,Little India,2857
+WEEKDAY,18,Kovan,Sengkang,2852
+WEEKDAY,18,Outram Park,Punggol,2850
+WEEKDAY,18,Potong Pasir,Serangoon,2850
+WEEKDAY,9,Sengkang,Punggol,2847
+WEEKDAY,7,Punggol,Potong Pasir,2847
+WEEKDAY,7,Punggol,Chinatown,2824
+WEEKDAY,8,Punggol,Outram Park,2822
+WEEKDAY,8,Punggol,Chinatown,2818
+WEEKDAY,19,Serangoon,Sengkang,2808
+WEEKDAY,17,Little India,Sengkang,2803
+WEEKDAY,7,Punggol,Boon Keng,2784
+WEEKDAY,21,Dhoby Ghaut,Sengkang,2783
+WEEKDAY,18,Dhoby Ghaut,Punggol,2766
+WEEKDAY,18,Serangoon,Punggol,2760
+WEEKDAY,18,Little India,Serangoon,2751
+WEEKDAY,18,HarbourFront,Punggol,2731
+WEEKDAY,7,Hougang,Dhoby Ghaut,2724
+WEEKDAY,19,Dhoby Ghaut,Hougang,2707
+WEEKDAY,17,Boon Keng,Serangoon,2707
+WEEKDAY,7,Buangkok,Outram Park,2705
+WEEKDAY,17,Boon Keng,Hougang,2696
+WEEKDAY,8,Punggol,Boon Keng,2690
+WEEKDAY,15,Hougang,Punggol,2684
+WEEKDAY,8,Hougang,Dhoby Ghaut,2679
+WEEKDAY,21,Sengkang,Punggol,2678
+WEEKDAY,13,Boon Keng,Farrer Park,2673
+WEEKDAY,19,Boon Keng,Serangoon,2667
+WEEKDAY,18,Chinatown,Punggol,2664
+WEEKDAY,18,Sengkang,Hougang,2642
+WEEKDAY,10,Punggol,Sengkang,2638
+WEEKDAY,17,Hougang,Sengkang,2632
+WEEKDAY,17,Dhoby Ghaut,Hougang,2629
+WEEKDAY,7,Hougang,Little India,2628
+WEEKDAY,18,Potong Pasir,Hougang,2618
+WEEKDAY,17,Outram Park,Hougang,2618
+WEEKDAY,8,Sengkang,Punggol,2617
+WEEKDAY,18,Serangoon,Hougang,2617
+WEEKDAY,8,Serangoon,Little India,2614
+WEEKDAY,17,Outram Park,Serangoon,2597
+WEEKDAY,18,Clarke Quay,Punggol,2587
+WEEKDAY,7,Punggol,Little India,2574
+WEEKDAY,18,Punggol,Hougang,2568
+WEEKDAY,19,Chinatown,Sengkang,2565
+WEEKDAY,9,Serangoon,Chinatown,2564
+WEEKDAY,7,Punggol,HarbourFront,2555
+WEEKDAY,7,Punggol,Serangoon,2554
+WEEKDAY,19,Chinatown,Serangoon,2551
+WEEKDAY,8,Serangoon,Boon Keng,2543
+WEEKDAY,19,Hougang,Sengkang,2536
+WEEKDAY,7,Sengkang,Serangoon,2529
+WEEKDAY,8,Punggol,Sengkang,2526
+WEEKDAY,19,Chinatown,Hougang,2519
+WEEKDAY,18,Serangoon,Boon Keng,2516
+WEEKDAY,14,Hougang,Punggol,2505
+WEEKDAY,17,Boon Keng,Farrer Park,2504
+WEEKDAY,18,Little India,Punggol,2504
+WEEKDAY,20,Serangoon,Sengkang,2502
+WEEKDAY,8,Sengkang,HarbourFront,2500
+WEEKDAY,8,Punggol,Little India,2493
+WEEKDAY,22,Punggol,Sengkang,2491
+WEEKDAY,19,Boon Keng,Farrer Park,2485
+WEEKDAY,15,Hougang,Sengkang,2476
+WEEKDAY,8,Sengkang,Dhoby Ghaut,2471
+WEEKDAY,8,Hougang,Farrer Park,2456
+WEEKDAY,7,Boon Keng,Outram Park,2450
+WEEKDAY,8,Serangoon,HarbourFront,2437
+WEEKDAY,19,Serangoon,Hougang,2433
+WEEKDAY,14,Boon Keng,Farrer Park,2415
+WEEKDAY,16,Serangoon,Sengkang,2398
+WEEKDAY,17,Punggol,Hougang,2397
+WEEKDAY,19,Boon Keng,Hougang,2385
+WEEKDAY,19,HarbourFront,Sengkang,2360
+WEEKDAY,17,Chinatown,Serangoon,2359
+WEEKDAY,19,Dhoby Ghaut,Serangoon,2358
+WEEKDAY,16,Hougang,Punggol,2353
+WEEKDAY,8,Buangkok,Clarke Quay,2352
+WEEKDAY,17,Sengkang,Hougang,2349
+WEEKDAY,18,Hougang,Serangoon,2340
+WEEKDAY,14,Hougang,Sengkang,2339
+WEEKDAY,17,Chinatown,Hougang,2334
+WEEKDAY,7,Serangoon,Boon Keng,2332
+WEEKDAY,9,Hougang,Chinatown,2325
+WEEKDAY,14,Kovan,Sengkang,2318
+WEEKDAY,18,Serangoon,Farrer Park,2309
+WEEKDAY,18,Potong Pasir,Punggol,2308
+WEEKDAY,8,Punggol,Hougang,2304
+WEEKDAY,17,Dhoby Ghaut,Serangoon,2301
+WEEKDAY,17,Potong Pasir,Sengkang,2294
+WEEKDAY,17,Kovan,Sengkang,2291
+WEEKDAY,7,Serangoon,Potong Pasir,2284
+WEEKDAY,13,Hougang,Punggol,2274
+WEEKDAY,15,Serangoon,Sengkang,2268
+WEEKDAY,17,Chinatown,Sengkang,2267
+WEEKDAY,20,Dhoby Ghaut,Serangoon,2260
+WEEKDAY,20,Serangoon,Hougang,2258
+WEEKDAY,8,Punggol,Potong Pasir,2257
+WEEKDAY,21,Dhoby Ghaut,Serangoon,2254
+WEEKDAY,10,Serangoon,Chinatown,2253
+WEEKDAY,7,Buangkok,Hougang,2253
+WEEKDAY,7,Kovan,Outram Park,2236
+WEEKDAY,17,Outram Park,Punggol,2232
+WEEKDAY,8,Hougang,HarbourFront,2232
+WEEKDAY,19,Clarke Quay,Sengkang,2215
+WEEKDAY,7,Serangoon,HarbourFront,2213
+WEEKDAY,7,Serangoon,Chinatown,2212
+WEEKDAY,6,Punggol,Serangoon,2211
+WEEKDAY,18,Farrer Park,Boon Keng,2190
+WEEKDAY,21,Serangoon,Sengkang,2185
+WEEKDAY,7,Boon Keng,Serangoon,2180
+WEEKDAY,9,Boon Keng,Chinatown,2174
+WEEKDAY,20,Chinatown,Serangoon,2172
+WEEKDAY,9,Punggol,Sengkang,2162
+WEEKDAY,7,Hougang,Punggol,2159
+WEEKDAY,19,Punggol,Hougang,2155
+WEEKDAY,8,Boon Keng,Outram Park,2152
+WEEKDAY,15,Kovan,Sengkang,2152
+WEEKDAY,17,Potong Pasir,Serangoon,2148
+WEEKDAY,8,Serangoon,Dhoby Ghaut,2140
+WEEKDAY,8,Buangkok,Boon Keng,2136
+WEEKDAY,8,Boon Keng,Chinatown,2130
+WEEKDAY,18,Chinatown,Boon Keng,2125
+WEEKDAY,10,Boon Keng,Farrer Park,2125
+WEEKDAY,19,Kovan,Sengkang,2122
+WEEKDAY,8,Punggol,Kovan,2120
+WEEKDAY,17,Little India,Hougang,2119
+WEEKDAY,19,Dhoby Ghaut,Punggol,2116
+WEEKDAY,7,Sengkang,Kovan,2113
+WEEKDAY,7,Hougang,Farrer Park,2108
+WEEKDAY,17,Serangoon,Punggol,2105
+WEEKDAY,18,Kovan,Punggol,2104
+WEEKDAY,18,HarbourFront,Chinatown,2103
+WEEKDAY,20,Dhoby Ghaut,Punggol,2096
+WEEKDAY,8,Sengkang,Farrer Park,2093
+WEEKDAY,19,Serangoon,Punggol,2093
+WEEKDAY,20,Farrer Park,Boon Keng,2084
+WEEKDAY,18,Sengkang,Serangoon,2084
+WEEKDAY,10,Hougang,Chinatown,2078
+WEEKDAY,19,Little India,Sengkang,2078
+WEEKDAY,16,Hougang,Sengkang,2066
+WEEKDAY,12,Outram Park,HarbourFront,2061
+WEEKDAY,18,Chinatown,Farrer Park,2059
+WEEKDAY,18,Serangoon,Kovan,2058
+WEEKDAY,7,Punggol,Clarke Quay,2053
+WEEKDAY,18,Farrer Park,Serangoon,2052
+WEEKDAY,13,Buangkok,Sengkang,2051
+WEEKDAY,7,Punggol,Dhoby Ghaut,2049
+WEEKDAY,13,Hougang,Sengkang,2049
+WEEKDAY,15,Boon Keng,Farrer Park,2048
+WEEKDAY,8,Serangoon,Farrer Park,2045
+WEEKDAY,18,Serangoon,Buangkok,2042
+WEEKDAY,6,Sengkang,Serangoon,2042
+WEEKDAY,18,Dhoby Ghaut,Boon Keng,2039
+WEEKDAY,15,Sengkang,Hougang,2038
+WEEKDAY,11,Outram Park,Chinatown,2034
+WEEKDAY,17,Boon Keng,Punggol,2033
+WEEKDAY,6,Hougang,Outram Park,2026
+WEEKDAY,6,Sengkang,Punggol,2026
+WEEKDAY,8,Boon Keng,Little India,2022
+WEEKDAY,7,Boon Keng,Farrer Park,2022
+WEEKDAY,17,Dhoby Ghaut,Punggol,2018
+WEEKDAY,19,Sengkang,Buangkok,2014
+WEEKDAY,17,HarbourFront,Sengkang,2013
+WEEKDAY,9,Hougang,Clarke Quay,2010
+WEEKDAY,16,Boon Keng,Farrer Park,2009
+WEEKDAY,7,Hougang,Clarke Quay,2008
+WEEKDAY,18,Sengkang,Buangkok,2007
+WEEKDAY,7,Serangoon,Little India,2006
+WEEKDAY,18,Boon Keng,Buangkok,2004
+WEEKDAY,8,Kovan,Clarke Quay,1998
+WEEKDAY,8,Punggol,Dhoby Ghaut,1997
+WEEKDAY,21,Punggol,Hougang,1996
+WEEKDAY,18,Sengkang,Kovan,1990
+WEEKDAY,21,Farrer Park,Hougang,1988
+WEEKDAY,17,Farrer Park,Boon Keng,1988
+WEEKDAY,20,Chinatown,Hougang,1980
+WEEKDAY,6,Sengkang,Hougang,1979
+WEEKDAY,19,Farrer Park,Boon Keng,1965
+WEEKDAY,14,Serangoon,Sengkang,1964
+WEEKDAY,17,HarbourFront,Hougang,1960
+WEEKDAY,18,Dhoby Ghaut,Farrer Park,1956
+WEEKDAY,19,Clarke Quay,Hougang,1955
+WEEKDAY,8,Buangkok,Chinatown,1948
+WEEKDAY,22,Dhoby Ghaut,Hougang,1947
+WEEKDAY,7,Hougang,Sengkang,1940
+WEEKDAY,16,Sengkang,Hougang,1939
+WEEKDAY,21,Serangoon,Hougang,1939
+WEEKDAY,17,Little India,Serangoon,1934
+WEEKDAY,8,Buangkok,Little India,1934
+WEEKDAY,18,Chinatown,Kovan,1929
+WEEKDAY,19,Clarke Quay,Serangoon,1927
+WEEKDAY,12,Chinatown,Outram Park,1925
+WEEKDAY,8,Serangoon,Potong Pasir,1925
+WEEKDAY,8,Punggol,HarbourFront,1921
+WEEKDAY,9,Serangoon,Clarke Quay,1913
+WEEKDAY,17,Serangoon,Hougang,1912
+WEEKDAY,14,Sengkang,Hougang,1909
+WEEKDAY,6,Hougang,Boon Keng,1908
+WEEKDAY,16,Kovan,Sengkang,1900
+WEEKDAY,18,Serangoon,Potong Pasir,1892
+WEEKDAY,7,Buangkok,Little India,1890
+WEEKDAY,7,Buangkok,Potong Pasir,1884
+WEEKDAY,9,Sengkang,Chinatown,1884
+WEEKDAY,19,Little India,Hougang,1882
+WEEKDAY,18,Boon Keng,Kovan,1875
+WEEKDAY,8,Buangkok,Potong Pasir,1870
+WEEKDAY,21,Dhoby Ghaut,Punggol,1870
+WEEKDAY,15,Serangoon,Punggol,1867
+WEEKDAY,17,Potong Pasir,Punggol,1863
+WEEKDAY,19,Serangoon,Kovan,1862
+WEEKDAY,19,Serangoon,Buangkok,1860
+WEEKDAY,19,Boon Keng,Punggol,1860
+WEEKDAY,7,Sengkang,Clarke Quay,1854
+WEEKDAY,12,Hougang,Punggol,1849
+WEEKDAY,7,Serangoon,Dhoby Ghaut,1848
+WEEKDAY,7,Sengkang,Woodleigh,1844
+WEEKDAY,18,Farrer Park,Hougang,1843
+WEEKDAY,12,Little India,Chinatown,1843
+WEEKDAY,18,Farrer Park,Sengkang,1840
+WEEKDAY,8,Boon Keng,Clarke Quay,1839
+WEEKDAY,18,HarbourFront,Farrer Park,1836
+WEEKDAY,9,Hougang,Little India,1835
+WEEKDAY,18,Kovan,Serangoon,1832
+WEEKDAY,16,Serangoon,Punggol,1829
+WEEKDAY,16,Punggol,Hougang,1827
+WEEKDAY,8,Sengkang,Serangoon,1824
+WEEKDAY,18,Outram Park,Dhoby Ghaut,1823
+WEEKDAY,6,Sengkang,Potong Pasir,1820
+WEEKDAY,20,Serangoon,Punggol,1817
+WEEKDAY,6,Sengkang,Outram Park,1817
+WEEKDAY,17,Sengkang,Serangoon,1816
+WEEKDAY,19,Little India,Serangoon,1814
+WEEKDAY,15,Punggol,Hougang,1810
+WEEKDAY,6,Hougang,HarbourFront,1808
+WEEKDAY,20,Hougang,Punggol,1807
+WEEKDAY,18,Outram Park,Farrer Park,1805
+WEEKDAY,9,Sengkang,Kovan,1802
+WEEKDAY,10,Boon Keng,Chinatown,1802
+WEEKDAY,19,Chinatown,Boon Keng,1801
+WEEKDAY,18,Dhoby Ghaut,Kovan,1800
+WEEKDAY,8,Buangkok,Kovan,1797
+WEEKDAY,18,Chinatown,Dhoby Ghaut,1797
+WEEKDAY,19,Farrer Park,Serangoon,1789
+WEEKDAY,20,Chinatown,Sengkang,1785
+WEEKDAY,13,Sengkang,Hougang,1780
+WEEKDAY,9,Sengkang,Boon Keng,1779
+WEEKDAY,20,Hougang,Sengkang,1779
+WEEKDAY,21,Farrer Park,Boon Keng,1768
+WEEKDAY,12,Farrer Park,Boon Keng,1767
+WEEKDAY,7,Boon Keng,HarbourFront,1762
+WEEKDAY,19,Chinatown,Farrer Park,1761
+WEEKDAY,9,Boon Keng,Farrer Park,1759
+WEEKDAY,17,Potong Pasir,Hougang,1752
+WEEKDAY,8,Kovan,Chinatown,1752
+WEEKDAY,8,Buangkok,Outram Park,1745
+WEEKDAY,18,Clarke Quay,Kovan,1740
+WEEKDAY,6,Punggol,Potong Pasir,1740
+WEEKDAY,12,Hougang,Sengkang,1738
+WEEKDAY,7,Buangkok,Boon Keng,1734
+WEEKDAY,7,Punggol,Kovan,1732
+WEEKDAY,18,Woodleigh,Sengkang,1730
+WEEKDAY,19,Dhoby Ghaut,Boon Keng,1724
+WEEKDAY,18,Outram Park,Kovan,1719
+WEEKDAY,17,Chinatown,Punggol,1713
+WEEKDAY,19,Clarke Quay,Punggol,1712
+WEEKDAY,20,Dhoby Ghaut,Boon Keng,1707
+WEEKDAY,14,Farrer Park,Boon Keng,1699
+WEEKDAY,9,Hougang,Farrer Park,1698
+WEEKDAY,18,Punggol,Serangoon,1695
+WEEKDAY,18,Little India,Buangkok,1689
+WEEKDAY,22,Dhoby Ghaut,Sengkang,1689
+WEEKDAY,20,Punggol,Hougang,1688
+WEEKDAY,11,Kovan,Sengkang,1686
+WEEKDAY,18,Outram Park,Boon Keng,1682
+WEEKDAY,14,Sengkang,Serangoon,1681
+WEEKDAY,8,Sengkang,Hougang,1681
+WEEKDAY,18,HarbourFront,Buangkok,1679
+WEEKDAY,19,Outram Park,Sengkang,1679
+WEEKDAY,18,Outram Park,Buangkok,1676
+WEEKDAY,17,Serangoon,Boon Keng,1675
+WEEKDAY,16,Serangoon,Hougang,1675
+WEEKDAY,21,Serangoon,Punggol,1673
+WEEKDAY,18,Kovan,Hougang,1672
+WEEKDAY,19,Sengkang,Hougang,1672
+WEEKDAY,18,Chinatown,Buangkok,1670
+WEEKDAY,20,Farrer Park,Serangoon,1667
+WEEKDAY,17,HarbourFront,Chinatown,1666
+WEEKDAY,9,Hougang,Dhoby Ghaut,1665
+WEEKDAY,17,Clarke Quay,Hougang,1665
+WEEKDAY,16,Dhoby Ghaut,Sengkang,1663
+WEEKDAY,19,Hougang,Serangoon,1662
+WEEKDAY,9,Sengkang,Little India,1659
+WEEKDAY,14,Serangoon,Punggol,1657
+WEEKDAY,7,Punggol,Woodleigh,1657
+WEEKDAY,18,Outram Park,Little India,1653
+WEEKDAY,15,Sengkang,Buangkok,1652
+WEEKDAY,12,Kovan,Sengkang,1651
+WEEKDAY,19,Outram Park,Serangoon,1650
+WEEKDAY,12,Kovan,Serangoon,1650
+WEEKDAY,12,Sengkang,Serangoon,1650
+WEEKDAY,11,Hougang,Punggol,1647
+WEEKDAY,13,Serangoon,Sengkang,1639
+WEEKDAY,14,Punggol,Hougang,1636
+WEEKDAY,19,Chinatown,Punggol,1634
+WEEKDAY,17,Clarke Quay,Sengkang,1633
+WEEKDAY,19,Serangoon,Farrer Park,1632
+WEEKDAY,16,Chinatown,Serangoon,1630
+WEEKDAY,21,Farrer Park,Serangoon,1627
+WEEKDAY,17,Serangoon,Kovan,1625
+WEEKDAY,19,HarbourFront,Hougang,1625
+WEEKDAY,16,Woodleigh,Serangoon,1622
+WEEKDAY,21,Dhoby Ghaut,Boon Keng,1622
+WEEKDAY,17,Kovan,Punggol,1622
+WEEKDAY,13,Kovan,Sengkang,1613
+WEEKDAY,7,Buangkok,Punggol,1613
+WEEKDAY,18,Hougang,Buangkok,1612
+WEEKDAY,18,HarbourFront,Boon Keng,1610
+WEEKDAY,8,Kovan,Outram Park,1609
+WEEKDAY,17,Farrer Park,Hougang,1608
+WEEKDAY,18,Little India,Kovan,1607
+WEEKDAY,9,Serangoon,Outram Park,1607
+WEEKDAY,20,Kovan,Sengkang,1605
+WEEKDAY,13,Sengkang,Serangoon,1605
+WEEKDAY,17,Hougang,Serangoon,1605
+WEEKDAY,19,Dhoby Ghaut,Farrer Park,1604
+WEEKDAY,8,Boon Keng,HarbourFront,1603
+WEEKDAY,17,Farrer Park,Sengkang,1603
+WEEKDAY,18,Clarke Quay,Farrer Park,1601
+WEEKDAY,12,Farrer Park,Little India,1601
+WEEKDAY,20,Farrer Park,Hougang,1599
+WEEKDAY,9,Punggol,Chinatown,1595
+WEEKDAY,8,Hougang,Punggol,1595
+WEEKDAY,16,Dhoby Ghaut,Serangoon,1595
+WEEKDAY,19,Kovan,Hougang,1595
+WEEKDAY,18,HarbourFront,Dhoby Ghaut,1594
+WEEKDAY,6,Sengkang,Boon Keng,1594
+WEEKDAY,12,Boon Keng,Serangoon,1594
+WEEKDAY,17,Little India,Punggol,1593
+WEEKDAY,19,Potong Pasir,Serangoon,1592
+WEEKDAY,7,Hougang,Serangoon,1591
+WEEKDAY,7,Sengkang,Farrer Park,1591
+WEEKDAY,18,Clarke Quay,Buangkok,1590
+WEEKDAY,15,Farrer Park,Boon Keng,1590
+WEEKDAY,20,Dhoby Ghaut,Kovan,1589
+WEEKDAY,7,Boon Keng,Hougang,1588
+WEEKDAY,6,Hougang,Potong Pasir,1585
+WEEKDAY,8,Boon Keng,Serangoon,1583
+WEEKDAY,10,Sengkang,Chinatown,1582
+WEEKDAY,18,Hougang,Kovan,1581
+WEEKDAY,17,Sengkang,Buangkok,1580
+WEEKDAY,18,Buangkok,Sengkang,1578
+WEEKDAY,15,Sengkang,Serangoon,1575
+WEEKDAY,6,Punggol,Boon Keng,1573
+WEEKDAY,17,Sengkang,Kovan,1570
+WEEKDAY,17,Chinatown,Boon Keng,1570
+WEEKDAY,17,HarbourFront,Punggol,1567
+WEEKDAY,6,Buangkok,Hougang,1567
+WEEKDAY,6,Punggol,Kovan,1566
+WEEKDAY,18,HarbourFront,Kovan,1565
+WEEKDAY,13,Hougang,Serangoon,1555
+WEEKDAY,18,Outram Park,Chinatown,1554
+WEEKDAY,17,Dhoby Ghaut,Kovan,1554
+WEEKDAY,9,Serangoon,Boon Keng,1553
+WEEKDAY,8,Punggol,Serangoon,1551
+WEEKDAY,19,Potong Pasir,Sengkang,1549
+WEEKDAY,21,Dhoby Ghaut,Kovan,1548
+WEEKDAY,20,Serangoon,Buangkok,1547
+WEEKDAY,8,Punggol,Farrer Park,1547
+WEEKDAY,18,HarbourFront,Little India,1543
+WEEKDAY,17,Serangoon,Farrer Park,1543
+WEEKDAY,19,Dhoby Ghaut,Kovan,1542
+WEEKDAY,21,Dhoby Ghaut,Buangkok,1540
+WEEKDAY,14,Serangoon,Hougang,1540
+WEEKDAY,16,Sengkang,Buangkok,1539
+WEEKDAY,18,Clarke Quay,Dhoby Ghaut,1538
+WEEKDAY,6,Sengkang,HarbourFront,1536
+WEEKDAY,7,Little India,Outram Park,1535
+WEEKDAY,21,Hougang,Sengkang,1535
+WEEKDAY,16,Farrer Park,Boon Keng,1534
+WEEKDAY,12,Sengkang,Hougang,1534
+WEEKDAY,17,Chinatown,Farrer Park,1533
+WEEKDAY,12,Hougang,Serangoon,1533
+WEEKDAY,11,Sengkang,Serangoon,1532
+WEEKDAY,9,Serangoon,Farrer Park,1532
+WEEKDAY,7,Hougang,Woodleigh,1531
+WEEKDAY,17,Outram Park,Farrer Park,1530
+WEEKDAY,19,Kovan,Punggol,1529
+WEEKDAY,10,Boon Keng,Little India,1529
+WEEKDAY,13,Kovan,Serangoon,1527
+WEEKDAY,18,Potong Pasir,Farrer Park,1527
+WEEKDAY,17,Farrer Park,Serangoon,1526
+WEEKDAY,15,Hougang,Serangoon,1524
+WEEKDAY,13,Punggol,Hougang,1523
+WEEKDAY,17,Clarke Quay,Punggol,1521
+WEEKDAY,21,Farrer Park,Sengkang,1521
+WEEKDAY,17,Buangkok,Sengkang,1519
+WEEKDAY,13,Boon Keng,Little India,1518
+WEEKDAY,17,Outram Park,Chinatown,1517
+WEEKDAY,20,Boon Keng,Serangoon,1516
+WEEKDAY,13,HarbourFront,Outram Park,1513
+WEEKDAY,14,Sengkang,Buangkok,1512
+WEEKDAY,14,Potong Pasir,Serangoon,1511
+WEEKDAY,20,Dhoby Ghaut,Buangkok,1510
+WEEKDAY,20,Boon Keng,Sengkang,1510
+WEEKDAY,20,Little India,Sengkang,1510
+WEEKDAY,19,Farrer Park,Hougang,1508
+WEEKDAY,10,Sengkang,Kovan,1506
+WEEKDAY,9,Hougang,Punggol,1504
+WEEKDAY,11,Hougang,Chinatown,1503
+WEEKDAY,17,HarbourFront,Serangoon,1502
+WEEKDAY,15,Serangoon,Hougang,1502
+WEEKDAY,12,Buangkok,Sengkang,1499
+WEEKDAY,21,Kovan,Sengkang,1496
+WEEKDAY,14,Hougang,Serangoon,1496
+WEEKDAY,16,Dhoby Ghaut,Hougang,1494
+WEEKDAY,8,Buangkok,HarbourFront,1494
+WEEKDAY,7,Buangkok,Serangoon,1488
+WEEKDAY,8,Sengkang,Woodleigh,1486
+WEEKDAY,21,Chinatown,Serangoon,1485
+WEEKDAY,18,Dhoby Ghaut,Buangkok,1484
+WEEKDAY,8,Dhoby Ghaut,Outram Park,1480
+WEEKDAY,11,Boon Keng,Chinatown,1480
+WEEKDAY,17,Kovan,Hougang,1478
+WEEKDAY,20,Little India,Hougang,1477
+WEEKDAY,9,Boon Keng,Little India,1477
+WEEKDAY,22,Dhoby Ghaut,Serangoon,1476
+WEEKDAY,8,Hougang,Kovan,1475
+WEEKDAY,9,Sengkang,Dhoby Ghaut,1474
+WEEKDAY,13,Sengkang,Buangkok,1474
+WEEKDAY,9,Sengkang,Clarke Quay,1474
+WEEKDAY,19,Little India,Punggol,1474
+WEEKDAY,7,Serangoon,Clarke Quay,1472
+WEEKDAY,7,Kovan,Potong Pasir,1472
+WEEKDAY,16,Sengkang,Kovan,1470
+WEEKDAY,11,Hougang,Sengkang,1469
+WEEKDAY,17,Boon Keng,Kovan,1469
+WEEKDAY,19,Farrer Park,Sengkang,1468
+WEEKDAY,20,Farrer Park,Sengkang,1468
+WEEKDAY,19,HarbourFront,Serangoon,1466
+WEEKDAY,18,Buangkok,Punggol,1466
+WEEKDAY,19,Serangoon,Boon Keng,1465
+WEEKDAY,19,HarbourFront,Punggol,1464
+WEEKDAY,17,Kovan,Serangoon,1460
+WEEKDAY,14,Kovan,Punggol,1458
+WEEKDAY,17,Clarke Quay,Serangoon,1457
+WEEKDAY,11,Hougang,Serangoon,1457
+WEEKDAY,12,Little India,Boon Keng,1456
+WEEKDAY,7,Boon Keng,Little India,1456
+WEEKDAY,20,Chinatown,Boon Keng,1454
+WEEKDAY,9,Sengkang,Farrer Park,1449
+WEEKDAY,20,Dhoby Ghaut,Farrer Park,1444
+WEEKDAY,11,Serangoon,Chinatown,1444
+WEEKDAY,10,Hougang,Punggol,1437
+WEEKDAY,15,Serangoon,Kovan,1436
+WEEKDAY,17,Outram Park,Kovan,1436
+WEEKDAY,8,Kovan,Little India,1435
+WEEKDAY,8,Boon Keng,Farrer Park,1435
+WEEKDAY,9,Boon Keng,Clarke Quay,1435
+WEEKDAY,15,Serangoon,Potong Pasir,1435
+WEEKDAY,17,Outram Park,Dhoby Ghaut,1433
+WEEKDAY,19,Dhoby Ghaut,Buangkok,1430
+WEEKDAY,13,Outram Park,Chinatown,1429
+WEEKDAY,10,Hougang,Farrer Park,1428
+WEEKDAY,20,Sengkang,Buangkok,1427
+WEEKDAY,13,Serangoon,Kovan,1427
+WEEKDAY,10,Hougang,Serangoon,1427
+WEEKDAY,14,Serangoon,Kovan,1427
+WEEKDAY,15,Kovan,Punggol,1427
+WEEKDAY,20,HarbourFront,Sengkang,1426
+WEEKDAY,16,Serangoon,Kovan,1426
+WEEKDAY,9,Punggol,Kovan,1426
+WEEKDAY,18,Hougang,Farrer Park,1425
+WEEKDAY,7,Kovan,HarbourFront,1423
+WEEKDAY,12,Boon Keng,Little India,1422
+WEEKDAY,16,Sengkang,Serangoon,1417
+WEEKDAY,7,Hougang,Kovan,1416
+WEEKDAY,10,Kovan,Sengkang,1416
+WEEKDAY,19,Outram Park,Hougang,1415
+WEEKDAY,17,Serangoon,Buangkok,1413
+WEEKDAY,14,Sengkang,Kovan,1412
+WEEKDAY,8,Little India,Outram Park,1411
+WEEKDAY,17,Punggol,Serangoon,1410
+WEEKDAY,17,Serangoon,Potong Pasir,1410
+WEEKDAY,19,Serangoon,Potong Pasir,1409
+WEEKDAY,16,Chinatown,Sengkang,1408
+WEEKDAY,18,Chinatown,Little India,1404
+WEEKDAY,17,Dhoby Ghaut,Farrer Park,1404
+WEEKDAY,18,Little India,Farrer Park,1404
+WEEKDAY,16,Boon Keng,Serangoon,1403
+WEEKDAY,18,Dhoby Ghaut,Chinatown,1401
+WEEKDAY,19,Kovan,Serangoon,1401
+WEEKDAY,12,Punggol,Hougang,1399
+WEEKDAY,21,Sengkang,Hougang,1399
+WEEKDAY,10,Hougang,Dhoby Ghaut,1398
+WEEKDAY,20,Boon Keng,Hougang,1397
+WEEKDAY,13,Farrer Park,Potong Pasir,1395
+WEEKDAY,11,Boon Keng,Little India,1393
+WEEKDAY,13,Chinatown,Little India,1393
+WEEKDAY,11,Kovan,Serangoon,1390
+WEEKDAY,19,Sengkang,Serangoon,1390
+WEEKDAY,21,Serangoon,Buangkok,1390
+WEEKDAY,9,Hougang,Boon Keng,1389
+WEEKDAY,15,Chinatown,Serangoon,1388
+WEEKDAY,15,Boon Keng,Serangoon,1387
+WEEKDAY,7,Kovan,Chinatown,1386
+WEEKDAY,16,Chinatown,Hougang,1383
+WEEKDAY,21,Chinatown,Hougang,1379
+WEEKDAY,12,Boon Keng,Chinatown,1379
+WEEKDAY,19,Potong Pasir,Hougang,1378
+WEEKDAY,22,Punggol,Hougang,1377
+WEEKDAY,10,Hougang,Sengkang,1377
+WEEKDAY,16,Little India,Sengkang,1376
+WEEKDAY,15,Chinatown,Sengkang,1376
+WEEKDAY,9,Sengkang,Serangoon,1376
+WEEKDAY,19,Hougang,Buangkok,1375
+WEEKDAY,19,Boon Keng,Buangkok,1374
+WEEKDAY,14,Buangkok,Sengkang,1373
+WEEKDAY,9,Kovan,Chinatown,1372
+WEEKDAY,9,Serangoon,Dhoby Ghaut,1370
+WEEKDAY,7,Buangkok,Sengkang,1369
+WEEKDAY,20,Chinatown,Farrer Park,1368
+WEEKDAY,14,Kovan,Serangoon,1365
+WEEKDAY,9,Hougang,Outram Park,1361
+WEEKDAY,13,Boon Keng,Serangoon,1359
+WEEKDAY,19,HarbourFront,Chinatown,1358
+WEEKDAY,16,Potong Pasir,Serangoon,1355
+WEEKDAY,11,Little India,Farrer Park,1355
+WEEKDAY,22,Farrer Park,Hougang,1354
+WEEKDAY,18,Hougang,Boon Keng,1352
+WEEKDAY,16,Boon Keng,Sengkang,1351
+WEEKDAY,11,Boon Keng,Serangoon,1349
+WEEKDAY,7,Buangkok,HarbourFront,1348
+WEEKDAY,17,Punggol,Buangkok,1347
+WEEKDAY,9,Sengkang,Hougang,1347
+WEEKDAY,7,Kovan,Woodleigh,1347
+WEEKDAY,20,Serangoon,Kovan,1347
+WEEKDAY,6,Sengkang,Kovan,1346
+WEEKDAY,19,Chinatown,Kovan,1346
+WEEKDAY,15,Sengkang,Kovan,1346
+WEEKDAY,22,Serangoon,Sengkang,1345
+WEEKDAY,9,Serangoon,Little India,1338
+WEEKDAY,7,Farrer Park,Serangoon,1338
+WEEKDAY,18,Punggol,Buangkok,1336
+WEEKDAY,17,Outram Park,Little India,1335
+WEEKDAY,8,Kovan,Boon Keng,1335
+WEEKDAY,17,Chinatown,Kovan,1335
+WEEKDAY,8,Hougang,Serangoon,1333
+WEEKDAY,18,Clarke Quay,Boon Keng,1333
+WEEKDAY,8,Potong Pasir,Little India,1332
+WEEKDAY,18,Woodleigh,Punggol,1329
+WEEKDAY,15,Hougang,Kovan,1327
+WEEKDAY,6,Punggol,Outram Park,1325
+WEEKDAY,19,Boon Keng,Kovan,1325
+WEEKDAY,13,Serangoon,Punggol,1325
+WEEKDAY,13,Potong Pasir,Boon Keng,1323
+WEEKDAY,18,Dhoby Ghaut,Potong Pasir,1321
+WEEKDAY,22,Sengkang,Punggol,1321
+WEEKDAY,6,Hougang,Sengkang,1321
+WEEKDAY,10,Serangoon,Farrer Park,1320
+WEEKDAY,20,Serangoon,Boon Keng,1319
+WEEKDAY,12,Kovan,Hougang,1317
+WEEKDAY,18,Little India,Chinatown,1317
+WEEKDAY,7,Punggol,Farrer Park,1316
+WEEKDAY,17,Boon Keng,Buangkok,1316
+WEEKDAY,8,Dhoby Ghaut,Chinatown,1315
+WEEKDAY,10,Sengkang,Serangoon,1311
+WEEKDAY,15,Potong Pasir,Serangoon,1310
+WEEKDAY,21,Farrer Park,Potong Pasir,1308
+WEEKDAY,16,Serangoon,Boon Keng,1304
+WEEKDAY,16,Dhoby Ghaut,Farrer Park,1304
+WEEKDAY,9,Punggol,Clarke Quay,1303
+WEEKDAY,7,Buangkok,Chinatown,1303
+WEEKDAY,18,Punggol,Kovan,1303
+WEEKDAY,18,Potong Pasir,Buangkok,1302
+WEEKDAY,11,Kovan,Punggol,1301
+WEEKDAY,17,Outram Park,Boon Keng,1301
+WEEKDAY,21,Chinatown,Sengkang,1300
+WEEKDAY,20,Boon Keng,Farrer Park,1299
+WEEKDAY,6,Hougang,Punggol,1298
+WEEKDAY,20,Clarke Quay,Serangoon,1297
+WEEKDAY,13,Buangkok,Punggol,1296
+WEEKDAY,10,Punggol,Chinatown,1296
+WEEKDAY,19,Buangkok,Sengkang,1292
+WEEKDAY,18,Potong Pasir,Kovan,1292
+WEEKDAY,18,Boon Keng,Dhoby Ghaut,1292
+WEEKDAY,9,Punggol,Little India,1285
+WEEKDAY,16,Kovan,Hougang,1285
+WEEKDAY,15,Kovan,Hougang,1284
+WEEKDAY,8,Potong Pasir,Clarke Quay,1283
+WEEKDAY,8,Hougang,Woodleigh,1283
+WEEKDAY,13,Little India,Farrer Park,1281
+WEEKDAY,20,Sengkang,Hougang,1280
+WEEKDAY,20,Little India,Serangoon,1279
+WEEKDAY,20,Clarke Quay,Hougang,1279
+WEEKDAY,8,Kovan,Dhoby Ghaut,1277
+WEEKDAY,16,Kovan,Serangoon,1276
+WEEKDAY,19,Punggol,Buangkok,1275
+WEEKDAY,6,Serangoon,HarbourFront,1274
+WEEKDAY,13,Boon Keng,Chinatown,1273
+WEEKDAY,13,Serangoon,Potong Pasir,1272
+WEEKDAY,15,Dhoby Ghaut,Sengkang,1272
+WEEKDAY,9,Kovan,Sengkang,1271
+WEEKDAY,18,Kovan,Buangkok,1271
+WEEKDAY,18,Farrer Park,Punggol,1271
+WEEKDAY,11,Sengkang,Hougang,1271
+WEEKDAY,7,Farrer Park,Boon Keng,1269
+WEEKDAY,12,HarbourFront,Chinatown,1268
+WEEKDAY,11,Sengkang,Chinatown,1267
+WEEKDAY,12,Punggol,Serangoon,1266
+WEEKDAY,15,Buangkok,Sengkang,1265
+WEEKDAY,11,Sengkang,Kovan,1261
+WEEKDAY,8,Punggol,Woodleigh,1260
+WEEKDAY,21,Little India,Sengkang,1259
+WEEKDAY,8,Buangkok,Dhoby Ghaut,1258
+WEEKDAY,15,Kovan,Serangoon,1258
+WEEKDAY,13,Dhoby Ghaut,Clarke Quay,1255
+WEEKDAY,14,Chinatown,Outram Park,1254
+WEEKDAY,16,Kovan,Punggol,1254
+WEEKDAY,20,Kovan,Punggol,1253
+WEEKDAY,7,Kovan,Little India,1251
+WEEKDAY,12,Serangoon,Sengkang,1251
+WEEKDAY,17,Dhoby Ghaut,Boon Keng,1250
+WEEKDAY,11,Buangkok,Sengkang,1248
+WEEKDAY,13,Punggol,Serangoon,1248
+WEEKDAY,6,Hougang,Dhoby Ghaut,1247
+WEEKDAY,8,Hougang,Sengkang,1247
+WEEKDAY,17,Little India,Buangkok,1245
+WEEKDAY,6,Serangoon,Boon Keng,1245
+WEEKDAY,8,Farrer Park,Outram Park,1244
+WEEKDAY,16,Hougang,Serangoon,1244
+WEEKDAY,10,Hougang,Little India,1243
+WEEKDAY,17,Little India,Kovan,1242
+WEEKDAY,11,Little India,Chinatown,1242
+WEEKDAY,7,Buangkok,Kovan,1241
+WEEKDAY,15,Serangoon,Boon Keng,1241
+WEEKDAY,13,Potong Pasir,Serangoon,1239
+WEEKDAY,16,Potong Pasir,Sengkang,1239
+WEEKDAY,14,Serangoon,Boon Keng,1235
+WEEKDAY,7,Serangoon,Farrer Park,1234
+WEEKDAY,8,Little India,Chinatown,1234
+WEEKDAY,12,Sengkang,Kovan,1231
+WEEKDAY,19,Clarke Quay,Farrer Park,1229
+WEEKDAY,20,Clarke Quay,Sengkang,1228
+WEEKDAY,18,Kovan,Farrer Park,1228
+WEEKDAY,9,Boon Keng,Outram Park,1228
+WEEKDAY,21,Hougang,Punggol,1227
+WEEKDAY,19,Hougang,Kovan,1227
+WEEKDAY,6,Punggol,HarbourFront,1226
+WEEKDAY,21,Clarke Quay,Hougang,1225
+WEEKDAY,15,Dhoby Ghaut,Serangoon,1223
+WEEKDAY,20,Punggol,Buangkok,1223
+WEEKDAY,9,Punggol,Boon Keng,1220
+WEEKDAY,10,Hougang,Kovan,1220
+WEEKDAY,12,Sengkang,Buangkok,1219
+WEEKDAY,18,Serangoon,Little India,1219
+WEEKDAY,13,Kovan,Hougang,1219
+WEEKDAY,9,Punggol,Hougang,1218
+WEEKDAY,14,Potong Pasir,Boon Keng,1217
+WEEKDAY,14,Kovan,Hougang,1217
+WEEKDAY,7,Boon Keng,Chinatown,1215
+WEEKDAY,19,Clarke Quay,Kovan,1214
+WEEKDAY,13,Sengkang,Kovan,1212
+WEEKDAY,16,Buangkok,Sengkang,1211
+WEEKDAY,18,Boon Keng,Chinatown,1211
+WEEKDAY,11,Punggol,Serangoon,1210
+WEEKDAY,13,Serangoon,Boon Keng,1208
+WEEKDAY,16,Outram Park,Sengkang,1208
+WEEKDAY,20,Farrer Park,Potong Pasir,1206
+WEEKDAY,17,Outram Park,Buangkok,1206
+WEEKDAY,10,Sengkang,Hougang,1206
+WEEKDAY,22,Farrer Park,Serangoon,1206
+WEEKDAY,12,Chinatown,Little India,1205
+WEEKDAY,13,Dhoby Ghaut,Chinatown,1203
+WEEKDAY,18,Woodleigh,Hougang,1203
+WEEKDAY,10,Kovan,Punggol,1201
+WEEKDAY,18,Farrer Park,Dhoby Ghaut,1200
+WEEKDAY,17,Hougang,Kovan,1200
+WEEKDAY,20,Serangoon,Potong Pasir,1200
+WEEKDAY,14,Serangoon,Potong Pasir,1200
+WEEKDAY,9,Hougang,Potong Pasir,1198
+WEEKDAY,11,Potong Pasir,Serangoon,1198
+WEEKDAY,16,HarbourFront,Chinatown,1197
+WEEKDAY,9,Hougang,Serangoon,1194
+WEEKDAY,9,Sengkang,Outram Park,1194
+WEEKDAY,21,Punggol,Buangkok,1193
+WEEKDAY,19,Buangkok,Punggol,1193
+WEEKDAY,14,Chinatown,Serangoon,1192
+WEEKDAY,14,Boon Keng,Serangoon,1191
+WEEKDAY,14,Hougang,Kovan,1191
+WEEKDAY,8,Kovan,HarbourFront,1190
+WEEKDAY,7,Farrer Park,Outram Park,1190
+WEEKDAY,9,Hougang,Kovan,1189
+WEEKDAY,12,Serangoon,Chinatown,1188
+WEEKDAY,19,Chinatown,Dhoby Ghaut,1187
+WEEKDAY,10,Buangkok,Sengkang,1187
+WEEKDAY,14,Farrer Park,Little India,1186
+WEEKDAY,7,Kovan,Boon Keng,1184
+WEEKDAY,12,Kovan,Punggol,1183
+WEEKDAY,18,Little India,Dhoby Ghaut,1183
+WEEKDAY,17,Dhoby Ghaut,Chinatown,1182
+WEEKDAY,10,Sengkang,Little India,1182
+WEEKDAY,16,Punggol,Buangkok,1179
+WEEKDAY,15,Dhoby Ghaut,Farrer Park,1179
+WEEKDAY,6,Boon Keng,Serangoon,1175
+WEEKDAY,17,Buangkok,Punggol,1175
+WEEKDAY,13,Little India,Chinatown,1173
+WEEKDAY,7,Potong Pasir,Outram Park,1173
+WEEKDAY,19,HarbourFront,Farrer Park,1171
+WEEKDAY,6,Serangoon,Outram Park,1170
+WEEKDAY,16,Dhoby Ghaut,Punggol,1170
+WEEKDAY,21,Little India,Hougang,1169
+WEEKDAY,16,Serangoon,Potong Pasir,1168
+WEEKDAY,17,Hougang,Buangkok,1166
+WEEKDAY,21,Dhoby Ghaut,Farrer Park,1166
+WEEKDAY,16,Chinatown,Boon Keng,1166
+WEEKDAY,8,Buangkok,Farrer Park,1165
+WEEKDAY,13,Serangoon,Chinatown,1165
+WEEKDAY,18,Farrer Park,Kovan,1164
+WEEKDAY,13,Kovan,Punggol,1162
+WEEKDAY,7,Farrer Park,HarbourFront,1162
+WEEKDAY,17,Potong Pasir,Farrer Park,1159
+WEEKDAY,20,Kovan,Hougang,1159
+WEEKDAY,10,Punggol,Kovan,1158
+WEEKDAY,12,Potong Pasir,Serangoon,1157
+WEEKDAY,9,Punggol,Serangoon,1155
+WEEKDAY,21,Chinatown,Boon Keng,1155
+WEEKDAY,8,Kovan,Potong Pasir,1154
+WEEKDAY,18,Chinatown,Potong Pasir,1154
+WEEKDAY,16,Outram Park,Serangoon,1153
+WEEKDAY,17,Woodleigh,Sengkang,1153
+WEEKDAY,18,Little India,Boon Keng,1151
+WEEKDAY,21,Kovan,Hougang,1149
+WEEKDAY,19,Kovan,Buangkok,1149
+WEEKDAY,17,Little India,Farrer Park,1147
+WEEKDAY,12,Serangoon,Kovan,1147
+WEEKDAY,12,Clarke Quay,Dhoby Ghaut,1144
+WEEKDAY,10,Kovan,Hougang,1144
+WEEKDAY,19,Punggol,Serangoon,1144
+WEEKDAY,20,Chinatown,Kovan,1144
+WEEKDAY,16,Farrer Park,Serangoon,1143
+WEEKDAY,9,Hougang,Sengkang,1142
+WEEKDAY,10,Punggol,Hougang,1141
+WEEKDAY,18,Boon Keng,Little India,1140
+WEEKDAY,11,Farrer Park,Boon Keng,1140
+WEEKDAY,7,Kovan,Dhoby Ghaut,1140
+WEEKDAY,21,Little India,Serangoon,1139
+WEEKDAY,20,Dhoby Ghaut,Potong Pasir,1139
+WEEKDAY,11,Punggol,Hougang,1137
+WEEKDAY,18,Boon Keng,Potong Pasir,1137
+WEEKDAY,7,Buangkok,Dhoby Ghaut,1136
+WEEKDAY,19,Little India,Buangkok,1133
+WEEKDAY,19,Little India,Kovan,1133
+WEEKDAY,9,Punggol,Dhoby Ghaut,1132
+WEEKDAY,14,Little India,Farrer Park,1131
+WEEKDAY,20,Chinatown,Punggol,1131
+WEEKDAY,9,Sengkang,Potong Pasir,1130
+WEEKDAY,17,Punggol,Kovan,1129
+WEEKDAY,13,Chinatown,Dhoby Ghaut,1129
+WEEKDAY,11,Kovan,Hougang,1128
+WEEKDAY,6,Boon Keng,Hougang,1128
+WEEKDAY,10,Kovan,Chinatown,1128
+WEEKDAY,7,Boon Keng,Potong Pasir,1127
+WEEKDAY,7,Buangkok,Woodleigh,1127
+WEEKDAY,14,Dhoby Ghaut,Chinatown,1125
+WEEKDAY,11,Farrer Park,Little India,1121
+WEEKDAY,8,Farrer Park,Boon Keng,1121
+WEEKDAY,8,Boon Keng,Dhoby Ghaut,1120
+WEEKDAY,12,Hougang,Chinatown,1118
+WEEKDAY,18,Potong Pasir,Boon Keng,1118
+WEEKDAY,12,Dhoby Ghaut,Little India,1116
+WEEKDAY,17,Farrer Park,Punggol,1116
+WEEKDAY,7,Buangkok,Clarke Quay,1115
+WEEKDAY,11,Hougang,Little India,1115
+WEEKDAY,17,Dhoby Ghaut,Buangkok,1114
+WEEKDAY,14,Dhoby Ghaut,Farrer Park,1113
+WEEKDAY,19,Clarke Quay,Buangkok,1113
+WEEKDAY,6,Buangkok,Serangoon,1112
+WEEKDAY,18,Farrer Park,Chinatown,1112
+WEEKDAY,13,Boon Keng,Potong Pasir,1111
+WEEKDAY,16,Hougang,Kovan,1110
+WEEKDAY,6,Buangkok,Kovan,1110
+WEEKDAY,19,Dhoby Ghaut,Potong Pasir,1109
+WEEKDAY,19,Chinatown,Little India,1109
+WEEKDAY,15,Outram Park,Chinatown,1108
+WEEKDAY,6,Boon Keng,HarbourFront,1108
+WEEKDAY,15,Chinatown,Farrer Park,1107
+WEEKDAY,13,Chinatown,Serangoon,1106
+WEEKDAY,14,Outram Park,Chinatown,1106
+WEEKDAY,19,Sengkang,Kovan,1105
+WEEKDAY,13,Farrer Park,Chinatown,1105
+WEEKDAY,8,Kovan,Farrer Park,1104
+WEEKDAY,10,Punggol,Serangoon,1104
+WEEKDAY,13,Serangoon,Hougang,1102
+WEEKDAY,15,Punggol,Buangkok,1101
+WEEKDAY,11,Little India,Dhoby Ghaut,1099
+WEEKDAY,19,Outram Park,Punggol,1099
+WEEKDAY,6,Sengkang,Little India,1099
+WEEKDAY,8,Dhoby Ghaut,Clarke Quay,1098
+WEEKDAY,21,Farrer Park,Kovan,1097
+WEEKDAY,22,Serangoon,Hougang,1096
+WEEKDAY,9,Little India,Chinatown,1095
+WEEKDAY,12,Hougang,Kovan,1095
+WEEKDAY,17,HarbourFront,Little India,1095
+WEEKDAY,20,HarbourFront,Hougang,1095
+WEEKDAY,17,Farrer Park,Kovan,1094
+WEEKDAY,15,Kovan,Buangkok,1093
+WEEKDAY,6,Buangkok,Potong Pasir,1092
+WEEKDAY,7,Boon Keng,Sengkang,1091
+WEEKDAY,14,Boon Keng,Chinatown,1091
+WEEKDAY,16,Punggol,Serangoon,1089
+WEEKDAY,10,Boon Keng,Serangoon,1089
+WEEKDAY,21,Clarke Quay,Serangoon,1089
+WEEKDAY,6,Hougang,Chinatown,1088
+WEEKDAY,19,HarbourFront,Little India,1088
+WEEKDAY,17,HarbourFront,Farrer Park,1087
+WEEKDAY,8,Potong Pasir,Outram Park,1086
+WEEKDAY,19,Hougang,Farrer Park,1086
+WEEKDAY,20,Little India,Punggol,1086
+WEEKDAY,11,Hougang,Dhoby Ghaut,1084
+WEEKDAY,17,Chinatown,Little India,1084
+WEEKDAY,21,Kovan,Punggol,1084
+WEEKDAY,6,Buangkok,Sengkang,1081
+WEEKDAY,10,Sengkang,Dhoby Ghaut,1080
+WEEKDAY,19,Farrer Park,Potong Pasir,1079
+WEEKDAY,22,Farrer Park,Sengkang,1079
+WEEKDAY,17,Woodleigh,Punggol,1078
+WEEKDAY,18,Serangoon,Dhoby Ghaut,1077
+WEEKDAY,18,Serangoon,Chinatown,1077
+WEEKDAY,9,Boon Keng,Serangoon,1076
+WEEKDAY,7,Kovan,Hougang,1076
+WEEKDAY,12,Boon Keng,Dhoby Ghaut,1075
+WEEKDAY,12,Chinatown,Dhoby Ghaut,1075
+WEEKDAY,16,Outram Park,Chinatown,1071
+WEEKDAY,21,Sengkang,Buangkok,1070
+WEEKDAY,19,Potong Pasir,Farrer Park,1070
+WEEKDAY,13,Chinatown,Farrer Park,1070
+WEEKDAY,11,Hougang,Kovan,1069
+WEEKDAY,18,Farrer Park,Potong Pasir,1069
+WEEKDAY,21,Farrer Park,Punggol,1067
+WEEKDAY,11,Sengkang,Dhoby Ghaut,1067
+WEEKDAY,15,Boon Keng,Sengkang,1065
+WEEKDAY,19,Potong Pasir,Punggol,1065
+WEEKDAY,6,Punggol,Woodleigh,1065
+WEEKDAY,7,Punggol,Buangkok,1065
+WEEKDAY,15,Dhoby Ghaut,Hougang,1065
+WEEKDAY,17,Farrer Park,Potong Pasir,1063
+WEEKDAY,17,Little India,Chinatown,1063
+WEEKDAY,16,Chinatown,Farrer Park,1063
+WEEKDAY,20,Farrer Park,Punggol,1063
+WEEKDAY,6,Sengkang,Woodleigh,1063
+WEEKDAY,15,Chinatown,Boon Keng,1062
+WEEKDAY,8,Serangoon,Woodleigh,1062
+WEEKDAY,10,Outram Park,Chinatown,1061
+WEEKDAY,22,Dhoby Ghaut,Kovan,1061
+WEEKDAY,8,Buangkok,Serangoon,1061
+WEEKDAY,8,Little India,HarbourFront,1060
+WEEKDAY,15,Hougang,Buangkok,1059
+WEEKDAY,18,Farrer Park,Little India,1059
+WEEKDAY,11,Serangoon,Farrer Park,1057
+WEEKDAY,14,Dhoby Ghaut,Serangoon,1057
+WEEKDAY,15,Little India,Sengkang,1056
+WEEKDAY,16,Little India,Hougang,1055
+WEEKDAY,17,Potong Pasir,Boon Keng,1055
+WEEKDAY,22,Dhoby Ghaut,Punggol,1054
+WEEKDAY,17,Potong Pasir,Kovan,1054
+WEEKDAY,9,Potong Pasir,Chinatown,1054
+WEEKDAY,8,Dhoby Ghaut,HarbourFront,1054
+WEEKDAY,13,Little India,Dhoby Ghaut,1052
+WEEKDAY,10,Little India,Chinatown,1051
+WEEKDAY,17,HarbourFront,Boon Keng,1050
+WEEKDAY,8,Potong Pasir,Dhoby Ghaut,1049
+WEEKDAY,19,Farrer Park,Punggol,1049
+WEEKDAY,19,Chinatown,Buangkok,1048
+WEEKDAY,16,Serangoon,Buangkok,1048
+WEEKDAY,18,Little India,Potong Pasir,1047
+WEEKDAY,8,Kovan,Woodleigh,1045
+WEEKDAY,11,Serangoon,Dhoby Ghaut,1044
+WEEKDAY,15,Punggol,Serangoon,1044
+WEEKDAY,11,Punggol,Chinatown,1042
+WEEKDAY,20,HarbourFront,Chinatown,1042
+WEEKDAY,16,Chinatown,Punggol,1041
+WEEKDAY,12,Dhoby Ghaut,Chinatown,1040
+WEEKDAY,22,Clarke Quay,Hougang,1040
+WEEKDAY,12,Buangkok,Punggol,1039
+WEEKDAY,9,Hougang,HarbourFront,1038
+WEEKDAY,9,Kovan,Punggol,1037
+WEEKDAY,14,Chinatown,Sengkang,1035
+WEEKDAY,15,Farrer Park,Serangoon,1035
+WEEKDAY,15,Little India,Farrer Park,1035
+WEEKDAY,12,Outram Park,Dhoby Ghaut,1035
+WEEKDAY,17,Farrer Park,Little India,1034
+WEEKDAY,18,Dhoby Ghaut,Little India,1033
+WEEKDAY,9,Kovan,Clarke Quay,1033
+WEEKDAY,17,Potong Pasir,Buangkok,1031
+WEEKDAY,13,Hougang,Kovan,1031
+WEEKDAY,11,Boon Keng,Dhoby Ghaut,1029
+WEEKDAY,21,Chinatown,Farrer Park,1028
+WEEKDAY,7,Boon Keng,Kovan,1027
+WEEKDAY,7,Serangoon,Sengkang,1026
+WEEKDAY,15,Chinatown,Hougang,1026
+WEEKDAY,14,Punggol,Serangoon,1025
+WEEKDAY,8,Farrer Park,Chinatown,1024
+WEEKDAY,10,Kovan,Serangoon,1024
+WEEKDAY,15,HarbourFront,Chinatown,1023
+WEEKDAY,18,Kovan,Boon Keng,1022
+WEEKDAY,9,Potong Pasir,Boon Keng,1022
+WEEKDAY,16,Outram Park,Hougang,1020
+WEEKDAY,17,Kovan,Buangkok,1020
+WEEKDAY,17,Chinatown,Dhoby Ghaut,1018
+WEEKDAY,13,Serangoon,Farrer Park,1018
+WEEKDAY,7,Little India,HarbourFront,1018
+WEEKDAY,12,Serangoon,Boon Keng,1017
+WEEKDAY,9,Buangkok,Little India,1016
+WEEKDAY,8,Potong Pasir,Chinatown,1016
+WEEKDAY,20,Boon Keng,Punggol,1016
+WEEKDAY,13,Punggol,Buangkok,1015
+WEEKDAY,10,Serangoon,Little India,1013
+WEEKDAY,10,Sengkang,Farrer Park,1013
+WEEKDAY,11,Sengkang,Little India,1012
+WEEKDAY,6,Buangkok,Outram Park,1012
+WEEKDAY,21,Serangoon,Kovan,1012
+WEEKDAY,18,Chinatown,HarbourFront,1011
+WEEKDAY,16,Buangkok,Punggol,1010
+WEEKDAY,6,Kovan,Outram Park,1010
+WEEKDAY,13,Dhoby Ghaut,Farrer Park,1010
+WEEKDAY,19,Outram Park,Farrer Park,1009
+WEEKDAY,12,Serangoon,Punggol,1007
+WEEKDAY,7,Kovan,Sengkang,1006
+WEEKDAY,11,Punggol,Kovan,1006
+WEEKDAY,11,Hougang,Farrer Park,1005
+WEEKDAY,19,Little India,Farrer Park,1005
+WEEKDAY,6,Hougang,Little India,1005
+WEEKDAY,12,Farrer Park,Chinatown,1003
+WEEKDAY,10,Serangoon,Dhoby Ghaut,1003
+WEEKDAY,17,Hougang,Farrer Park,1003
+WEEKDAY,17,Boon Keng,Chinatown,1000
+WEEKDAY,22,Farrer Park,Boon Keng,1000
+WEEKDAY,8,Farrer Park,Serangoon,1000
+WEEKDAY,13,Buangkok,Hougang,999
+WEEKDAY,21,Clarke Quay,Sengkang,998
+WEEKDAY,9,Serangoon,HarbourFront,997
+WEEKDAY,9,Kovan,Boon Keng,996
+WEEKDAY,14,Serangoon,Buangkok,995
+WEEKDAY,21,Dhoby Ghaut,Potong Pasir,995
+WEEKDAY,14,Dhoby Ghaut,Sengkang,994
+WEEKDAY,8,Buangkok,Punggol,994
+WEEKDAY,15,Potong Pasir,Sengkang,993
+WEEKDAY,14,Punggol,Kovan,991
+WEEKDAY,12,Chinatown,Serangoon,991
+WEEKDAY,14,HarbourFront,Chinatown,990
+WEEKDAY,19,Boon Keng,Little India,988
+WEEKDAY,14,Chinatown,Farrer Park,986
+WEEKDAY,18,Buangkok,Serangoon,985
+WEEKDAY,15,Dhoby Ghaut,Chinatown,984
+WEEKDAY,14,Serangoon,Farrer Park,981
+WEEKDAY,19,Dhoby Ghaut,Little India,980
+WEEKDAY,13,Farrer Park,Dhoby Ghaut,980
+WEEKDAY,16,Hougang,Buangkok,980
+WEEKDAY,16,Boon Keng,Hougang,979
+WEEKDAY,16,Punggol,Kovan,979
+WEEKDAY,15,Boon Keng,Hougang,975
+WEEKDAY,16,Farrer Park,Chinatown,973
+WEEKDAY,9,Punggol,Outram Park,972
+WEEKDAY,15,Farrer Park,Little India,972
+WEEKDAY,7,Potong Pasir,Boon Keng,971
+WEEKDAY,19,Punggol,Kovan,970
+WEEKDAY,19,HarbourFront,Buangkok,969
+WEEKDAY,19,Clarke Quay,Dhoby Ghaut,968
+WEEKDAY,15,Serangoon,Buangkok,968
+WEEKDAY,15,Boon Keng,Chinatown,967
+WEEKDAY,15,Chinatown,Punggol,967
+WEEKDAY,11,HarbourFront,Chinatown,966
+WEEKDAY,17,Boon Keng,Little India,966
+WEEKDAY,16,Dhoby Ghaut,Chinatown,966
+WEEKDAY,11,Potong Pasir,Farrer Park,966
+WEEKDAY,11,Farrer Park,Chinatown,965
+WEEKDAY,21,Serangoon,Boon Keng,964
+WEEKDAY,9,Kovan,Farrer Park,962
+WEEKDAY,16,Serangoon,Farrer Park,962
+WEEKDAY,17,Farrer Park,Chinatown,961
+WEEKDAY,17,Farrer Park,Dhoby Ghaut,960
+WEEKDAY,19,Farrer Park,Little India,959
+WEEKDAY,12,Farrer Park,Dhoby Ghaut,959
+WEEKDAY,9,Buangkok,Chinatown,959
+WEEKDAY,17,HarbourFront,Kovan,958
+WEEKDAY,9,Buangkok,Kovan,958
+WEEKDAY,9,Kovan,Little India,957
+WEEKDAY,15,Serangoon,Farrer Park,957
+WEEKDAY,20,Potong Pasir,Serangoon,957
+WEEKDAY,15,Potong Pasir,Boon Keng,955
+WEEKDAY,7,Potong Pasir,Little India,954
+WEEKDAY,13,Chinatown,Sengkang,954
+WEEKDAY,18,Sengkang,Farrer Park,954
+WEEKDAY,19,Serangoon,Little India,953
+WEEKDAY,15,Chinatown,Dhoby Ghaut,952
+WEEKDAY,6,Hougang,Serangoon,951
+WEEKDAY,18,Hougang,Little India,951
+WEEKDAY,18,Outram Park,Potong Pasir,950
+WEEKDAY,16,Chinatown,Kovan,949
+WEEKDAY,16,Dhoby Ghaut,Boon Keng,946
+WEEKDAY,18,Hougang,Potong Pasir,946
+WEEKDAY,6,Punggol,Little India,946
+WEEKDAY,13,Hougang,Buangkok,945
+WEEKDAY,6,Sengkang,Dhoby Ghaut,944
+WEEKDAY,14,Little India,Sengkang,944
+WEEKDAY,17,Chinatown,Buangkok,944
+WEEKDAY,21,Boon Keng,Hougang,944
+WEEKDAY,13,HarbourFront,Chinatown,942
+WEEKDAY,18,HarbourFront,Potong Pasir,942
+WEEKDAY,18,Clarke Quay,Potong Pasir,942
+WEEKDAY,14,Farrer Park,Serangoon,941
+WEEKDAY,9,Kovan,Hougang,940
+WEEKDAY,12,Boon Keng,Potong Pasir,940
+WEEKDAY,8,Buangkok,Sengkang,939
+WEEKDAY,13,Chinatown,Boon Keng,939
+WEEKDAY,16,Little India,Farrer Park,938
+WEEKDAY,20,Potong Pasir,Sengkang,938
+WEEKDAY,7,Potong Pasir,Serangoon,937
+WEEKDAY,9,Farrer Park,Chinatown,937
+WEEKDAY,6,Buangkok,Boon Keng,937
+WEEKDAY,14,Buangkok,Punggol,937
+WEEKDAY,7,Boon Keng,Dhoby Ghaut,937
+WEEKDAY,18,Sengkang,Boon Keng,936
+WEEKDAY,14,Punggol,Buangkok,936
+WEEKDAY,7,Potong Pasir,Dhoby Ghaut,936
+WEEKDAY,16,Little India,Serangoon,935
+WEEKDAY,19,Potong Pasir,Boon Keng,935
+WEEKDAY,9,Farrer Park,Boon Keng,935
+WEEKDAY,14,Farrer Park,Chinatown,933
+WEEKDAY,7,Serangoon,Hougang,932
+WEEKDAY,12,Sengkang,Chinatown,932
+WEEKDAY,12,Chinatown,Boon Keng,931
+WEEKDAY,20,Kovan,Serangoon,930
+WEEKDAY,9,Punggol,Potong Pasir,930
+WEEKDAY,14,Hougang,Buangkok,930
+WEEKDAY,14,Chinatown,Dhoby Ghaut,929
+WEEKDAY,17,Dhoby Ghaut,Potong Pasir,928
+WEEKDAY,15,Farrer Park,Chinatown,927
+WEEKDAY,21,Serangoon,Potong Pasir,927
+WEEKDAY,8,Farrer Park,Clarke Quay,927
+WEEKDAY,20,HarbourFront,Serangoon,926
+WEEKDAY,15,Dhoby Ghaut,Punggol,926
+WEEKDAY,12,Serangoon,Farrer Park,926
+WEEKDAY,14,Little India,Chinatown,925
+WEEKDAY,16,Little India,Chinatown,925
+WEEKDAY,17,Kovan,Farrer Park,925
+WEEKDAY,22,Chinatown,Boon Keng,924
+WEEKDAY,12,Potong Pasir,Boon Keng,924
+WEEKDAY,19,HarbourFront,Kovan,923
+WEEKDAY,21,HarbourFront,Hougang,923
+WEEKDAY,13,Hougang,Chinatown,922
+WEEKDAY,18,Farrer Park,Buangkok,922
+WEEKDAY,12,Potong Pasir,Farrer Park,921
+WEEKDAY,7,Buangkok,Farrer Park,920
+WEEKDAY,11,Potong Pasir,Boon Keng,920
+WEEKDAY,19,Farrer Park,Chinatown,920
+WEEKDAY,22,Sengkang,Hougang,920
+WEEKDAY,20,Farrer Park,Kovan,920
+WEEKDAY,21,Chinatown,Kovan,919
+WEEKDAY,9,Potong Pasir,Clarke Quay,919
+WEEKDAY,16,Farrer Park,Little India,919
+WEEKDAY,12,Chinatown,Farrer Park,918
+WEEKDAY,12,Boon Keng,Sengkang,918
+WEEKDAY,19,Clarke Quay,Boon Keng,918
+WEEKDAY,20,Outram Park,Sengkang,917
+WEEKDAY,16,Potong Pasir,Farrer Park,915
+WEEKDAY,13,Farrer Park,Serangoon,915
+WEEKDAY,20,Outram Park,Serangoon,915
+WEEKDAY,10,Farrer Park,Chinatown,915
+WEEKDAY,6,Serangoon,Chinatown,914
+WEEKDAY,6,Buangkok,Punggol,913
+WEEKDAY,8,Potong Pasir,HarbourFront,913
+WEEKDAY,10,Hougang,Clarke Quay,913
+WEEKDAY,7,Farrer Park,Potong Pasir,912
+WEEKDAY,19,Outram Park,Little India,910
+WEEKDAY,12,Little India,Serangoon,909
+WEEKDAY,7,Serangoon,Woodleigh,908
+WEEKDAY,16,Boon Keng,Punggol,908
+WEEKDAY,8,Buangkok,Hougang,907
+WEEKDAY,20,Kovan,Buangkok,907
+WEEKDAY,14,Chinatown,Boon Keng,907
+WEEKDAY,11,Serangoon,Little India,906
+WEEKDAY,17,Sengkang,Farrer Park,906
+WEEKDAY,11,Buangkok,Punggol,905
+WEEKDAY,20,Clarke Quay,Punggol,905
+WEEKDAY,9,Kovan,Outram Park,905
+WEEKDAY,11,Chinatown,Farrer Park,903
+WEEKDAY,20,Little India,Kovan,901
+WEEKDAY,19,Dhoby Ghaut,Chinatown,901
+WEEKDAY,20,Serangoon,Farrer Park,900
+WEEKDAY,16,HarbourFront,Hougang,900
+WEEKDAY,14,Boon Keng,Little India,900
+WEEKDAY,16,Farrer Park,Sengkang,899
+WEEKDAY,13,Little India,Serangoon,899
+WEEKDAY,19,Farrer Park,Kovan,899
+WEEKDAY,16,Chinatown,Dhoby Ghaut,898
+WEEKDAY,14,Potong Pasir,Sengkang,898
+WEEKDAY,14,Chinatown,Hougang,897
+WEEKDAY,10,Kovan,Farrer Park,896
+WEEKDAY,21,Boon Keng,Sengkang,896
+WEEKDAY,18,Clarke Quay,Little India,895
+WEEKDAY,12,Outram Park,Little India,895
+WEEKDAY,9,Boon Keng,Dhoby Ghaut,894
+WEEKDAY,10,Serangoon,Boon Keng,893
+WEEKDAY,8,Boon Keng,Kovan,893
+WEEKDAY,16,Potong Pasir,Boon Keng,892
+WEEKDAY,11,Chinatown,Little India,890
+WEEKDAY,12,Little India,Sengkang,889
+WEEKDAY,11,Serangoon,Kovan,889
+WEEKDAY,17,Serangoon,Chinatown,886
+WEEKDAY,12,Hougang,Farrer Park,886
+WEEKDAY,22,Dhoby Ghaut,Boon Keng,885
+WEEKDAY,15,Buangkok,Punggol,885
+WEEKDAY,10,Serangoon,Clarke Quay,885
+WEEKDAY,11,Kovan,Chinatown,885
+WEEKDAY,14,Kovan,Buangkok,883
+WEEKDAY,12,Chinatown,Sengkang,883
+WEEKDAY,20,Chinatown,Little India,883
+WEEKDAY,8,Serangoon,Kovan,882
+WEEKDAY,13,Boon Keng,Sengkang,882
+WEEKDAY,10,Potong Pasir,Boon Keng,882
+WEEKDAY,12,Hougang,Dhoby Ghaut,881
+WEEKDAY,16,Potong Pasir,Hougang,881
+WEEKDAY,22,Clarke Quay,Serangoon,880
+WEEKDAY,9,Buangkok,Clarke Quay,880
+WEEKDAY,21,Outram Park,Hougang,879
+WEEKDAY,12,Serangoon,Hougang,879
+WEEKDAY,18,HarbourFront,Clarke Quay,877
+WEEKDAY,20,Chinatown,Buangkok,877
+WEEKDAY,16,Dhoby Ghaut,Kovan,877
+WEEKDAY,17,HarbourFront,Buangkok,877
+WEEKDAY,20,Outram Park,Hougang,876
+WEEKDAY,14,Little India,Serangoon,876
+WEEKDAY,8,Potong Pasir,Farrer Park,874
+WEEKDAY,12,Sengkang,Dhoby Ghaut,873
+WEEKDAY,16,Farrer Park,Hougang,873
+WEEKDAY,6,Potong Pasir,Boon Keng,873
+WEEKDAY,19,Woodleigh,Sengkang,872
+WEEKDAY,12,Chinatown,HarbourFront,872
+WEEKDAY,11,Buangkok,Serangoon,872
+WEEKDAY,11,Serangoon,Boon Keng,871
+WEEKDAY,6,Kovan,Boon Keng,870
+WEEKDAY,13,Sengkang,Chinatown,870
+WEEKDAY,20,Hougang,Buangkok,869
+WEEKDAY,20,Hougang,Serangoon,869
+WEEKDAY,14,Farrer Park,Dhoby Ghaut,868
+WEEKDAY,12,Hougang,Little India,868
+WEEKDAY,6,Serangoon,Sengkang,868
+WEEKDAY,13,Punggol,Kovan,867
+WEEKDAY,17,Clarke Quay,Kovan,867
+WEEKDAY,22,Dhoby Ghaut,Buangkok,867
+WEEKDAY,19,Potong Pasir,Kovan,867
+WEEKDAY,21,HarbourFront,Sengkang,866
+WEEKDAY,17,Dhoby Ghaut,Little India,865
+WEEKDAY,20,Clarke Quay,Farrer Park,864
+WEEKDAY,10,Buangkok,Chinatown,863
+WEEKDAY,22,Chinatown,Sengkang,863
+WEEKDAY,17,Boon Keng,Potong Pasir,862
+WEEKDAY,9,Kovan,Dhoby Ghaut,860
+WEEKDAY,8,Boon Keng,Hougang,859
+WEEKDAY,15,Punggol,Kovan,859
+WEEKDAY,10,Potong Pasir,Farrer Park,858
+WEEKDAY,13,Dhoby Ghaut,Outram Park,857
+WEEKDAY,8,Potong Pasir,Boon Keng,857
+WEEKDAY,21,Kovan,Buangkok,856
+WEEKDAY,10,Boon Keng,Dhoby Ghaut,856
+WEEKDAY,12,Buangkok,Serangoon,856
+WEEKDAY,12,Serangoon,Dhoby Ghaut,856
+WEEKDAY,6,Serangoon,Potong Pasir,854
+WEEKDAY,13,Clarke Quay,Dhoby Ghaut,852
+WEEKDAY,22,Chinatown,Hougang,851
+WEEKDAY,16,HarbourFront,Sengkang,851
+WEEKDAY,12,Punggol,Kovan,851
+WEEKDAY,13,Chinatown,HarbourFront,851
+WEEKDAY,22,Chinatown,Serangoon,851
+WEEKDAY,13,Hougang,Dhoby Ghaut,851
+WEEKDAY,15,Dhoby Ghaut,Boon Keng,850
+WEEKDAY,18,Hougang,Chinatown,848
+WEEKDAY,13,Little India,Sengkang,847
+WEEKDAY,16,Woodleigh,Kovan,846
+WEEKDAY,6,Kovan,Potong Pasir,846
+WEEKDAY,22,Kovan,Sengkang,845
+WEEKDAY,10,Serangoon,Kovan,843
+WEEKDAY,8,Farrer Park,Little India,842
+WEEKDAY,9,Farrer Park,Clarke Quay,842
+WEEKDAY,18,Hougang,Dhoby Ghaut,842
+WEEKDAY,18,Punggol,Farrer Park,841
+WEEKDAY,12,Punggol,Buangkok,840
+WEEKDAY,20,HarbourFront,Farrer Park,840
+WEEKDAY,9,Buangkok,Potong Pasir,840
+WEEKDAY,7,Boon Keng,Punggol,839
+WEEKDAY,13,Sengkang,Dhoby Ghaut,839
+WEEKDAY,20,Little India,Buangkok,838
+WEEKDAY,16,Boon Keng,Chinatown,837
+WEEKDAY,21,Chinatown,Punggol,836
+WEEKDAY,16,Potong Pasir,Punggol,836
+WEEKDAY,15,Potong Pasir,Hougang,836
+WEEKDAY,19,Kovan,Farrer Park,835
+WEEKDAY,16,Farrer Park,Dhoby Ghaut,835
+WEEKDAY,12,Dhoby Ghaut,Farrer Park,835
+WEEKDAY,15,Little India,Hougang,834
+WEEKDAY,13,Serangoon,Buangkok,834
+WEEKDAY,15,Hougang,Farrer Park,833
+WEEKDAY,11,Punggol,Dhoby Ghaut,833
+WEEKDAY,17,HarbourFront,Dhoby Ghaut,832
+WEEKDAY,6,Kovan,HarbourFront,831
+WEEKDAY,10,Punggol,Dhoby Ghaut,831
+WEEKDAY,6,Serangoon,Little India,830
+WEEKDAY,17,Boon Keng,Dhoby Ghaut,830
+WEEKDAY,17,Little India,Boon Keng,830
+WEEKDAY,14,Boon Keng,Sengkang,830
+WEEKDAY,12,Serangoon,Little India,829
+WEEKDAY,14,Serangoon,Dhoby Ghaut,829
+WEEKDAY,22,Serangoon,Punggol,828
+WEEKDAY,19,Little India,Chinatown,828
+WEEKDAY,14,Serangoon,Chinatown,827
+WEEKDAY,6,Buangkok,Little India,827
+WEEKDAY,9,Buangkok,Sengkang,827
+WEEKDAY,21,Boon Keng,Serangoon,826
+WEEKDAY,22,Clarke Quay,Sengkang,826
+WEEKDAY,12,Serangoon,Potong Pasir,825
+WEEKDAY,10,Punggol,Little India,825
+WEEKDAY,9,Buangkok,Dhoby Ghaut,825
+WEEKDAY,21,Farrer Park,Buangkok,824
+WEEKDAY,7,Kovan,Serangoon,824
+WEEKDAY,9,Punggol,Farrer Park,823
+WEEKDAY,10,Potong Pasir,Serangoon,823
+WEEKDAY,19,Chinatown,Potong Pasir,822
+WEEKDAY,9,Serangoon,Kovan,820
+WEEKDAY,11,Serangoon,Sengkang,820
+WEEKDAY,8,Kovan,Sengkang,819
+WEEKDAY,6,Farrer Park,Outram Park,819
+WEEKDAY,13,Dhoby Ghaut,Boon Keng,818
+WEEKDAY,6,Sengkang,Chinatown,818
+WEEKDAY,11,Kovan,Little India,816
+WEEKDAY,17,Little India,Dhoby Ghaut,816
+WEEKDAY,11,Potong Pasir,Little India,813
+WEEKDAY,16,Outram Park,Farrer Park,812
+WEEKDAY,22,Little India,Hougang,811
+WEEKDAY,19,Farrer Park,Dhoby Ghaut,810
+WEEKDAY,19,Clarke Quay,Little India,809
+WEEKDAY,19,HarbourFront,Boon Keng,809
+WEEKDAY,10,Buangkok,Kovan,809
+WEEKDAY,17,Outram Park,Potong Pasir,809
+WEEKDAY,20,Buangkok,Sengkang,809
+WEEKDAY,14,Hougang,Chinatown,808
+WEEKDAY,13,Hougang,Farrer Park,808
+WEEKDAY,14,Dhoby Ghaut,Clarke Quay,808
+WEEKDAY,13,Serangoon,Dhoby Ghaut,807
+WEEKDAY,7,Kovan,Farrer Park,807
+WEEKDAY,11,Chinatown,Boon Keng,806
+WEEKDAY,20,Chinatown,Potong Pasir,806
+WEEKDAY,19,Boon Keng,Potong Pasir,806
+WEEKDAY,15,Little India,Serangoon,806
+WEEKDAY,15,Farrer Park,Dhoby Ghaut,805
+WEEKDAY,16,Farrer Park,Potong Pasir,805
+WEEKDAY,14,Farrer Park,Potong Pasir,805
+WEEKDAY,9,Little India,Clarke Quay,804
+WEEKDAY,11,Sengkang,Buangkok,804
+WEEKDAY,9,Serangoon,Potong Pasir,803
+WEEKDAY,9,Outram Park,Chinatown,803
+WEEKDAY,10,Farrer Park,Little India,802
+WEEKDAY,11,Dhoby Ghaut,Chinatown,802
+WEEKDAY,22,HarbourFront,Hougang,801
+WEEKDAY,13,Potong Pasir,Farrer Park,801
+WEEKDAY,10,Kovan,Dhoby Ghaut,801
+WEEKDAY,16,Little India,Punggol,801
+WEEKDAY,18,Kovan,Potong Pasir,800
+WEEKDAY,20,Potong Pasir,Hougang,799
+WEEKDAY,6,Boon Keng,Farrer Park,799
+WEEKDAY,13,Chinatown,Clarke Quay,797
+WEEKDAY,8,Buangkok,Woodleigh,797
+WEEKDAY,6,Boon Keng,Little India,797
+WEEKDAY,9,Buangkok,Boon Keng,797
+WEEKDAY,14,Boon Keng,Hougang,795
+WEEKDAY,12,Sengkang,Little India,794
+WEEKDAY,6,Kovan,Sengkang,793
+WEEKDAY,15,Little India,Chinatown,792
+WEEKDAY,20,HarbourFront,Punggol,792
+WEEKDAY,10,Farrer Park,Boon Keng,791
+WEEKDAY,13,Buangkok,Serangoon,789
+WEEKDAY,6,Buangkok,HarbourFront,788
+WEEKDAY,8,Farrer Park,HarbourFront,787
+WEEKDAY,6,Punggol,Chinatown,786
+WEEKDAY,8,Kovan,Hougang,786
+WEEKDAY,13,Boon Keng,Dhoby Ghaut,785
+WEEKDAY,9,Sengkang,HarbourFront,784
+WEEKDAY,14,Chinatown,Little India,783
+WEEKDAY,6,Hougang,Woodleigh,782
+WEEKDAY,8,Farrer Park,Dhoby Ghaut,782
+WEEKDAY,15,Dhoby Ghaut,Kovan,782
+WEEKDAY,22,Hougang,Sengkang,781
+WEEKDAY,8,Boon Keng,Potong Pasir,781
+WEEKDAY,13,Little India,Hougang,781
+WEEKDAY,19,Boon Keng,Chinatown,781
+WEEKDAY,10,Sengkang,Boon Keng,780
+WEEKDAY,20,Farrer Park,Little India,780
+WEEKDAY,17,Woodleigh,Serangoon,779
+WEEKDAY,17,Clarke Quay,Farrer Park,779
+WEEKDAY,16,Farrer Park,Punggol,779
+WEEKDAY,11,Kovan,Buangkok,778
+WEEKDAY,11,Boon Keng,Sengkang,778
+WEEKDAY,17,Clarke Quay,Dhoby Ghaut,778
+WEEKDAY,13,Serangoon,Little India,778
+WEEKDAY,10,Potong Pasir,Chinatown,777
+WEEKDAY,19,HarbourFront,Dhoby Ghaut,777
+WEEKDAY,17,Chinatown,Potong Pasir,777
+WEEKDAY,18,Woodleigh,Buangkok,776
+WEEKDAY,19,Outram Park,Boon Keng,776
+WEEKDAY,21,Outram Park,Sengkang,774
+WEEKDAY,15,Farrer Park,Hougang,774
+WEEKDAY,10,Punggol,Farrer Park,773
+WEEKDAY,18,Dhoby Ghaut,Clarke Quay,772
+WEEKDAY,21,Clarke Quay,Punggol,772
+WEEKDAY,17,Clarke Quay,Boon Keng,772
+WEEKDAY,21,Little India,Buangkok,771
+WEEKDAY,17,Serangoon,Little India,770
+WEEKDAY,10,Buangkok,Punggol,770
+WEEKDAY,20,Sengkang,Serangoon,769
+WEEKDAY,18,Buangkok,Hougang,769
+WEEKDAY,18,Punggol,Boon Keng,769
+WEEKDAY,15,Boon Keng,Little India,769
+WEEKDAY,7,Chinatown,HarbourFront,768
+WEEKDAY,12,Farrer Park,Serangoon,768
+WEEKDAY,10,Hougang,Outram Park,768
+WEEKDAY,11,Farrer Park,Dhoby Ghaut,768
+WEEKDAY,10,Buangkok,Serangoon,768
+WEEKDAY,11,Sengkang,Farrer Park,767
+WEEKDAY,21,Little India,Punggol,767
+WEEKDAY,17,Sengkang,Dhoby Ghaut,765
+WEEKDAY,20,Farrer Park,Buangkok,765
+WEEKDAY,12,Kovan,Chinatown,764
+WEEKDAY,21,Serangoon,Farrer Park,764
+WEEKDAY,18,Sengkang,Dhoby Ghaut,763
+WEEKDAY,18,Sengkang,Potong Pasir,762
+WEEKDAY,13,Boon Keng,Punggol,762
+WEEKDAY,16,Chinatown,Little India,762
+WEEKDAY,13,Sengkang,Little India,762
+WEEKDAY,22,Farrer Park,Potong Pasir,762
+WEEKDAY,7,Kovan,Clarke Quay,761
+WEEKDAY,11,Chinatown,Outram Park,760
+WEEKDAY,15,Boon Keng,Punggol,759
+WEEKDAY,13,Chinatown,Hougang,758
+WEEKDAY,15,Little India,Punggol,758
+WEEKDAY,9,Buangkok,Punggol,758
+WEEKDAY,14,Dhoby Ghaut,Little India,757
+WEEKDAY,7,Potong Pasir,Hougang,757
+WEEKDAY,13,Dhoby Ghaut,Serangoon,757
+WEEKDAY,17,Buangkok,Serangoon,756
+WEEKDAY,15,Farrer Park,Potong Pasir,756
+WEEKDAY,9,Buangkok,Serangoon,756
+WEEKDAY,21,Sengkang,Kovan,755
+WEEKDAY,12,Little India,Hougang,755
+WEEKDAY,14,Hougang,Farrer Park,753
+WEEKDAY,13,Hougang,Little India,753
+WEEKDAY,22,Hougang,Punggol,753
+WEEKDAY,7,Potong Pasir,Chinatown,752
+WEEKDAY,8,Potong Pasir,Kovan,752
+WEEKDAY,7,Kovan,Punggol,752
+WEEKDAY,14,Dhoby Ghaut,Boon Keng,752
+WEEKDAY,16,Dhoby Ghaut,Potong Pasir,751
+WEEKDAY,9,Kovan,Potong Pasir,751
+WEEKDAY,17,Sengkang,Potong Pasir,751
+WEEKDAY,14,Potong Pasir,Farrer Park,750
+WEEKDAY,17,Hougang,Chinatown,749
+WEEKDAY,16,Outram Park,Punggol,749
+WEEKDAY,20,Boon Keng,Kovan,748
+WEEKDAY,7,Farrer Park,Woodleigh,748
+WEEKDAY,17,Woodleigh,Hougang,747
+WEEKDAY,19,Outram Park,Kovan,746
+WEEKDAY,9,Potong Pasir,Farrer Park,745
+WEEKDAY,15,Potong Pasir,Farrer Park,745
+WEEKDAY,17,Woodleigh,Kovan,745
+WEEKDAY,8,Potong Pasir,Serangoon,744
+WEEKDAY,7,Potong Pasir,Farrer Park,744
+WEEKDAY,15,Chinatown,Little India,742
+WEEKDAY,17,Hougang,Dhoby Ghaut,742
+WEEKDAY,11,Outram Park,Dhoby Ghaut,740
+WEEKDAY,8,Outram Park,Little India,739
+WEEKDAY,16,Boon Keng,Kovan,738
+WEEKDAY,10,Boon Keng,Potong Pasir,738
+WEEKDAY,9,Potong Pasir,Little India,738
+WEEKDAY,18,Potong Pasir,Dhoby Ghaut,738
+WEEKDAY,14,HarbourFront,Outram Park,738
+WEEKDAY,10,Boon Keng,Sengkang,737
+WEEKDAY,14,Little India,Hougang,737
+WEEKDAY,8,Boon Keng,Sengkang,737
+WEEKDAY,17,Sengkang,Boon Keng,735
+WEEKDAY,16,Woodleigh,Dhoby Ghaut,735
+WEEKDAY,17,Kovan,Boon Keng,735
+WEEKDAY,16,HarbourFront,Serangoon,735
+WEEKDAY,16,Farrer Park,Kovan,734
+WEEKDAY,12,Punggol,Chinatown,734
+WEEKDAY,14,Serangoon,Little India,734
+WEEKDAY,13,Little India,Outram Park,734
+WEEKDAY,19,Little India,Dhoby Ghaut,733
+WEEKDAY,19,Punggol,Farrer Park,733
+WEEKDAY,12,Chinatown,Hougang,733
+WEEKDAY,19,Little India,Boon Keng,733
+WEEKDAY,18,HarbourFront,Outram Park,733
+WEEKDAY,19,Farrer Park,Buangkok,733
+WEEKDAY,16,Woodleigh,Sengkang,732
+WEEKDAY,12,Boon Keng,Kovan,732
+WEEKDAY,19,Boon Keng,Dhoby Ghaut,732
+WEEKDAY,21,Boon Keng,Farrer Park,731
+WEEKDAY,11,Kovan,Farrer Park,730
+WEEKDAY,12,Sengkang,Farrer Park,729
+WEEKDAY,22,Farrer Park,Punggol,729
+WEEKDAY,9,Boon Keng,Kovan,729
+WEEKDAY,7,Farrer Park,Chinatown,728
+WEEKDAY,14,Chinatown,Punggol,728
+WEEKDAY,9,Farrer Park,Little India,728
+WEEKDAY,15,Dhoby Ghaut,Little India,727
+WEEKDAY,18,Woodleigh,Serangoon,726
+WEEKDAY,22,Little India,Sengkang,726
+WEEKDAY,17,Punggol,Farrer Park,726
+WEEKDAY,14,Boon Keng,Potong Pasir,726
+WEEKDAY,19,Potong Pasir,Buangkok,725
+WEEKDAY,18,Sengkang,Little India,724
+WEEKDAY,11,Dhoby Ghaut,Farrer Park,724
+WEEKDAY,13,Clarke Quay,Chinatown,724
+WEEKDAY,11,Kovan,Dhoby Ghaut,723
+WEEKDAY,8,HarbourFront,Little India,723
+WEEKDAY,20,Clarke Quay,Boon Keng,723
+WEEKDAY,20,Hougang,Kovan,723
+WEEKDAY,9,Boon Keng,HarbourFront,722
+WEEKDAY,11,Buangkok,Hougang,722
+WEEKDAY,12,Kovan,Buangkok,721
+WEEKDAY,13,Boon Keng,Hougang,721
+WEEKDAY,18,Little India,HarbourFront,721
+WEEKDAY,11,Boon Keng,Potong Pasir,720
+WEEKDAY,16,Boon Keng,Little India,720
+WEEKDAY,21,HarbourFront,Farrer Park,719
+WEEKDAY,16,Kovan,Buangkok,718
+WEEKDAY,22,Punggol,Buangkok,717
+WEEKDAY,17,Sengkang,Little India,717
+WEEKDAY,7,Farrer Park,Hougang,716
+WEEKDAY,14,Potong Pasir,Hougang,715
+WEEKDAY,20,Clarke Quay,Buangkok,714
+WEEKDAY,17,Clarke Quay,Buangkok,713
+WEEKDAY,15,Chinatown,Kovan,713
+WEEKDAY,14,Boon Keng,Dhoby Ghaut,713
+WEEKDAY,19,Little India,Potong Pasir,711
+WEEKDAY,14,Dhoby Ghaut,Hougang,711
+WEEKDAY,17,Serangoon,Dhoby Ghaut,710
+WEEKDAY,16,Woodleigh,Potong Pasir,709
+WEEKDAY,9,Kovan,Buangkok,709
+WEEKDAY,19,Chinatown,HarbourFront,709
+WEEKDAY,22,HarbourFront,Sengkang,707
+WEEKDAY,18,Kovan,Little India,707
+WEEKDAY,10,Serangoon,Outram Park,706
+WEEKDAY,15,Hougang,Chinatown,706
+WEEKDAY,10,Little India,Farrer Park,706
+WEEKDAY,7,Potong Pasir,HarbourFront,706
+WEEKDAY,20,Clarke Quay,Kovan,706
+WEEKDAY,18,Woodleigh,Farrer Park,705
+WEEKDAY,15,Outram Park,Sengkang,705
+WEEKDAY,21,Chinatown,Buangkok,704
+WEEKDAY,13,Dhoby Ghaut,Sengkang,704
+WEEKDAY,7,Serangoon,Punggol,703
+WEEKDAY,22,Serangoon,Boon Keng,703
+WEEKDAY,10,Punggol,Boon Keng,703
+WEEKDAY,14,Sengkang,Dhoby Ghaut,703
+WEEKDAY,16,Potong Pasir,Kovan,702
+WEEKDAY,12,Boon Keng,Hougang,702
+WEEKDAY,18,Buangkok,Kovan,701
+WEEKDAY,20,Punggol,Kovan,701
+WEEKDAY,20,Chinatown,Dhoby Ghaut,700
+WEEKDAY,8,Kovan,Punggol,700
+WEEKDAY,8,Farrer Park,Kovan,699
+WEEKDAY,17,Hougang,Boon Keng,699
+WEEKDAY,18,Chinatown,Outram Park,699
+WEEKDAY,19,Outram Park,Dhoby Ghaut,697
+WEEKDAY,6,Boon Keng,Outram Park,696
+WEEKDAY,8,HarbourFront,Chinatown,696
+WEEKDAY,6,Hougang,Farrer Park,695
+WEEKDAY,20,Sengkang,Kovan,695
+WEEKDAY,15,Potong Pasir,Punggol,695
+WEEKDAY,13,Buangkok,Kovan,694
+WEEKDAY,14,Hougang,Little India,694
+WEEKDAY,7,Dhoby Ghaut,Outram Park,694
+WEEKDAY,17,Farrer Park,Buangkok,693
+WEEKDAY,11,Potong Pasir,Dhoby Ghaut,693
+WEEKDAY,20,Boon Keng,Buangkok,693
+WEEKDAY,12,Buangkok,Hougang,692
+WEEKDAY,10,Hougang,Boon Keng,691
+WEEKDAY,18,Outram Park,HarbourFront,690
+WEEKDAY,21,Clarke Quay,Boon Keng,690
+WEEKDAY,12,Hougang,Buangkok,690
+WEEKDAY,20,Outram Park,Farrer Park,689
+WEEKDAY,16,Clarke Quay,Sengkang,689
+WEEKDAY,10,Boon Keng,Clarke Quay,689
+WEEKDAY,19,Outram Park,Chinatown,689
+WEEKDAY,20,Potong Pasir,Punggol,689
+WEEKDAY,6,Serangoon,Dhoby Ghaut,688
+WEEKDAY,16,Little India,Kovan,688
+WEEKDAY,20,Little India,Farrer Park,688
+WEEKDAY,14,Sengkang,Chinatown,687
+WEEKDAY,23,Dhoby Ghaut,Sengkang,687
+WEEKDAY,8,Kovan,Serangoon,686
+WEEKDAY,11,Sengkang,Boon Keng,686
+WEEKDAY,6,Serangoon,Hougang,686
+WEEKDAY,18,Potong Pasir,Little India,686
+WEEKDAY,20,Potong Pasir,Boon Keng,685
+WEEKDAY,21,Clarke Quay,Farrer Park,685
+WEEKDAY,15,Farrer Park,Sengkang,684
+WEEKDAY,14,Hougang,Dhoby Ghaut,684
+WEEKDAY,9,Little India,Farrer Park,684
+WEEKDAY,17,Buangkok,Kovan,684
+WEEKDAY,23,Dhoby Ghaut,Hougang,683
+WEEKDAY,19,Woodleigh,Punggol,683
+WEEKDAY,20,Punggol,Serangoon,682
+WEEKDAY,15,Kovan,Farrer Park,681
+WEEKDAY,20,Dhoby Ghaut,Little India,680
+WEEKDAY,18,Little India,Outram Park,680
+WEEKDAY,6,Boon Keng,Kovan,680
+WEEKDAY,16,Serangoon,Chinatown,680
+WEEKDAY,21,Punggol,Serangoon,679
+WEEKDAY,13,Potong Pasir,Sengkang,678
+WEEKDAY,21,HarbourFront,Serangoon,678
+WEEKDAY,10,HarbourFront,Chinatown,678
+WEEKDAY,13,Chinatown,Punggol,678
+WEEKDAY,12,Clarke Quay,Chinatown,677
+WEEKDAY,8,HarbourFront,Boon Keng,677
+WEEKDAY,14,Dhoby Ghaut,Punggol,677
+WEEKDAY,9,Potong Pasir,Serangoon,677
+WEEKDAY,10,Kovan,Little India,676
+WEEKDAY,17,Buangkok,Hougang,676
+WEEKDAY,10,Sengkang,Potong Pasir,675
+WEEKDAY,10,Potong Pasir,Little India,675
+WEEKDAY,21,Outram Park,Serangoon,675
+WEEKDAY,10,Chinatown,Little India,675
+WEEKDAY,6,Punggol,Buangkok,675
+WEEKDAY,20,HarbourFront,Buangkok,674
+WEEKDAY,10,Farrer Park,Dhoby Ghaut,674
+WEEKDAY,8,Little India,Clarke Quay,674
+WEEKDAY,19,Clarke Quay,Potong Pasir,674
+WEEKDAY,20,HarbourFront,Little India,674
+WEEKDAY,10,Hougang,Potong Pasir,673
+WEEKDAY,22,Chinatown,Farrer Park,673
+WEEKDAY,15,Potong Pasir,Kovan,672
+WEEKDAY,10,Kovan,Boon Keng,672
+WEEKDAY,19,Hougang,Boon Keng,672
+WEEKDAY,17,Hougang,Little India,671
+WEEKDAY,17,Chinatown,Outram Park,671
+WEEKDAY,11,Outram Park,HarbourFront,671
+WEEKDAY,15,Outram Park,Serangoon,670
+WEEKDAY,15,Little India,Kovan,670
+WEEKDAY,8,Outram Park,Boon Keng,669
+WEEKDAY,21,Sengkang,Serangoon,669
+WEEKDAY,14,Farrer Park,Hougang,669
+WEEKDAY,11,Potong Pasir,Chinatown,668
+WEEKDAY,13,Punggol,Chinatown,668
+WEEKDAY,14,Little India,Dhoby Ghaut,668
+WEEKDAY,11,Hougang,Outram Park,668
+WEEKDAY,11,Punggol,Farrer Park,667
+WEEKDAY,15,Serangoon,Chinatown,667
+WEEKDAY,11,Chinatown,Serangoon,667
+WEEKDAY,7,Boon Keng,Clarke Quay,666
+WEEKDAY,14,Potong Pasir,Kovan,666
+WEEKDAY,22,Dhoby Ghaut,Farrer Park,665
+WEEKDAY,14,Sengkang,Farrer Park,665
+WEEKDAY,8,Serangoon,Hougang,665
+WEEKDAY,6,Farrer Park,Boon Keng,664
+WEEKDAY,12,Kovan,Farrer Park,664
+WEEKDAY,16,Clarke Quay,Hougang,662
+WEEKDAY,19,Outram Park,Buangkok,662
+WEEKDAY,15,Dhoby Ghaut,Potong Pasir,662
+WEEKDAY,6,Potong Pasir,Outram Park,662
+WEEKDAY,11,Chinatown,Dhoby Ghaut,661
+WEEKDAY,21,Clarke Quay,Kovan,661
+WEEKDAY,9,Boon Keng,Sengkang,661
+WEEKDAY,22,Farrer Park,Kovan,660
+WEEKDAY,16,Dhoby Ghaut,Little India,660
+WEEKDAY,17,Sengkang,Chinatown,660
+WEEKDAY,16,Buangkok,Hougang,659
+WEEKDAY,10,Buangkok,Hougang,659
+WEEKDAY,16,Chinatown,HarbourFront,659
+WEEKDAY,9,Punggol,HarbourFront,658
+WEEKDAY,14,Buangkok,Serangoon,658
+WEEKDAY,15,Chinatown,Outram Park,657
+WEEKDAY,17,Chinatown,HarbourFront,656
+WEEKDAY,16,Hougang,Farrer Park,656
+WEEKDAY,19,Buangkok,Serangoon,656
+WEEKDAY,14,Potong Pasir,Punggol,656
+WEEKDAY,18,Woodleigh,Kovan,656
+WEEKDAY,9,Little India,Outram Park,655
+WEEKDAY,20,Boon Keng,Little India,655
+WEEKDAY,21,Hougang,Buangkok,655
+WEEKDAY,6,Potong Pasir,Serangoon,655
+WEEKDAY,10,Kovan,Buangkok,654
+WEEKDAY,22,Clarke Quay,Farrer Park,653
+WEEKDAY,11,Outram Park,Little India,653
+WEEKDAY,11,Little India,Serangoon,652
+WEEKDAY,21,HarbourFront,Punggol,649
+WEEKDAY,17,Hougang,Potong Pasir,648
+WEEKDAY,8,Little India,Farrer Park,648
+WEEKDAY,11,Buangkok,Kovan,647
+WEEKDAY,22,Clarke Quay,Boon Keng,647
+WEEKDAY,14,Boon Keng,Punggol,647
+WEEKDAY,15,Hougang,Dhoby Ghaut,646
+WEEKDAY,9,Kovan,Serangoon,645
+WEEKDAY,20,Outram Park,Punggol,645
+WEEKDAY,11,Punggol,Little India,644
+WEEKDAY,9,HarbourFront,Chinatown,643
+WEEKDAY,16,Clarke Quay,Serangoon,642
+WEEKDAY,6,Buangkok,Woodleigh,641
+WEEKDAY,7,Serangoon,Kovan,641
+WEEKDAY,19,Hougang,Little India,641
+WEEKDAY,16,Boon Keng,Potong Pasir,640
+WEEKDAY,20,Little India,Boon Keng,639
+WEEKDAY,20,Potong Pasir,Farrer Park,639
+WEEKDAY,16,Sengkang,Farrer Park,639
+WEEKDAY,10,Sengkang,Outram Park,639
+WEEKDAY,15,Boon Keng,Potong Pasir,639
+WEEKDAY,7,HarbourFront,Woodleigh,639
+WEEKDAY,21,Kovan,Serangoon,638
+WEEKDAY,16,Kovan,Farrer Park,637
+WEEKDAY,11,Serangoon,Potong Pasir,637
+WEEKDAY,13,Kovan,Farrer Park,636
+WEEKDAY,11,Hougang,Boon Keng,635
+WEEKDAY,15,Woodleigh,Sengkang,635
+WEEKDAY,20,Dhoby Ghaut,Chinatown,635
+WEEKDAY,9,Boon Keng,Potong Pasir,635
+WEEKDAY,12,Boon Keng,Punggol,634
+WEEKDAY,16,Outram Park,Little India,634
+WEEKDAY,14,Sengkang,Little India,633
+WEEKDAY,15,Outram Park,Hougang,632
+WEEKDAY,14,Buangkok,Kovan,631
+WEEKDAY,13,Kovan,Buangkok,631
+WEEKDAY,16,Dhoby Ghaut,Buangkok,630
+WEEKDAY,19,Woodleigh,Hougang,629
+WEEKDAY,18,Sengkang,Chinatown,628
+WEEKDAY,20,Punggol,Farrer Park,628
+WEEKDAY,8,Farrer Park,Potong Pasir,627
+WEEKDAY,8,Dhoby Ghaut,Farrer Park,626
+WEEKDAY,9,Buangkok,Hougang,626
+WEEKDAY,15,Farrer Park,Punggol,625
+WEEKDAY,10,Chinatown,Farrer Park,625
+WEEKDAY,22,Dhoby Ghaut,Potong Pasir,625
+WEEKDAY,23,Clarke Quay,Hougang,624
+WEEKDAY,14,Little India,Punggol,624
+WEEKDAY,21,Little India,Kovan,623
+WEEKDAY,17,Kovan,Potong Pasir,623
+WEEKDAY,16,Outram Park,Dhoby Ghaut,622
+WEEKDAY,21,Farrer Park,Little India,622
+WEEKDAY,14,Kovan,Farrer Park,621
+WEEKDAY,12,Chinatown,Clarke Quay,620
+WEEKDAY,11,Chinatown,Sengkang,619
+WEEKDAY,14,Little India,Kovan,619
+WEEKDAY,15,Serangoon,Little India,619
+WEEKDAY,19,Kovan,Potong Pasir,619
+WEEKDAY,12,Little India,Clarke Quay,617
+WEEKDAY,15,Boon Keng,Dhoby Ghaut,617
+WEEKDAY,6,Sengkang,Farrer Park,617
+WEEKDAY,10,Sengkang,Buangkok,616
+WEEKDAY,13,Kovan,Chinatown,616
+WEEKDAY,6,Hougang,Kovan,616
+WEEKDAY,14,Clarke Quay,Dhoby Ghaut,616
+WEEKDAY,10,Serangoon,Sengkang,615
+WEEKDAY,20,Buangkok,Punggol,614
+WEEKDAY,18,Kovan,Dhoby Ghaut,613
+WEEKDAY,7,Potong Pasir,Clarke Quay,612
+WEEKDAY,19,Buangkok,Hougang,610
+WEEKDAY,9,Kovan,HarbourFront,609
+WEEKDAY,18,Kovan,Chinatown,609
+WEEKDAY,12,Farrer Park,Potong Pasir,609
+WEEKDAY,15,Buangkok,Kovan,609
+WEEKDAY,11,Boon Keng,Kovan,609
+WEEKDAY,12,Outram Park,Farrer Park,608
+WEEKDAY,18,Clarke Quay,Chinatown,607
+WEEKDAY,6,Little India,HarbourFront,607
+WEEKDAY,7,Potong Pasir,Kovan,606
+WEEKDAY,12,Serangoon,Outram Park,606
+WEEKDAY,16,Serangoon,Little India,606
+WEEKDAY,19,Potong Pasir,Little India,606
+WEEKDAY,14,Chinatown,HarbourFront,605
+WEEKDAY,21,Clarke Quay,Buangkok,605
+WEEKDAY,12,Punggol,Farrer Park,605
+WEEKDAY,13,Farrer Park,Sengkang,605
+WEEKDAY,12,Kovan,Little India,605
+WEEKDAY,7,Little India,Farrer Park,605
+WEEKDAY,15,Hougang,Boon Keng,605
+WEEKDAY,16,Woodleigh,Farrer Park,604
+WEEKDAY,10,Boon Keng,Kovan,604
+WEEKDAY,11,Little India,Boon Keng,604
+WEEKDAY,22,Chinatown,Kovan,603
+WEEKDAY,18,Little India,Clarke Quay,603
+WEEKDAY,11,Little India,Sengkang,603
+WEEKDAY,14,Chinatown,Clarke Quay,603
+WEEKDAY,13,Little India,Boon Keng,603
+WEEKDAY,6,Boon Keng,Chinatown,603
+WEEKDAY,6,Punggol,Dhoby Ghaut,602
+WEEKDAY,13,Kovan,Little India,602
+WEEKDAY,19,Sengkang,Farrer Park,602
+WEEKDAY,15,Chinatown,HarbourFront,602
+WEEKDAY,13,Sengkang,Farrer Park,601
+WEEKDAY,16,Outram Park,Kovan,601
+WEEKDAY,13,Potong Pasir,Punggol,601
+WEEKDAY,14,Clarke Quay,Chinatown,600
+WEEKDAY,16,Buangkok,Serangoon,600
+WEEKDAY,20,Hougang,Farrer Park,599
+WEEKDAY,6,Kovan,Chinatown,599
+WEEKDAY,13,Chinatown,Kovan,598
+WEEKDAY,17,Little India,Potong Pasir,598
+WEEKDAY,20,HarbourFront,Boon Keng,598
+WEEKDAY,21,Chinatown,Potong Pasir,598
+WEEKDAY,11,Serangoon,Outram Park,598
+WEEKDAY,8,Punggol,Buangkok,597
+WEEKDAY,19,Chinatown,Outram Park,597
+WEEKDAY,19,Kovan,Boon Keng,597
+WEEKDAY,15,Clarke Quay,Dhoby Ghaut,597
+WEEKDAY,14,Dhoby Ghaut,Potong Pasir,596
+WEEKDAY,12,Punggol,Dhoby Ghaut,596
+WEEKDAY,7,Potong Pasir,Woodleigh,595
+WEEKDAY,11,Kovan,Boon Keng,595
+WEEKDAY,15,Boon Keng,Kovan,595
+WEEKDAY,18,Dhoby Ghaut,Outram Park,594
+WEEKDAY,12,Buangkok,Kovan,594
+WEEKDAY,9,Serangoon,Sengkang,594
+WEEKDAY,21,Outram Park,Farrer Park,594
+WEEKDAY,20,Clarke Quay,Dhoby Ghaut,594
+WEEKDAY,14,Buangkok,Hougang,593
+WEEKDAY,12,Dhoby Ghaut,Boon Keng,593
+WEEKDAY,7,Dhoby Ghaut,HarbourFront,592
+WEEKDAY,12,Potong Pasir,Little India,591
+WEEKDAY,19,Buangkok,Kovan,591
+WEEKDAY,20,Farrer Park,Dhoby Ghaut,590
+WEEKDAY,12,Little India,Outram Park,590
+WEEKDAY,11,Serangoon,Punggol,590
+WEEKDAY,15,Serangoon,Dhoby Ghaut,590
+WEEKDAY,17,HarbourFront,Clarke Quay,589
+WEEKDAY,21,Potong Pasir,Sengkang,589
+WEEKDAY,13,Hougang,Boon Keng,589
+WEEKDAY,22,Little India,Punggol,589
+WEEKDAY,12,Little India,Kovan,588
+WEEKDAY,21,Potong Pasir,Hougang,588
+WEEKDAY,14,Chinatown,Kovan,587
+WEEKDAY,6,Buangkok,Chinatown,586
+WEEKDAY,16,Hougang,Chinatown,585
+WEEKDAY,16,Little India,Dhoby Ghaut,585
+WEEKDAY,14,Farrer Park,Sengkang,585
+WEEKDAY,6,Boon Keng,Sengkang,584
+WEEKDAY,11,Serangoon,Hougang,584
+WEEKDAY,16,Serangoon,Dhoby Ghaut,584
+WEEKDAY,9,Buangkok,Farrer Park,582
+WEEKDAY,12,Little India,Punggol,581
+WEEKDAY,7,Sengkang,Buangkok,580
+WEEKDAY,13,Serangoon,Outram Park,580
+WEEKDAY,18,Outram Park,Clarke Quay,580
+WEEKDAY,16,Chinatown,Outram Park,580
+WEEKDAY,9,Potong Pasir,Dhoby Ghaut,580
+WEEKDAY,14,Dhoby Ghaut,Kovan,580
+WEEKDAY,9,Buangkok,Outram Park,579
+WEEKDAY,12,Chinatown,Punggol,578
+WEEKDAY,13,Punggol,Dhoby Ghaut,578
+WEEKDAY,19,Sengkang,Boon Keng,577
+WEEKDAY,22,Boon Keng,Sengkang,576
+WEEKDAY,20,Outram Park,Little India,576
+WEEKDAY,16,Hougang,Dhoby Ghaut,576
+WEEKDAY,16,HarbourFront,Punggol,575
+WEEKDAY,11,Sengkang,Outram Park,575
+WEEKDAY,6,Kovan,Dhoby Ghaut,575
+WEEKDAY,14,Hougang,Boon Keng,574
+WEEKDAY,18,Punggol,Potong Pasir,573
+WEEKDAY,19,Dhoby Ghaut,Clarke Quay,572
+WEEKDAY,9,Little India,HarbourFront,572
+WEEKDAY,22,Little India,Serangoon,572
+WEEKDAY,22,Clarke Quay,Kovan,571
+WEEKDAY,21,Boon Keng,Punggol,571
+WEEKDAY,10,Little India,Dhoby Ghaut,571
+WEEKDAY,11,Hougang,Buangkok,571
+WEEKDAY,12,Dhoby Ghaut,Clarke Quay,570
+WEEKDAY,17,Clarke Quay,Chinatown,570
+WEEKDAY,21,Potong Pasir,Boon Keng,570
+WEEKDAY,21,Potong Pasir,Serangoon,569
+WEEKDAY,12,Potong Pasir,Sengkang,569
+WEEKDAY,14,Kovan,Little India,568
+WEEKDAY,15,Buangkok,Hougang,568
+WEEKDAY,12,Sengkang,Outram Park,568
+WEEKDAY,9,Sengkang,Woodleigh,568
+WEEKDAY,19,Woodleigh,Farrer Park,568
+WEEKDAY,22,Boon Keng,Hougang,567
+WEEKDAY,8,Potong Pasir,Woodleigh,567
+WEEKDAY,16,Buangkok,Kovan,567
+WEEKDAY,22,HarbourFront,Serangoon,567
+WEEKDAY,15,Sengkang,Chinatown,567
+WEEKDAY,11,Boon Keng,Punggol,567
+WEEKDAY,6,Farrer Park,Serangoon,566
+WEEKDAY,6,Potong Pasir,HarbourFront,566
+WEEKDAY,13,Little India,Punggol,566
+WEEKDAY,10,Serangoon,Punggol,566
+WEEKDAY,7,Farrer Park,Kovan,566
+WEEKDAY,19,HarbourFront,Potong Pasir,565
+WEEKDAY,20,HarbourFront,Kovan,564
+WEEKDAY,19,Little India,Outram Park,564
+WEEKDAY,12,Dhoby Ghaut,Sengkang,564
+WEEKDAY,17,Potong Pasir,Little India,564
+WEEKDAY,15,Woodleigh,Kovan,562
+WEEKDAY,13,Boon Keng,Kovan,562
+WEEKDAY,7,Farrer Park,Dhoby Ghaut,561
+WEEKDAY,12,Sengkang,Potong Pasir,561
+WEEKDAY,9,Farrer Park,Outram Park,560
+WEEKDAY,14,Sengkang,Potong Pasir,560
+WEEKDAY,7,Little India,Serangoon,559
+WEEKDAY,8,Dhoby Ghaut,Little India,559
+WEEKDAY,17,HarbourFront,Potong Pasir,559
+WEEKDAY,15,Dhoby Ghaut,Clarke Quay,559
+WEEKDAY,15,Little India,Dhoby Ghaut,558
+WEEKDAY,15,Hougang,Little India,558
+WEEKDAY,12,Dhoby Ghaut,Serangoon,558
+WEEKDAY,6,Potong Pasir,Hougang,558
+WEEKDAY,11,Buangkok,Chinatown,557
+WEEKDAY,6,Kovan,Serangoon,557
+WEEKDAY,12,Potong Pasir,Dhoby Ghaut,556
+WEEKDAY,22,Serangoon,Kovan,556
+WEEKDAY,5,Sengkang,HarbourFront,555
+WEEKDAY,19,Serangoon,Chinatown,554
+WEEKDAY,20,Little India,Chinatown,553
+WEEKDAY,14,Kovan,Chinatown,553
+WEEKDAY,16,Boon Keng,Dhoby Ghaut,553
+WEEKDAY,12,HarbourFront,Outram Park,552
+WEEKDAY,9,Farrer Park,Dhoby Ghaut,552
+WEEKDAY,17,Woodleigh,Buangkok,551
+WEEKDAY,13,Dhoby Ghaut,Potong Pasir,551
+WEEKDAY,6,Punggol,Clarke Quay,551
+WEEKDAY,17,Woodleigh,Farrer Park,551
+WEEKDAY,6,Kovan,Punggol,551
+WEEKDAY,6,Kovan,Farrer Park,551
+WEEKDAY,22,Clarke Quay,Punggol,550
+WEEKDAY,10,Chinatown,Boon Keng,549
+WEEKDAY,12,Potong Pasir,Chinatown,549
+WEEKDAY,8,Outram Park,Farrer Park,549
+WEEKDAY,16,Sengkang,Chinatown,549
+WEEKDAY,13,Little India,Clarke Quay,548
+WEEKDAY,17,Kovan,Little India,548
+WEEKDAY,10,Sengkang,Clarke Quay,548
+WEEKDAY,21,Outram Park,Punggol,548
+WEEKDAY,22,Kovan,Hougang,547
+WEEKDAY,15,Outram Park,Dhoby Ghaut,547
+WEEKDAY,20,Chinatown,HarbourFront,546
+WEEKDAY,6,Boon Keng,Potong Pasir,546
+WEEKDAY,18,Dhoby Ghaut,HarbourFront,546
+WEEKDAY,16,Chinatown,Buangkok,545
+WEEKDAY,15,Clarke Quay,Chinatown,545
+WEEKDAY,13,Boon Keng,Outram Park,545
+WEEKDAY,15,Little India,Boon Keng,545
+WEEKDAY,7,Farrer Park,Little India,545
+WEEKDAY,16,Outram Park,Boon Keng,544
+WEEKDAY,14,Boon Keng,Kovan,543
+WEEKDAY,13,Farrer Park,Hougang,543
+WEEKDAY,20,Farrer Park,Chinatown,542
+WEEKDAY,21,Punggol,Kovan,542
+WEEKDAY,13,Kovan,Boon Keng,542
+WEEKDAY,10,Boon Keng,Outram Park,542
+WEEKDAY,16,Boon Keng,Buangkok,541
+WEEKDAY,7,Little India,Chinatown,541
+WEEKDAY,11,Chinatown,Hougang,540
+WEEKDAY,16,Sengkang,Dhoby Ghaut,540
+WEEKDAY,17,Punggol,Boon Keng,539
+WEEKDAY,15,Sengkang,Farrer Park,539
+WEEKDAY,12,Serangoon,Buangkok,539
+WEEKDAY,10,Outram Park,Little India,539
+WEEKDAY,16,Clarke Quay,Dhoby Ghaut,538
+WEEKDAY,17,Outram Park,HarbourFront,537
+WEEKDAY,12,Punggol,Little India,537
+WEEKDAY,15,Woodleigh,Serangoon,536
+WEEKDAY,10,Dhoby Ghaut,Chinatown,535
+WEEKDAY,16,HarbourFront,Farrer Park,535
+WEEKDAY,22,Serangoon,Buangkok,535
+WEEKDAY,9,Buangkok,HarbourFront,534
+WEEKDAY,22,Clarke Quay,Buangkok,534
+WEEKDAY,12,Hougang,Outram Park,534
+WEEKDAY,6,Serangoon,Farrer Park,533
+WEEKDAY,8,Woodleigh,Outram Park,533
+WEEKDAY,16,Punggol,Farrer Park,532
+WEEKDAY,21,Little India,Boon Keng,531
+WEEKDAY,10,Buangkok,Dhoby Ghaut,531
+WEEKDAY,14,Sengkang,Boon Keng,531
+WEEKDAY,17,Little India,HarbourFront,531
+WEEKDAY,10,Little India,Outram Park,531
+WEEKDAY,8,Potong Pasir,Hougang,531
+WEEKDAY,8,Serangoon,Sengkang,531
+WEEKDAY,12,Kovan,Dhoby Ghaut,530
+WEEKDAY,11,Little India,Hougang,530
+WEEKDAY,12,Outram Park,Clarke Quay,530
+WEEKDAY,22,Serangoon,Farrer Park,529
+WEEKDAY,10,Punggol,Potong Pasir,529
+WEEKDAY,14,Kovan,Dhoby Ghaut,529
+WEEKDAY,12,Dhoby Ghaut,Hougang,528
+WEEKDAY,8,HarbourFront,Outram Park,528
+WEEKDAY,20,Little India,Potong Pasir,528
+WEEKDAY,9,Boon Keng,Hougang,528
+WEEKDAY,16,HarbourFront,Little India,528
+WEEKDAY,15,Sengkang,Potong Pasir,528
+WEEKDAY,11,Sengkang,Potong Pasir,528
+WEEKDAY,8,Little India,Serangoon,527
+WEEKDAY,11,Potong Pasir,Sengkang,527
+WEEKDAY,13,Dhoby Ghaut,Hougang,527
+WEEKDAY,16,Hougang,Little India,527
+WEEKDAY,8,Serangoon,Punggol,526
+WEEKDAY,15,Chinatown,Clarke Quay,526
+WEEKDAY,17,Punggol,Dhoby Ghaut,526
+WEEKDAY,6,Kovan,Little India,525
+WEEKDAY,13,Clarke Quay,Outram Park,525
+WEEKDAY,16,Woodleigh,Punggol,525
+WEEKDAY,17,Punggol,Potong Pasir,524
+WEEKDAY,18,Punggol,Dhoby Ghaut,523
+WEEKDAY,18,Punggol,Little India,523
+WEEKDAY,13,Farrer Park,Kovan,523
+WEEKDAY,16,Dhoby Ghaut,Clarke Quay,522
+WEEKDAY,15,Buangkok,Serangoon,522
+WEEKDAY,22,HarbourFront,Punggol,522
+WEEKDAY,15,Chinatown,Potong Pasir,522
+WEEKDAY,15,Kovan,Potong Pasir,522
+WEEKDAY,9,Serangoon,Punggol,522
+WEEKDAY,15,Woodleigh,Potong Pasir,521
+WEEKDAY,12,Outram Park,Serangoon,521
+WEEKDAY,13,Potong Pasir,Kovan,521
+WEEKDAY,14,Outram Park,Dhoby Ghaut,521
+WEEKDAY,7,HarbourFront,Little India,521
+WEEKDAY,8,HarbourFront,Clarke Quay,521
+WEEKDAY,21,Kovan,Boon Keng,521
+WEEKDAY,14,Potong Pasir,Dhoby Ghaut,520
+WEEKDAY,6,Farrer Park,HarbourFront,520
+WEEKDAY,19,Chinatown,Clarke Quay,520
+WEEKDAY,10,Farrer Park,Clarke Quay,520
+WEEKDAY,13,Sengkang,Potong Pasir,520
+WEEKDAY,13,Hougang,Outram Park,520
+WEEKDAY,18,Chinatown,Clarke Quay,519
+WEEKDAY,23,Clarke Quay,Serangoon,518
+WEEKDAY,19,Kovan,Little India,517
+WEEKDAY,6,Little India,Outram Park,517
+WEEKDAY,13,Kovan,Dhoby Ghaut,517
+WEEKDAY,16,HarbourFront,Dhoby Ghaut,517
+WEEKDAY,12,Sengkang,Boon Keng,517
+WEEKDAY,10,Boon Keng,HarbourFront,517
+WEEKDAY,13,Sengkang,Boon Keng,517
+WEEKDAY,9,Little India,Dhoby Ghaut,516
+WEEKDAY,15,Outram Park,Farrer Park,515
+WEEKDAY,16,Potong Pasir,Buangkok,515
+WEEKDAY,19,Little India,HarbourFront,515
+WEEKDAY,19,Hougang,Potong Pasir,515
+WEEKDAY,15,Sengkang,Dhoby Ghaut,514
+WEEKDAY,21,HarbourFront,Chinatown,514
+WEEKDAY,12,Hougang,Boon Keng,514
+WEEKDAY,9,Potong Pasir,Outram Park,513
+WEEKDAY,15,Dhoby Ghaut,Buangkok,513
+WEEKDAY,11,Chinatown,HarbourFront,512
+WEEKDAY,21,Outram Park,Boon Keng,512
+WEEKDAY,10,Serangoon,Potong Pasir,511
+WEEKDAY,12,Chinatown,Kovan,511
+WEEKDAY,16,Chinatown,Potong Pasir,510
+WEEKDAY,12,Farrer Park,Sengkang,510
+WEEKDAY,17,Kovan,Dhoby Ghaut,510
+WEEKDAY,13,Little India,Kovan,510
+WEEKDAY,10,Buangkok,Little India,510
+WEEKDAY,20,Boon Keng,Potong Pasir,509
+WEEKDAY,15,HarbourFront,Hougang,509
+WEEKDAY,16,Little India,Buangkok,509
+WEEKDAY,9,Outram Park,Little India,509
+WEEKDAY,17,Little India,Outram Park,508
+WEEKDAY,17,Dhoby Ghaut,Clarke Quay,508
+WEEKDAY,14,Little India,Boon Keng,507
+WEEKDAY,19,Serangoon,Dhoby Ghaut,507
+WEEKDAY,16,Hougang,Boon Keng,507
+WEEKDAY,12,Clarke Quay,Little India,507
+WEEKDAY,21,Clarke Quay,Potong Pasir,506
+WEEKDAY,14,Punggol,Chinatown,506
+WEEKDAY,11,Dhoby Ghaut,Little India,506
+WEEKDAY,5,Punggol,Sengkang,506
+WEEKDAY,18,Boon Keng,HarbourFront,506
+WEEKDAY,7,Woodleigh,Outram Park,506
+WEEKDAY,14,Punggol,Dhoby Ghaut,505
+WEEKDAY,18,Boon Keng,Clarke Quay,505
+WEEKDAY,13,Potong Pasir,Hougang,505
+WEEKDAY,15,HarbourFront,Sengkang,505
+WEEKDAY,14,Potong Pasir,Little India,505
+WEEKDAY,10,Kovan,Clarke Quay,504
+WEEKDAY,14,Farrer Park,Kovan,504
+WEEKDAY,22,Serangoon,Potong Pasir,504
+WEEKDAY,15,Outram Park,Little India,502
+WEEKDAY,13,Potong Pasir,Little India,502
+WEEKDAY,8,Farrer Park,Hougang,502
+WEEKDAY,13,Chinatown,Potong Pasir,502
+WEEKDAY,10,Boon Keng,Punggol,502
+WEEKDAY,17,Potong Pasir,Chinatown,501
+WEEKDAY,12,HarbourFront,Little India,501
+WEEKDAY,13,Dhoby Ghaut,Punggol,501
+WEEKDAY,16,Kovan,Potong Pasir,501
+WEEKDAY,9,Sengkang,Buangkok,501
+WEEKDAY,14,Little India,Outram Park,501
+WEEKDAY,12,Boon Keng,Outram Park,501
+WEEKDAY,11,Hougang,Clarke Quay,500
+WEEKDAY,9,HarbourFront,Little India,499
+WEEKDAY,10,Punggol,Clarke Quay,499
+WEEKDAY,21,Sengkang,Boon Keng,498
+WEEKDAY,16,Hougang,Potong Pasir,498
+WEEKDAY,21,Little India,Potong Pasir,498
+WEEKDAY,9,Chinatown,HarbourFront,496
+WEEKDAY,13,Outram Park,Farrer Park,496
+WEEKDAY,6,Little India,Serangoon,495
+WEEKDAY,13,Punggol,Little India,494
+WEEKDAY,22,Chinatown,Buangkok,493
+WEEKDAY,16,Clarke Quay,Punggol,493
+WEEKDAY,6,Serangoon,Clarke Quay,491
+WEEKDAY,21,Buangkok,Sengkang,491
+WEEKDAY,13,Sengkang,Outram Park,491
+WEEKDAY,11,Buangkok,Dhoby Ghaut,491
+WEEKDAY,18,Farrer Park,Outram Park,491
+WEEKDAY,21,Potong Pasir,Punggol,491
+WEEKDAY,22,Clarke Quay,Potong Pasir,491
+WEEKDAY,17,Woodleigh,Potong Pasir,490
+WEEKDAY,5,Hougang,HarbourFront,490
+WEEKDAY,23,Punggol,Sengkang,490
+WEEKDAY,8,Dhoby Ghaut,Boon Keng,489
+WEEKDAY,7,Potong Pasir,Sengkang,489
+WEEKDAY,12,Kovan,Boon Keng,489
+WEEKDAY,9,Little India,Boon Keng,489
+WEEKDAY,10,Kovan,Potong Pasir,489
+WEEKDAY,22,HarbourFront,Boon Keng,489
+WEEKDAY,11,Outram Park,Farrer Park,488
+WEEKDAY,18,Potong Pasir,Chinatown,487
+WEEKDAY,20,Dhoby Ghaut,Clarke Quay,486
+WEEKDAY,17,Punggol,Chinatown,485
+WEEKDAY,20,Outram Park,Boon Keng,485
+WEEKDAY,17,Kovan,Chinatown,485
+WEEKDAY,19,Punggol,Little India,485
+WEEKDAY,18,Farrer Park,Clarke Quay,484
+WEEKDAY,6,Buangkok,Farrer Park,484
+WEEKDAY,16,Sengkang,Little India,484
+WEEKDAY,17,Potong Pasir,Dhoby Ghaut,484
+WEEKDAY,15,Outram Park,Punggol,484
+WEEKDAY,15,Clarke Quay,Serangoon,484
+WEEKDAY,20,Kovan,Farrer Park,484
+WEEKDAY,19,Sengkang,Little India,483
+WEEKDAY,15,Farrer Park,Kovan,483
+WEEKDAY,22,Boon Keng,Serangoon,482
+WEEKDAY,10,Hougang,HarbourFront,482
+WEEKDAY,15,Clarke Quay,Farrer Park,482
+WEEKDAY,21,HarbourFront,Boon Keng,482
+WEEKDAY,21,Boon Keng,Buangkok,482
+WEEKDAY,14,Chinatown,Potong Pasir,481
+WEEKDAY,21,Little India,Farrer Park,481
+WEEKDAY,22,Chinatown,Punggol,481
+WEEKDAY,15,Punggol,Chinatown,480
+WEEKDAY,16,Clarke Quay,Chinatown,479
+WEEKDAY,22,Punggol,Serangoon,479
+WEEKDAY,20,Boon Keng,Chinatown,479
+WEEKDAY,14,Outram Park,Sengkang,479
+WEEKDAY,9,Potong Pasir,Kovan,478
+WEEKDAY,16,Little India,Boon Keng,478
+WEEKDAY,9,Boon Keng,Punggol,478
+WEEKDAY,15,Sengkang,Little India,477
+WEEKDAY,10,Chinatown,HarbourFront,477
+WEEKDAY,15,Hougang,Potong Pasir,477
+WEEKDAY,10,Chinatown,Serangoon,476
+WEEKDAY,16,Sengkang,Potong Pasir,475
+WEEKDAY,9,Chinatown,Little India,475
+WEEKDAY,8,Outram Park,Serangoon,475
+WEEKDAY,11,Boon Keng,Hougang,474
+WEEKDAY,10,Boon Keng,Hougang,474
+WEEKDAY,20,Clarke Quay,Potong Pasir,474
+WEEKDAY,14,Dhoby Ghaut,Outram Park,474
+WEEKDAY,17,Clarke Quay,Little India,474
+WEEKDAY,7,Outram Park,Serangoon,473
+WEEKDAY,16,Punggol,Chinatown,473
+WEEKDAY,22,Punggol,Kovan,473
+WEEKDAY,18,Buangkok,Farrer Park,473
+WEEKDAY,16,Kovan,Boon Keng,472
+WEEKDAY,21,Chinatown,Little India,472
+WEEKDAY,13,Potong Pasir,Chinatown,472
+WEEKDAY,12,Farrer Park,Hougang,472
+WEEKDAY,6,Farrer Park,Little India,472
+WEEKDAY,6,Hougang,Clarke Quay,471
+WEEKDAY,6,Buangkok,Dhoby Ghaut,471
+WEEKDAY,11,Outram Park,Serangoon,470
+WEEKDAY,18,Serangoon,Clarke Quay,470
+WEEKDAY,7,Hougang,Buangkok,470
+WEEKDAY,16,Clarke Quay,Boon Keng,470
+WEEKDAY,21,Dhoby Ghaut,Little India,470
+WEEKDAY,14,Kovan,Potong Pasir,469
+WEEKDAY,14,Woodleigh,Sengkang,469
+WEEKDAY,22,HarbourFront,Farrer Park,469
+WEEKDAY,14,Farrer Park,Punggol,469
+WEEKDAY,13,Little India,Potong Pasir,467
+WEEKDAY,21,Dhoby Ghaut,Chinatown,467
+WEEKDAY,13,Potong Pasir,Dhoby Ghaut,466
+WEEKDAY,11,Clarke Quay,Chinatown,466
+WEEKDAY,20,Chinatown,Outram Park,466
+WEEKDAY,10,Serangoon,HarbourFront,465
+WEEKDAY,22,Farrer Park,Buangkok,465
+WEEKDAY,7,Farrer Park,Clarke Quay,465
+WEEKDAY,22,Kovan,Punggol,464
+WEEKDAY,11,Clarke Quay,Dhoby Ghaut,464
+WEEKDAY,22,Little India,Kovan,464
+WEEKDAY,20,Little India,Dhoby Ghaut,464
+WEEKDAY,18,Serangoon,Outram Park,463
+WEEKDAY,19,Dhoby Ghaut,Outram Park,463
+WEEKDAY,13,Outram Park,Little India,462
+WEEKDAY,21,Hougang,Boon Keng,462
+WEEKDAY,21,HarbourFront,Kovan,462
+WEEKDAY,11,Punggol,Boon Keng,462
+WEEKDAY,15,Clarke Quay,Sengkang,462
+WEEKDAY,21,Kovan,Farrer Park,462
+WEEKDAY,9,HarbourFront,Clarke Quay,462
+WEEKDAY,7,Woodleigh,Boon Keng,461
+WEEKDAY,15,Sengkang,Boon Keng,461
+WEEKDAY,10,Potong Pasir,Kovan,461
+WEEKDAY,22,Sengkang,Kovan,460
+WEEKDAY,10,Little India,Boon Keng,460
+WEEKDAY,12,Punggol,Potong Pasir,460
+WEEKDAY,10,Sengkang,HarbourFront,460
+WEEKDAY,13,Farrer Park,Punggol,459
+WEEKDAY,20,Hougang,Boon Keng,459
+WEEKDAY,11,Potong Pasir,Kovan,459
+WEEKDAY,7,Boon Keng,Woodleigh,459
+WEEKDAY,6,Boon Keng,Clarke Quay,458
+WEEKDAY,20,Outram Park,Kovan,458
+WEEKDAY,15,Kovan,Chinatown,457
+WEEKDAY,7,Outram Park,Little India,457
+WEEKDAY,12,Hougang,Potong Pasir,457
+WEEKDAY,20,Potong Pasir,Kovan,457
+WEEKDAY,11,Boon Keng,Outram Park,457
+WEEKDAY,8,Boon Keng,Punggol,456
+WEEKDAY,20,Farrer Park,Woodleigh,456
+WEEKDAY,13,Hougang,Potong Pasir,455
+WEEKDAY,17,HarbourFront,Outram Park,454
+WEEKDAY,16,Clarke Quay,Farrer Park,454
+WEEKDAY,14,Punggol,Farrer Park,454
+WEEKDAY,23,Dhoby Ghaut,Punggol,453
+WEEKDAY,15,Potong Pasir,Dhoby Ghaut,453
+WEEKDAY,13,Clarke Quay,Little India,452
+WEEKDAY,23,Farrer Park,Hougang,452
+WEEKDAY,12,Little India,HarbourFront,452
+WEEKDAY,12,Potong Pasir,Hougang,451
+WEEKDAY,6,Potong Pasir,Sengkang,451
+WEEKDAY,7,Little India,Boon Keng,450
+WEEKDAY,20,Sengkang,Boon Keng,450
+WEEKDAY,11,Chinatown,Punggol,450
+WEEKDAY,21,Hougang,Serangoon,450
+WEEKDAY,11,Punggol,Buangkok,450
+WEEKDAY,8,Chinatown,Boon Keng,449
+WEEKDAY,9,Punggol,Woodleigh,449
+WEEKDAY,10,Outram Park,Dhoby Ghaut,449
+WEEKDAY,13,Outram Park,Dhoby Ghaut,448
+WEEKDAY,21,Hougang,Farrer Park,448
+WEEKDAY,14,Outram Park,Hougang,448
+WEEKDAY,13,Outram Park,HarbourFront,448
+WEEKDAY,20,Outram Park,Buangkok,448
+WEEKDAY,13,Farrer Park,Outram Park,447
+WEEKDAY,21,Farrer Park,Woodleigh,447
+WEEKDAY,23,Clarke Quay,Sengkang,447
+WEEKDAY,7,Little India,Woodleigh,447
+WEEKDAY,13,Little India,HarbourFront,447
+WEEKDAY,9,Dhoby Ghaut,Outram Park,446
+WEEKDAY,12,Buangkok,Dhoby Ghaut,446
+WEEKDAY,23,Clarke Quay,Boon Keng,446
+WEEKDAY,21,Punggol,Potong Pasir,446
+WEEKDAY,11,Boon Keng,Clarke Quay,446
+WEEKDAY,13,Hougang,HarbourFront,445
+WEEKDAY,22,Outram Park,Serangoon,445
+WEEKDAY,14,Hougang,Potong Pasir,444
+WEEKDAY,17,Punggol,Little India,444
+WEEKDAY,18,Chinatown,Woodleigh,444
+WEEKDAY,5,Punggol,Hougang,443
+WEEKDAY,10,Potong Pasir,Dhoby Ghaut,443
+WEEKDAY,11,Farrer Park,Serangoon,443
+WEEKDAY,16,Woodleigh,Hougang,443
+WEEKDAY,9,Woodleigh,Chinatown,442
+WEEKDAY,16,Sengkang,Boon Keng,442
+WEEKDAY,15,Punggol,Farrer Park,442
+WEEKDAY,10,Punggol,Outram Park,442
+WEEKDAY,13,Woodleigh,Potong Pasir,442
+WEEKDAY,15,Kovan,Boon Keng,441
+WEEKDAY,16,Kovan,Chinatown,441
+WEEKDAY,8,Woodleigh,Clarke Quay,441
+WEEKDAY,14,Outram Park,Serangoon,441
+WEEKDAY,19,Farrer Park,Outram Park,441
+WEEKDAY,19,Sengkang,Potong Pasir,440
+WEEKDAY,11,Little India,Kovan,439
+WEEKDAY,13,Dhoby Ghaut,Kovan,439
+WEEKDAY,18,Buangkok,Boon Keng,439
+WEEKDAY,14,Little India,Potong Pasir,438
+WEEKDAY,11,Hougang,Potong Pasir,438
+WEEKDAY,8,HarbourFront,Hougang,437
+WEEKDAY,9,Punggol,Buangkok,437
+WEEKDAY,15,HarbourFront,Serangoon,436
+WEEKDAY,10,Farrer Park,Serangoon,436
+WEEKDAY,8,Chinatown,Outram Park,436
+WEEKDAY,12,Little India,Potong Pasir,435
+WEEKDAY,23,Dhoby Ghaut,Serangoon,435
+WEEKDAY,6,Farrer Park,Hougang,435
+WEEKDAY,10,Outram Park,Farrer Park,434
+WEEKDAY,18,Woodleigh,Boon Keng,434
+WEEKDAY,10,Buangkok,Farrer Park,434
+WEEKDAY,20,Serangoon,Little India,434
+WEEKDAY,8,Kovan,Buangkok,434
+WEEKDAY,12,Potong Pasir,Punggol,433
+WEEKDAY,5,Sengkang,Boon Keng,433
+WEEKDAY,22,Potong Pasir,Sengkang,433
+WEEKDAY,22,Outram Park,Hougang,433
+WEEKDAY,19,Punggol,Boon Keng,433
+WEEKDAY,16,Farrer Park,Buangkok,433
+WEEKDAY,18,Buangkok,Dhoby Ghaut,433
+WEEKDAY,11,Serangoon,Clarke Quay,433
+WEEKDAY,22,Outram Park,Sengkang,433
+WEEKDAY,21,Boon Keng,Kovan,433
+WEEKDAY,17,Clarke Quay,Potong Pasir,432
+WEEKDAY,13,Boon Keng,Clarke Quay,432
+WEEKDAY,19,Hougang,Chinatown,432
+WEEKDAY,8,Little India,Hougang,431
+WEEKDAY,10,Chinatown,Outram Park,431
+WEEKDAY,9,Chinatown,Farrer Park,430
+WEEKDAY,21,Dhoby Ghaut,Clarke Quay,430
+WEEKDAY,13,Punggol,Potong Pasir,430
+WEEKDAY,9,Farrer Park,HarbourFront,429
+WEEKDAY,15,Potong Pasir,Buangkok,429
+WEEKDAY,14,Outram Park,Farrer Park,428
+WEEKDAY,9,Outram Park,Farrer Park,428
+WEEKDAY,20,Clarke Quay,Little India,427
+WEEKDAY,8,Chinatown,Little India,426
+WEEKDAY,13,Kovan,Potong Pasir,425
+WEEKDAY,18,Punggol,Chinatown,425
+WEEKDAY,14,Serangoon,Outram Park,425
+WEEKDAY,20,Buangkok,Hougang,425
+WEEKDAY,15,Clarke Quay,Hougang,424
+WEEKDAY,7,Kovan,Buangkok,424
+WEEKDAY,20,Sengkang,Farrer Park,424
+WEEKDAY,19,Hougang,Dhoby Ghaut,424
+WEEKDAY,14,Potong Pasir,Chinatown,424
+WEEKDAY,12,Chinatown,Potong Pasir,424
+WEEKDAY,12,Dhoby Ghaut,Outram Park,423
+WEEKDAY,11,Punggol,Outram Park,423
+WEEKDAY,11,Serangoon,Buangkok,422
+WEEKDAY,13,Punggol,Farrer Park,422
+WEEKDAY,15,Little India,Buangkok,422
+WEEKDAY,11,Outram Park,Sengkang,422
+WEEKDAY,6,Sengkang,Clarke Quay,421
+WEEKDAY,17,Chinatown,Clarke Quay,421
+WEEKDAY,16,HarbourFront,Boon Keng,421
+WEEKDAY,10,Little India,Clarke Quay,420
+WEEKDAY,12,Potong Pasir,Kovan,420
+WEEKDAY,19,Punggol,Potong Pasir,420
+WEEKDAY,11,Dhoby Ghaut,Sengkang,420
+WEEKDAY,20,Little India,Outram Park,419
+WEEKDAY,10,Hougang,Buangkok,419
+WEEKDAY,11,Kovan,Potong Pasir,419
+WEEKDAY,14,Kovan,Boon Keng,419
+WEEKDAY,15,Kovan,Little India,419
+WEEKDAY,14,Clarke Quay,Farrer Park,419
+WEEKDAY,20,Chinatown,Clarke Quay,419
+WEEKDAY,21,Farrer Park,Dhoby Ghaut,419
+WEEKDAY,22,Potong Pasir,Hougang,418
+WEEKDAY,9,Chinatown,Boon Keng,418
+WEEKDAY,21,Outram Park,Kovan,418
+WEEKDAY,20,Potong Pasir,Buangkok,417
+WEEKDAY,9,Farrer Park,Serangoon,417
+WEEKDAY,21,Farrer Park,Chinatown,417
+WEEKDAY,19,Clarke Quay,Chinatown,416
+WEEKDAY,10,Potong Pasir,Sengkang,416
+WEEKDAY,14,Dhoby Ghaut,Buangkok,416
+WEEKDAY,7,Farrer Park,Punggol,415
+WEEKDAY,10,Little India,Sengkang,413
+WEEKDAY,8,Potong Pasir,Punggol,413
+WEEKDAY,9,Potong Pasir,HarbourFront,412
+WEEKDAY,18,Farrer Park,HarbourFront,412
+WEEKDAY,8,Little India,Woodleigh,411
+WEEKDAY,16,Kovan,Little India,411
+WEEKDAY,6,Boon Keng,Punggol,411
+WEEKDAY,21,Little India,Chinatown,410
+WEEKDAY,13,Farrer Park,Clarke Quay,410
+WEEKDAY,15,Potong Pasir,Chinatown,409
+WEEKDAY,7,Dhoby Ghaut,Woodleigh,409
+WEEKDAY,15,Clarke Quay,Boon Keng,409
+WEEKDAY,19,Boon Keng,Outram Park,409
+WEEKDAY,9,Chinatown,Outram Park,408
+WEEKDAY,15,Chinatown,Buangkok,408
+WEEKDAY,19,Woodleigh,Serangoon,408
+WEEKDAY,19,HarbourFront,Outram Park,407
+WEEKDAY,9,Dhoby Ghaut,Clarke Quay,407
+WEEKDAY,14,Farrer Park,Clarke Quay,407
+WEEKDAY,20,Kovan,Potong Pasir,407
+WEEKDAY,18,Clarke Quay,HarbourFront,407
+WEEKDAY,5,Punggol,HarbourFront,407
+WEEKDAY,16,Kovan,Dhoby Ghaut,407
+WEEKDAY,6,Serangoon,Punggol,406
+WEEKDAY,10,Chinatown,Hougang,406
+WEEKDAY,16,Outram Park,Buangkok,406
+WEEKDAY,8,Little India,Boon Keng,406
+WEEKDAY,22,Sengkang,Buangkok,406
+WEEKDAY,5,Hougang,Chinatown,405
+WEEKDAY,15,HarbourFront,Dhoby Ghaut,405
+WEEKDAY,7,Boon Keng,Buangkok,405
+WEEKDAY,19,Chinatown,Woodleigh,405
+WEEKDAY,19,HarbourFront,Clarke Quay,405
+WEEKDAY,11,Potong Pasir,Punggol,404
+WEEKDAY,8,Chinatown,Farrer Park,404
+WEEKDAY,15,Kovan,Dhoby Ghaut,403
+WEEKDAY,8,Little India,Kovan,403
+WEEKDAY,20,Woodleigh,Hougang,403
+WEEKDAY,11,Dhoby Ghaut,Boon Keng,403
+WEEKDAY,8,Boon Keng,Buangkok,403
+WEEKDAY,20,Sengkang,Potong Pasir,403
+WEEKDAY,8,Outram Park,Chinatown,403
+WEEKDAY,11,Farrer Park,Clarke Quay,402
+WEEKDAY,19,Hougang,Outram Park,402
+WEEKDAY,9,Dhoby Ghaut,Chinatown,402
+WEEKDAY,22,Farrer Park,Chinatown,402
+WEEKDAY,12,Farrer Park,Kovan,402
+WEEKDAY,22,Outram Park,Farrer Park,402
+WEEKDAY,6,Punggol,Farrer Park,401
+WEEKDAY,15,Woodleigh,Punggol,401
+WEEKDAY,12,Kovan,Potong Pasir,401
+WEEKDAY,15,Woodleigh,Farrer Park,400
+WEEKDAY,16,HarbourFront,Buangkok,399
+WEEKDAY,21,Sengkang,Potong Pasir,399
+WEEKDAY,12,Boon Keng,Clarke Quay,399
+WEEKDAY,6,Serangoon,Kovan,399
+WEEKDAY,14,Outram Park,Little India,399
+WEEKDAY,6,Farrer Park,Punggol,398
+WEEKDAY,20,Little India,HarbourFront,398
+WEEKDAY,19,Serangoon,Outram Park,398
+WEEKDAY,22,Potong Pasir,Punggol,398
+WEEKDAY,13,Woodleigh,Serangoon,398
+WEEKDAY,12,Buangkok,Chinatown,398
+WEEKDAY,20,HarbourFront,Dhoby Ghaut,398
+WEEKDAY,23,Dhoby Ghaut,Kovan,397
+WEEKDAY,12,Hougang,Clarke Quay,397
+WEEKDAY,19,Farrer Park,Clarke Quay,397
+WEEKDAY,23,Chinatown,Hougang,395
+WEEKDAY,14,Punggol,Little India,395
+WEEKDAY,13,Punggol,Boon Keng,395
+WEEKDAY,15,Woodleigh,Hougang,395
+WEEKDAY,16,Potong Pasir,Little India,394
+WEEKDAY,18,Woodleigh,Little India,394
+WEEKDAY,21,Farrer Park,Outram Park,394
+WEEKDAY,11,Buangkok,Little India,393
+WEEKDAY,22,HarbourFront,Kovan,393
+WEEKDAY,16,Little India,Potong Pasir,393
+WEEKDAY,10,Little India,Serangoon,393
+WEEKDAY,21,Potong Pasir,Buangkok,393
+WEEKDAY,23,Serangoon,Sengkang,393
+WEEKDAY,21,HarbourFront,Buangkok,393
+WEEKDAY,12,Punggol,Boon Keng,392
+WEEKDAY,16,Chinatown,Clarke Quay,392
+WEEKDAY,23,Clarke Quay,Farrer Park,391
+WEEKDAY,15,Woodleigh,Dhoby Ghaut,391
+WEEKDAY,10,Outram Park,Boon Keng,391
+WEEKDAY,23,Chinatown,Boon Keng,391
+WEEKDAY,16,Clarke Quay,Kovan,390
+WEEKDAY,12,Outram Park,Sengkang,389
+WEEKDAY,12,Woodleigh,Serangoon,389
+WEEKDAY,23,Farrer Park,Sengkang,389
+WEEKDAY,15,Punggol,Dhoby Ghaut,388
+WEEKDAY,16,Outram Park,Potong Pasir,388
+WEEKDAY,6,Buangkok,Clarke Quay,388
+WEEKDAY,11,Little India,Outram Park,388
+WEEKDAY,8,Outram Park,HarbourFront,387
+WEEKDAY,21,Kovan,Potong Pasir,387
+WEEKDAY,13,Outram Park,Serangoon,387
+WEEKDAY,10,Little India,HarbourFront,386
+WEEKDAY,19,Outram Park,Potong Pasir,386
+WEEKDAY,22,Boon Keng,Farrer Park,386
+WEEKDAY,14,Potong Pasir,Buangkok,386
+WEEKDAY,9,Outram Park,Dhoby Ghaut,385
+WEEKDAY,5,Punggol,Boon Keng,385
+WEEKDAY,12,Clarke Quay,Farrer Park,384
+WEEKDAY,8,Sengkang,Buangkok,384
+WEEKDAY,12,Outram Park,Boon Keng,384
+WEEKDAY,11,Chinatown,Kovan,384
+WEEKDAY,14,Boon Keng,Buangkok,384
+WEEKDAY,14,Hougang,Outram Park,384
+WEEKDAY,21,HarbourFront,Little India,384
+WEEKDAY,20,Dhoby Ghaut,Outram Park,384
+WEEKDAY,8,HarbourFront,Farrer Park,383
+WEEKDAY,6,Boon Keng,Dhoby Ghaut,383
+WEEKDAY,10,Serangoon,Hougang,383
+WEEKDAY,9,Serangoon,Hougang,383
+WEEKDAY,8,Woodleigh,HarbourFront,383
+WEEKDAY,18,Boon Keng,Woodleigh,383
+WEEKDAY,6,Kovan,Hougang,383
+WEEKDAY,19,Potong Pasir,Dhoby Ghaut,382
+WEEKDAY,10,Outram Park,Serangoon,382
+WEEKDAY,14,Farrer Park,Outram Park,381
+WEEKDAY,21,Potong Pasir,Farrer Park,381
+WEEKDAY,17,Farrer Park,Clarke Quay,381
+WEEKDAY,9,Outram Park,Serangoon,380
+WEEKDAY,8,Woodleigh,Kovan,380
+WEEKDAY,11,Potong Pasir,Hougang,380
+WEEKDAY,18,Clarke Quay,Woodleigh,380
+WEEKDAY,11,Punggol,Clarke Quay,380
+WEEKDAY,13,Buangkok,Chinatown,379
+WEEKDAY,16,Potong Pasir,Chinatown,379
+WEEKDAY,15,HarbourFront,Little India,379
+WEEKDAY,21,Outram Park,Buangkok,379
+WEEKDAY,17,Dhoby Ghaut,HarbourFront,379
+WEEKDAY,10,Buangkok,Clarke Quay,378
+WEEKDAY,6,Farrer Park,Potong Pasir,377
+WEEKDAY,18,Hougang,Clarke Quay,377
+WEEKDAY,16,Potong Pasir,Dhoby Ghaut,376
+WEEKDAY,17,Boon Keng,Clarke Quay,376
+WEEKDAY,22,Little India,Buangkok,375
+WEEKDAY,17,Outram Park,Clarke Quay,375
+WEEKDAY,21,Sengkang,Farrer Park,375
+WEEKDAY,11,Little India,Punggol,375
+WEEKDAY,7,Little India,Potong Pasir,375
+WEEKDAY,21,Hougang,Kovan,374
+WEEKDAY,14,Boon Keng,Outram Park,374
+WEEKDAY,15,Boon Keng,Buangkok,374
+WEEKDAY,14,Clarke Quay,Serangoon,374
+WEEKDAY,13,Serangoon,Woodleigh,373
+WEEKDAY,17,Buangkok,Farrer Park,373
+WEEKDAY,7,Little India,Dhoby Ghaut,373
+WEEKDAY,19,Woodleigh,Little India,372
+WEEKDAY,22,HarbourFront,Chinatown,372
+WEEKDAY,14,Woodleigh,Potong Pasir,372
+WEEKDAY,9,Potong Pasir,Punggol,371
+WEEKDAY,11,Dhoby Ghaut,Serangoon,371
+WEEKDAY,19,Farrer Park,Woodleigh,370
+WEEKDAY,12,Outram Park,Hougang,370
+WEEKDAY,20,Woodleigh,Punggol,370
+WEEKDAY,15,Outram Park,Boon Keng,370
+WEEKDAY,13,Buangkok,Dhoby Ghaut,370
+WEEKDAY,7,Potong Pasir,Punggol,369
+WEEKDAY,18,Boon Keng,Outram Park,369
+WEEKDAY,15,Farrer Park,Clarke Quay,368
+WEEKDAY,8,HarbourFront,Sengkang,367
+WEEKDAY,18,Sengkang,Woodleigh,367
+WEEKDAY,18,Buangkok,Potong Pasir,366
+WEEKDAY,6,Potong Pasir,Kovan,366
+WEEKDAY,11,Farrer Park,Potong Pasir,366
+WEEKDAY,15,Little India,Outram Park,365
+WEEKDAY,19,Kovan,Chinatown,365
+WEEKDAY,11,Buangkok,Farrer Park,365
+WEEKDAY,10,Punggol,HarbourFront,365
+WEEKDAY,13,Clarke Quay,Farrer Park,365
+WEEKDAY,10,HarbourFront,Little India,364
+WEEKDAY,20,Farrer Park,Outram Park,364
+WEEKDAY,7,Chinatown,Outram Park,364
+WEEKDAY,7,Outram Park,Hougang,363
+WEEKDAY,11,HarbourFront,Little India,363
+WEEKDAY,14,Sengkang,Outram Park,363
+WEEKDAY,20,Punggol,Potong Pasir,363
+WEEKDAY,10,Chinatown,Dhoby Ghaut,362
+WEEKDAY,13,Punggol,Outram Park,362
+WEEKDAY,22,Kovan,Buangkok,362
+WEEKDAY,20,Woodleigh,Serangoon,362
+WEEKDAY,10,Punggol,Buangkok,361
+WEEKDAY,11,Punggol,Potong Pasir,361
+WEEKDAY,23,Clarke Quay,Punggol,361
+WEEKDAY,16,Punggol,Boon Keng,360
+WEEKDAY,20,Outram Park,Dhoby Ghaut,360
+WEEKDAY,20,Outram Park,Chinatown,360
+WEEKDAY,10,Dhoby Ghaut,Farrer Park,360
+WEEKDAY,15,Punggol,Potong Pasir,360
+WEEKDAY,23,Farrer Park,Serangoon,359
+WEEKDAY,12,HarbourFront,Dhoby Ghaut,358
+WEEKDAY,19,Little India,Clarke Quay,358
+WEEKDAY,5,Sengkang,Punggol,358
+WEEKDAY,15,HarbourFront,Farrer Park,358
+WEEKDAY,23,Farrer Park,Kovan,358
+WEEKDAY,23,Chinatown,Farrer Park,357
+WEEKDAY,17,Dhoby Ghaut,Outram Park,357
+WEEKDAY,17,Serangoon,Clarke Quay,357
+WEEKDAY,15,HarbourFront,Punggol,357
+WEEKDAY,10,Little India,Hougang,356
+WEEKDAY,20,Kovan,Boon Keng,356
+WEEKDAY,12,Farrer Park,Punggol,356
+WEEKDAY,5,Hougang,Outram Park,356
+WEEKDAY,7,Serangoon,Buangkok,356
+WEEKDAY,9,Dhoby Ghaut,HarbourFront,355
+WEEKDAY,6,Outram Park,Boon Keng,355
+WEEKDAY,14,Chinatown,Buangkok,355
+WEEKDAY,7,Farrer Park,Sengkang,354
+WEEKDAY,12,Woodleigh,Potong Pasir,354
+WEEKDAY,21,Chinatown,Dhoby Ghaut,353
+WEEKDAY,15,Clarke Quay,Punggol,353
+WEEKDAY,18,Outram Park,Woodleigh,353
+WEEKDAY,17,Hougang,Clarke Quay,353
+WEEKDAY,11,Hougang,HarbourFront,353
+WEEKDAY,21,Boon Keng,Potong Pasir,353
+WEEKDAY,11,Sengkang,Clarke Quay,353
+WEEKDAY,23,Dhoby Ghaut,Boon Keng,353
+WEEKDAY,7,Woodleigh,Chinatown,353
+WEEKDAY,8,Chinatown,HarbourFront,353
+WEEKDAY,20,Hougang,Little India,353
+WEEKDAY,10,Woodleigh,Chinatown,352
+WEEKDAY,6,Serangoon,Woodleigh,352
+WEEKDAY,20,Woodleigh,Sengkang,352
+WEEKDAY,20,Farrer Park,Clarke Quay,352
+WEEKDAY,16,Punggol,Dhoby Ghaut,351
+WEEKDAY,20,Clarke Quay,Chinatown,351
+WEEKDAY,17,Serangoon,Outram Park,351
+WEEKDAY,13,Outram Park,Sengkang,351
+WEEKDAY,11,Little India,HarbourFront,349
+WEEKDAY,21,Clarke Quay,Dhoby Ghaut,349
+WEEKDAY,10,Chinatown,Sengkang,349
+WEEKDAY,9,Potong Pasir,Hougang,349
+WEEKDAY,15,Potong Pasir,Little India,349
+WEEKDAY,22,HarbourFront,Buangkok,349
+WEEKDAY,10,Buangkok,Boon Keng,349
+WEEKDAY,14,Little India,Buangkok,348
+WEEKDAY,11,Farrer Park,Hougang,348
+WEEKDAY,16,HarbourFront,Kovan,348
+WEEKDAY,7,Little India,Hougang,348
+WEEKDAY,21,Little India,Outram Park,347
+WEEKDAY,14,Outram Park,Punggol,347
+WEEKDAY,22,Boon Keng,Punggol,347
+WEEKDAY,11,Little India,Clarke Quay,347
+WEEKDAY,7,Outram Park,Boon Keng,346
+WEEKDAY,14,Punggol,Potong Pasir,346
+WEEKDAY,13,HarbourFront,Dhoby Ghaut,345
+WEEKDAY,10,Buangkok,Potong Pasir,345
+WEEKDAY,14,HarbourFront,Farrer Park,345
+WEEKDAY,12,Farrer Park,Clarke Quay,344
+WEEKDAY,9,Hougang,Woodleigh,344
+WEEKDAY,18,Potong Pasir,Clarke Quay,344
+WEEKDAY,13,Woodleigh,Farrer Park,344
+WEEKDAY,9,Hougang,Buangkok,344
+WEEKDAY,18,Sengkang,Clarke Quay,344
+WEEKDAY,19,Sengkang,Chinatown,343
+WEEKDAY,12,Farrer Park,Outram Park,343
+WEEKDAY,8,Little India,Dhoby Ghaut,343
+WEEKDAY,7,Chinatown,Serangoon,343
+WEEKDAY,9,HarbourFront,Outram Park,343
+WEEKDAY,13,Clarke Quay,Serangoon,343
+WEEKDAY,9,Farrer Park,Potong Pasir,342
+WEEKDAY,23,Boon Keng,Sengkang,342
+WEEKDAY,7,Outram Park,Farrer Park,342
+WEEKDAY,5,Buangkok,Boon Keng,342
+WEEKDAY,15,Woodleigh,Buangkok,342
+WEEKDAY,8,Woodleigh,Little India,342
+WEEKDAY,22,Farrer Park,Little India,342
+WEEKDAY,12,Dhoby Ghaut,Potong Pasir,341
+WEEKDAY,13,HarbourFront,Little India,341
+WEEKDAY,12,Dhoby Ghaut,Kovan,341
+WEEKDAY,22,Chinatown,Potong Pasir,341
+WEEKDAY,22,Little India,Boon Keng,340
+WEEKDAY,20,Hougang,Potong Pasir,340
+WEEKDAY,13,Sengkang,HarbourFront,340
+WEEKDAY,17,Woodleigh,Boon Keng,339
+WEEKDAY,21,Farrer Park,HarbourFront,339
+WEEKDAY,14,Punggol,Boon Keng,338
+WEEKDAY,13,Woodleigh,Sengkang,338
+WEEKDAY,13,Dhoby Ghaut,HarbourFront,338
+WEEKDAY,12,Sengkang,Clarke Quay,338
+WEEKDAY,18,Serangoon,Woodleigh,337
+WEEKDAY,23,Clarke Quay,Kovan,337
+WEEKDAY,15,Punggol,Little India,337
+WEEKDAY,21,Farrer Park,Clarke Quay,337
+WEEKDAY,18,Kovan,Clarke Quay,337
+WEEKDAY,16,Little India,HarbourFront,336
+WEEKDAY,8,HarbourFront,Dhoby Ghaut,336
+WEEKDAY,21,Chinatown,Clarke Quay,336
+WEEKDAY,18,Hougang,Outram Park,336
+WEEKDAY,6,Farrer Park,Clarke Quay,336
+WEEKDAY,14,Outram Park,Boon Keng,335
+WEEKDAY,10,Outram Park,Sengkang,335
+WEEKDAY,13,Little India,Buangkok,335
+WEEKDAY,6,Little India,Hougang,335
+WEEKDAY,21,Hougang,Potong Pasir,335
+WEEKDAY,17,Serangoon,Woodleigh,335
+WEEKDAY,20,Chinatown,Woodleigh,334
+WEEKDAY,15,Little India,Potong Pasir,334
+WEEKDAY,22,Hougang,Boon Keng,334
+WEEKDAY,12,Buangkok,Little India,333
+WEEKDAY,14,Little India,HarbourFront,332
+WEEKDAY,11,Outram Park,Boon Keng,332
+WEEKDAY,7,Woodleigh,Sengkang,332
+WEEKDAY,12,Dhoby Ghaut,Punggol,332
+WEEKDAY,20,Buangkok,Serangoon,332
+WEEKDAY,12,Punggol,Outram Park,331
+WEEKDAY,14,Little India,Clarke Quay,331
+WEEKDAY,10,Kovan,Outram Park,331
+WEEKDAY,9,Chinatown,Hougang,331
+WEEKDAY,11,HarbourFront,Dhoby Ghaut,330
+WEEKDAY,16,Punggol,Little India,330
+WEEKDAY,9,Little India,Hougang,329
+WEEKDAY,23,Farrer Park,Boon Keng,329
+WEEKDAY,15,Farrer Park,Buangkok,329
+WEEKDAY,14,HarbourFront,Hougang,329
+WEEKDAY,8,Outram Park,Dhoby Ghaut,329
+WEEKDAY,17,Little India,Clarke Quay,329
+WEEKDAY,16,Little India,Outram Park,329
+WEEKDAY,19,Woodleigh,Buangkok,328
+WEEKDAY,23,Sengkang,Punggol,328
+WEEKDAY,12,Serangoon,Clarke Quay,327
+WEEKDAY,11,Chinatown,Clarke Quay,327
+WEEKDAY,9,HarbourFront,Boon Keng,327
+WEEKDAY,5,Sengkang,Chinatown,327
+WEEKDAY,22,Sengkang,Boon Keng,326
+WEEKDAY,7,Chinatown,Boon Keng,326
+WEEKDAY,18,Farrer Park,Woodleigh,325
+WEEKDAY,20,HarbourFront,Potong Pasir,325
+WEEKDAY,8,Farrer Park,Woodleigh,324
+WEEKDAY,10,Farrer Park,Outram Park,324
+WEEKDAY,14,Woodleigh,Farrer Park,324
+WEEKDAY,9,Farrer Park,Hougang,323
+WEEKDAY,9,Outram Park,Boon Keng,323
+WEEKDAY,13,Outram Park,Hougang,323
+WEEKDAY,11,Kovan,Outram Park,323
+WEEKDAY,13,Boon Keng,Buangkok,323
+WEEKDAY,16,Woodleigh,Little India,323
+WEEKDAY,11,Kovan,Clarke Quay,322
+WEEKDAY,20,Boon Keng,Dhoby Ghaut,322
+WEEKDAY,15,Punggol,Boon Keng,322
+WEEKDAY,5,Sengkang,Outram Park,321
+WEEKDAY,13,HarbourFront,Farrer Park,321
+WEEKDAY,13,Serangoon,Clarke Quay,321
+WEEKDAY,8,Outram Park,Hougang,321
+WEEKDAY,14,Serangoon,Woodleigh,321
+WEEKDAY,7,Outram Park,Potong Pasir,320
+WEEKDAY,15,Outram Park,Kovan,320
+WEEKDAY,8,HarbourFront,Serangoon,320
+WEEKDAY,17,Chinatown,Woodleigh,320
+WEEKDAY,19,Potong Pasir,Chinatown,320
+WEEKDAY,23,HarbourFront,Sengkang,319
+WEEKDAY,19,Sengkang,Dhoby Ghaut,319
+WEEKDAY,7,Little India,Kovan,319
+WEEKDAY,18,Buangkok,Little India,318
+WEEKDAY,14,Woodleigh,Punggol,317
+WEEKDAY,13,Woodleigh,Boon Keng,317
+WEEKDAY,11,Farrer Park,Outram Park,317
+WEEKDAY,21,Potong Pasir,Kovan,317
+WEEKDAY,23,Dhoby Ghaut,Buangkok,316
+WEEKDAY,7,Chinatown,Little India,316
+WEEKDAY,7,Little India,Clarke Quay,316
+WEEKDAY,16,Woodleigh,Buangkok,315
+WEEKDAY,13,Kovan,Outram Park,315
+WEEKDAY,15,Clarke Quay,Little India,315
+WEEKDAY,13,Hougang,Clarke Quay,314
+WEEKDAY,20,Potong Pasir,Little India,314
+WEEKDAY,17,Woodleigh,Little India,314
+WEEKDAY,15,Dhoby Ghaut,Outram Park,314
+WEEKDAY,18,Woodleigh,Potong Pasir,314
+WEEKDAY,16,Punggol,Potong Pasir,313
+WEEKDAY,11,Chinatown,Potong Pasir,313
+WEEKDAY,11,Little India,Potong Pasir,313
+WEEKDAY,23,Chinatown,Sengkang,313
+WEEKDAY,22,Potong Pasir,Boon Keng,312
+WEEKDAY,13,Potong Pasir,Buangkok,312
+WEEKDAY,12,Buangkok,Farrer Park,312
+WEEKDAY,19,Boon Keng,Clarke Quay,311
+WEEKDAY,8,Hougang,Buangkok,311
+WEEKDAY,17,Boon Keng,Outram Park,311
+WEEKDAY,11,Dhoby Ghaut,Outram Park,311
+WEEKDAY,14,Buangkok,Chinatown,311
+WEEKDAY,15,Serangoon,Woodleigh,310
+WEEKDAY,7,Woodleigh,Hougang,310
+WEEKDAY,11,Woodleigh,Farrer Park,310
+WEEKDAY,8,Dhoby Ghaut,Woodleigh,310
+WEEKDAY,17,Buangkok,Dhoby Ghaut,310
+WEEKDAY,14,HarbourFront,Dhoby Ghaut,310
+WEEKDAY,11,Outram Park,Hougang,309
+WEEKDAY,8,Woodleigh,Farrer Park,309
+WEEKDAY,11,Dhoby Ghaut,Clarke Quay,309
+WEEKDAY,6,Hougang,Buangkok,308
+WEEKDAY,22,HarbourFront,Little India,308
+WEEKDAY,7,Woodleigh,HarbourFront,308
+WEEKDAY,21,Clarke Quay,Little India,308
+WEEKDAY,6,Kovan,Woodleigh,308
+WEEKDAY,12,Little India,Buangkok,308
+WEEKDAY,19,Buangkok,Farrer Park,308
+WEEKDAY,12,Hougang,HarbourFront,308
+WEEKDAY,19,Woodleigh,Kovan,308
+WEEKDAY,10,Farrer Park,Hougang,308
+WEEKDAY,5,Punggol,Chinatown,307
+WEEKDAY,23,Farrer Park,Punggol,307
+WEEKDAY,7,HarbourFront,Chinatown,307
+WEEKDAY,16,Farrer Park,Clarke Quay,307
+WEEKDAY,23,Farrer Park,Potong Pasir,306
+WEEKDAY,8,Woodleigh,Chinatown,306
+WEEKDAY,10,Little India,Punggol,306
+WEEKDAY,21,Outram Park,Little India,306
+WEEKDAY,7,Little India,Punggol,306
+WEEKDAY,12,Boon Keng,Buangkok,306
+WEEKDAY,13,Serangoon,HarbourFront,305
+WEEKDAY,15,HarbourFront,Kovan,305
+WEEKDAY,21,Punggol,Boon Keng,305
+WEEKDAY,20,HarbourFront,Outram Park,304
+WEEKDAY,21,Buangkok,Punggol,304
+WEEKDAY,22,Sengkang,Serangoon,304
+WEEKDAY,11,Dhoby Ghaut,Punggol,304
+WEEKDAY,12,Chinatown,Buangkok,304
+WEEKDAY,22,Potong Pasir,Farrer Park,303
+WEEKDAY,13,Chinatown,Buangkok,303
+WEEKDAY,16,Clarke Quay,Little India,303
+WEEKDAY,6,Farrer Park,Chinatown,303
+WEEKDAY,10,Potong Pasir,Clarke Quay,303
+WEEKDAY,20,Punggol,Boon Keng,302
+WEEKDAY,10,Dhoby Ghaut,Little India,302
+WEEKDAY,7,Woodleigh,Farrer Park,302
+WEEKDAY,12,Kovan,Outram Park,302
+WEEKDAY,20,Punggol,Little India,302
+WEEKDAY,20,Farrer Park,HarbourFront,301
+WEEKDAY,15,Serangoon,Outram Park,301
+WEEKDAY,7,HarbourFront,Sengkang,301
+WEEKDAY,5,Kovan,HarbourFront,300
+WEEKDAY,10,Chinatown,Clarke Quay,300
+WEEKDAY,21,Little India,HarbourFront,300
+WEEKDAY,19,Serangoon,Woodleigh,300
+WEEKDAY,19,Punggol,Chinatown,299
+WEEKDAY,14,Clarke Quay,Hougang,299
+WEEKDAY,22,Kovan,Serangoon,299
+WEEKDAY,6,Farrer Park,Dhoby Ghaut,299
+WEEKDAY,10,Potong Pasir,Hougang,298
+WEEKDAY,8,Little India,Sengkang,298
+WEEKDAY,13,Clarke Quay,Sengkang,298
+WEEKDAY,5,Hougang,Boon Keng,298
+WEEKDAY,14,Clarke Quay,Little India,298
+WEEKDAY,13,Buangkok,Little India,298
+WEEKDAY,17,Farrer Park,Outram Park,297
+WEEKDAY,17,Sengkang,Clarke Quay,297
+WEEKDAY,23,Kovan,Sengkang,296
+WEEKDAY,18,Serangoon,HarbourFront,296
+WEEKDAY,6,Little India,Chinatown,296
+WEEKDAY,7,Outram Park,Kovan,296
+WEEKDAY,21,Boon Keng,Little India,296
+WEEKDAY,10,Potong Pasir,Punggol,295
+WEEKDAY,21,Dhoby Ghaut,Outram Park,295
+WEEKDAY,10,Outram Park,Kovan,295
+WEEKDAY,21,Dhoby Ghaut,HarbourFront,295
+WEEKDAY,16,Woodleigh,HarbourFront,295
+WEEKDAY,16,HarbourFront,Clarke Quay,295
+WEEKDAY,9,Little India,Serangoon,294
+WEEKDAY,14,Clarke Quay,Boon Keng,294
+WEEKDAY,16,Dhoby Ghaut,HarbourFront,294
+WEEKDAY,11,Woodleigh,Potong Pasir,294
+WEEKDAY,11,Farrer Park,Sengkang,294
+WEEKDAY,11,Serangoon,HarbourFront,294
+WEEKDAY,19,Farrer Park,HarbourFront,294
+WEEKDAY,22,Punggol,Potong Pasir,293
+WEEKDAY,19,Dhoby Ghaut,HarbourFront,293
+WEEKDAY,19,Sengkang,Outram Park,293
+WEEKDAY,5,Hougang,Little India,292
+WEEKDAY,17,Buangkok,Chinatown,292
+WEEKDAY,12,Clarke Quay,Boon Keng,291
+WEEKDAY,23,Hougang,Punggol,291
+WEEKDAY,22,Little India,Farrer Park,291
+WEEKDAY,9,Dhoby Ghaut,Farrer Park,291
+WEEKDAY,13,Buangkok,Farrer Park,290
+WEEKDAY,10,Clarke Quay,Chinatown,290
+WEEKDAY,23,HarbourFront,Hougang,290
+WEEKDAY,21,Serangoon,Little India,290
+WEEKDAY,12,HarbourFront,Clarke Quay,290
+WEEKDAY,15,Clarke Quay,Kovan,290
+WEEKDAY,22,Hougang,Farrer Park,289
+WEEKDAY,19,Kovan,Dhoby Ghaut,289
+WEEKDAY,11,Buangkok,Potong Pasir,289
+WEEKDAY,9,Woodleigh,Clarke Quay,289
+WEEKDAY,22,Chinatown,Little India,288
+WEEKDAY,22,Outram Park,Punggol,288
+WEEKDAY,17,Woodleigh,Dhoby Ghaut,288
+WEEKDAY,9,HarbourFront,Farrer Park,288
+WEEKDAY,12,Sengkang,HarbourFront,288
+WEEKDAY,21,HarbourFront,Dhoby Ghaut,287
+WEEKDAY,21,Outram Park,Potong Pasir,287
+WEEKDAY,17,Boon Keng,HarbourFront,287
+WEEKDAY,11,Farrer Park,Kovan,286
+WEEKDAY,23,Chinatown,Serangoon,286
+WEEKDAY,19,Outram Park,Clarke Quay,286
+WEEKDAY,14,HarbourFront,Boon Keng,286
+WEEKDAY,13,Farrer Park,Buangkok,285
+WEEKDAY,7,HarbourFront,Boon Keng,285
+WEEKDAY,14,HarbourFront,Sengkang,285
+WEEKDAY,13,Outram Park,Boon Keng,284
+WEEKDAY,22,Kovan,Farrer Park,284
+WEEKDAY,5,Chinatown,Boon Keng,284
+WEEKDAY,20,Serangoon,Chinatown,284
+WEEKDAY,11,Little India,Buangkok,284
+WEEKDAY,14,HarbourFront,Serangoon,283
+WEEKDAY,17,Buangkok,Potong Pasir,283
+WEEKDAY,22,Farrer Park,Outram Park,283
+WEEKDAY,10,Sengkang,Woodleigh,283
+WEEKDAY,21,Clarke Quay,Chinatown,283
+WEEKDAY,6,Sengkang,Buangkok,283
+WEEKDAY,10,Little India,Kovan,283
+WEEKDAY,6,Potong Pasir,Little India,283
+WEEKDAY,14,Clarke Quay,Outram Park,283
+WEEKDAY,15,HarbourFront,Boon Keng,283
+WEEKDAY,5,Buangkok,Chinatown,282
+WEEKDAY,11,Sengkang,HarbourFront,282
+WEEKDAY,9,Outram Park,Sengkang,282
+WEEKDAY,16,Serangoon,Outram Park,282
+WEEKDAY,16,Serangoon,Clarke Quay,282
+WEEKDAY,11,Outram Park,Clarke Quay,281
+WEEKDAY,9,Chinatown,Dhoby Ghaut,281
+WEEKDAY,14,HarbourFront,Little India,281
+WEEKDAY,17,Buangkok,Boon Keng,281
+WEEKDAY,9,Outram Park,Hougang,280
+WEEKDAY,14,Serangoon,Clarke Quay,280
+WEEKDAY,18,Kovan,Outram Park,280
+WEEKDAY,7,Little India,Sengkang,280
+WEEKDAY,10,HarbourFront,Farrer Park,280
+WEEKDAY,6,Potong Pasir,Chinatown,280
+WEEKDAY,21,Woodleigh,Sengkang,280
+WEEKDAY,9,Chinatown,Serangoon,280
+WEEKDAY,19,Clarke Quay,HarbourFront,280
+WEEKDAY,10,Outram Park,Hougang,280
+WEEKDAY,14,Sengkang,Clarke Quay,280
+WEEKDAY,16,Outram Park,HarbourFront,280
+WEEKDAY,12,Serangoon,Woodleigh,280
+WEEKDAY,15,Little India,HarbourFront,280
+WEEKDAY,8,HarbourFront,Punggol,279
+WEEKDAY,11,Dhoby Ghaut,Hougang,279
+WEEKDAY,13,Outram Park,Punggol,279
+WEEKDAY,21,Little India,Dhoby Ghaut,279
+WEEKDAY,20,Buangkok,Kovan,278
+WEEKDAY,8,Potong Pasir,Sengkang,278
+WEEKDAY,12,Boon Keng,HarbourFront,277
+WEEKDAY,10,Woodleigh,Farrer Park,276
+WEEKDAY,22,Sengkang,Potong Pasir,276
+WEEKDAY,22,Dhoby Ghaut,Chinatown,275
+WEEKDAY,8,Outram Park,Kovan,275
+WEEKDAY,8,Farrer Park,Punggol,275
+WEEKDAY,11,Clarke Quay,Little India,275
+WEEKDAY,22,Punggol,Boon Keng,275
+WEEKDAY,17,Buangkok,Little India,275
+WEEKDAY,8,Outram Park,Potong Pasir,275
+WEEKDAY,11,Woodleigh,Chinatown,275
+WEEKDAY,14,Dhoby Ghaut,HarbourFront,275
+WEEKDAY,7,HarbourFront,Farrer Park,274
+WEEKDAY,11,Buangkok,Boon Keng,274
+WEEKDAY,15,Little India,Clarke Quay,273
+WEEKDAY,14,Boon Keng,HarbourFront,273
+WEEKDAY,12,HarbourFront,Farrer Park,273
+WEEKDAY,8,Woodleigh,Boon Keng,273
+WEEKDAY,12,Outram Park,Punggol,272
+WEEKDAY,10,HarbourFront,Dhoby Ghaut,272
+WEEKDAY,5,Sengkang,Little India,272
+WEEKDAY,14,Boon Keng,Clarke Quay,271
+WEEKDAY,16,Hougang,Clarke Quay,271
+WEEKDAY,10,Outram Park,HarbourFront,271
+WEEKDAY,5,Buangkok,HarbourFront,271
+WEEKDAY,6,Potong Pasir,Clarke Quay,271
+WEEKDAY,14,Outram Park,Kovan,270
+WEEKDAY,18,HarbourFront,Woodleigh,269
+WEEKDAY,10,Chinatown,Punggol,269
+WEEKDAY,12,Dhoby Ghaut,HarbourFront,269
+WEEKDAY,10,Kovan,HarbourFront,269
+WEEKDAY,21,Chinatown,Outram Park,268
+WEEKDAY,12,Punggol,Clarke Quay,268
+WEEKDAY,17,Sengkang,Outram Park,268
+WEEKDAY,10,Dhoby Ghaut,Clarke Quay,268
+WEEKDAY,17,Woodleigh,Chinatown,268
+WEEKDAY,22,Dhoby Ghaut,Clarke Quay,268
+WEEKDAY,7,Chinatown,Farrer Park,267
+WEEKDAY,16,Boon Keng,Outram Park,267
+WEEKDAY,10,Farrer Park,Potong Pasir,267
+WEEKDAY,18,Woodleigh,Dhoby Ghaut,267
+WEEKDAY,10,Chinatown,Kovan,267
+WEEKDAY,7,HarbourFront,Hougang,267
+WEEKDAY,7,HarbourFront,Serangoon,266
+WEEKDAY,17,Kovan,Clarke Quay,266
+WEEKDAY,20,Little India,Clarke Quay,266
+WEEKDAY,19,Dhoby Ghaut,Woodleigh,266
+WEEKDAY,10,Potong Pasir,Outram Park,266
+WEEKDAY,19,Buangkok,Little India,265
+WEEKDAY,18,Clarke Quay,Outram Park,265
+WEEKDAY,13,Sengkang,Clarke Quay,265
+WEEKDAY,15,Dhoby Ghaut,HarbourFront,265
+WEEKDAY,22,Punggol,Farrer Park,265
+WEEKDAY,7,Outram Park,Chinatown,265
+WEEKDAY,16,HarbourFront,Potong Pasir,264
+WEEKDAY,9,Potong Pasir,Sengkang,264
+WEEKDAY,17,Farrer Park,HarbourFront,264
+WEEKDAY,23,Hougang,Sengkang,264
+WEEKDAY,15,Farrer Park,Outram Park,264
+WEEKDAY,20,Dhoby Ghaut,HarbourFront,264
+WEEKDAY,13,Dhoby Ghaut,Buangkok,264
+WEEKDAY,22,Clarke Quay,Little India,264
+WEEKDAY,9,Farrer Park,Kovan,264
+WEEKDAY,6,Dhoby Ghaut,Outram Park,264
+WEEKDAY,19,Hougang,Clarke Quay,263
+WEEKDAY,8,HarbourFront,Kovan,263
+WEEKDAY,13,Outram Park,Kovan,263
+WEEKDAY,23,Clarke Quay,Buangkok,263
+WEEKDAY,14,Clarke Quay,Sengkang,263
+WEEKDAY,6,Kovan,Clarke Quay,263
+WEEKDAY,14,Farrer Park,Buangkok,263
+WEEKDAY,19,Punggol,Dhoby Ghaut,263
+WEEKDAY,21,Chinatown,HarbourFront,263
+WEEKDAY,21,Dhoby Ghaut,Woodleigh,263
+WEEKDAY,23,Serangoon,Hougang,263
+WEEKDAY,6,Chinatown,HarbourFront,262
+WEEKDAY,21,Punggol,Farrer Park,262
+WEEKDAY,19,Serangoon,Clarke Quay,262
+WEEKDAY,9,HarbourFront,Dhoby Ghaut,261
+WEEKDAY,19,Clarke Quay,Woodleigh,261
+WEEKDAY,16,Farrer Park,Outram Park,261
+WEEKDAY,20,Woodleigh,Farrer Park,261
+WEEKDAY,23,Punggol,Hougang,261
+WEEKDAY,21,Woodleigh,Punggol,260
+WEEKDAY,13,Boon Keng,HarbourFront,260
+WEEKDAY,23,HarbourFront,Punggol,260
+WEEKDAY,11,Boon Keng,HarbourFront,260
+WEEKDAY,13,Buangkok,Potong Pasir,259
+WEEKDAY,5,Kovan,Boon Keng,259
+WEEKDAY,9,Little India,Kovan,259
+WEEKDAY,5,Sengkang,Hougang,259
+WEEKDAY,14,Punggol,Clarke Quay,259
+WEEKDAY,17,Sengkang,Woodleigh,259
+WEEKDAY,9,Farrer Park,Sengkang,258
+WEEKDAY,17,Hougang,Woodleigh,258
+WEEKDAY,17,Farrer Park,Woodleigh,258
+WEEKDAY,15,Buangkok,Chinatown,258
+WEEKDAY,5,Punggol,Little India,258
+WEEKDAY,7,Potong Pasir,Buangkok,258
+WEEKDAY,15,Outram Park,Buangkok,257
+WEEKDAY,23,Little India,Hougang,257
+WEEKDAY,17,Hougang,Outram Park,257
+WEEKDAY,11,HarbourFront,Farrer Park,257
+WEEKDAY,7,Woodleigh,Potong Pasir,257
+WEEKDAY,8,Chinatown,Potong Pasir,256
+WEEKDAY,13,HarbourFront,Clarke Quay,256
+WEEKDAY,15,HarbourFront,Outram Park,256
+WEEKDAY,13,HarbourFront,Serangoon,256
+WEEKDAY,14,Woodleigh,Serangoon,256
+WEEKDAY,8,Outram Park,Sengkang,256
+WEEKDAY,20,Sengkang,Little India,255
+WEEKDAY,11,Outram Park,Punggol,255
+WEEKDAY,19,Outram Park,HarbourFront,255
+WEEKDAY,11,Dhoby Ghaut,Potong Pasir,255
+WEEKDAY,12,Woodleigh,Farrer Park,255
+WEEKDAY,16,Dhoby Ghaut,Outram Park,255
+WEEKDAY,23,Chinatown,Punggol,255
+WEEKDAY,7,Dhoby Ghaut,Little India,255
+WEEKDAY,16,Little India,Clarke Quay,254
+WEEKDAY,16,Clarke Quay,Buangkok,254
+WEEKDAY,20,Dhoby Ghaut,Woodleigh,254
+WEEKDAY,21,Chinatown,Woodleigh,254
+WEEKDAY,22,Potong Pasir,Serangoon,253
+WEEKDAY,15,Hougang,Clarke Quay,253
+WEEKDAY,6,Potong Pasir,Punggol,253
+WEEKDAY,22,Outram Park,Boon Keng,253
+WEEKDAY,11,HarbourFront,Outram Park,253
+WEEKDAY,16,Serangoon,Woodleigh,253
+WEEKDAY,6,Little India,Clarke Quay,252
+WEEKDAY,12,Boon Keng,Woodleigh,252
+WEEKDAY,7,Outram Park,Sengkang,252
+WEEKDAY,12,Outram Park,Kovan,252
+WEEKDAY,11,Outram Park,Kovan,252
+WEEKDAY,9,Outram Park,Clarke Quay,252
+WEEKDAY,18,Potong Pasir,Outram Park,252
+WEEKDAY,9,HarbourFront,Hougang,252
+WEEKDAY,13,HarbourFront,Hougang,252
+WEEKDAY,16,HarbourFront,Outram Park,251
+WEEKDAY,20,Hougang,Chinatown,251
+WEEKDAY,10,Farrer Park,HarbourFront,251
+WEEKDAY,12,Kovan,Clarke Quay,251
+WEEKDAY,23,HarbourFront,Chinatown,250
+WEEKDAY,13,Punggol,Clarke Quay,250
+WEEKDAY,6,Outram Park,Potong Pasir,250
+WEEKDAY,22,Dhoby Ghaut,Little India,250
+WEEKDAY,6,Farrer Park,Woodleigh,250
+WEEKDAY,22,Boon Keng,Buangkok,250
+WEEKDAY,9,Little India,Sengkang,250
+WEEKDAY,16,Buangkok,Farrer Park,250
+WEEKDAY,14,Buangkok,Dhoby Ghaut,250
+WEEKDAY,11,Dhoby Ghaut,Kovan,250
+WEEKDAY,11,Clarke Quay,Farrer Park,250
+WEEKDAY,20,Serangoon,Woodleigh,249
+WEEKDAY,8,Serangoon,Buangkok,249
+WEEKDAY,9,Little India,Punggol,249
+WEEKDAY,22,Little India,Outram Park,249
+WEEKDAY,6,Little India,Boon Keng,249
+WEEKDAY,22,Boon Keng,Kovan,248
+WEEKDAY,12,Punggol,HarbourFront,248
+WEEKDAY,9,Dhoby Ghaut,Little India,248
+WEEKDAY,5,Boon Keng,HarbourFront,247
+WEEKDAY,14,Outram Park,HarbourFront,247
+WEEKDAY,12,Clarke Quay,Serangoon,247
+WEEKDAY,8,Outram Park,Clarke Quay,247
+WEEKDAY,20,Outram Park,Potong Pasir,247
+WEEKDAY,10,Woodleigh,Boon Keng,246
+WEEKDAY,7,HarbourFront,Kovan,246
+WEEKDAY,8,Farrer Park,Sengkang,246
+WEEKDAY,5,Serangoon,Chinatown,246
+WEEKDAY,13,Buangkok,Boon Keng,246
+WEEKDAY,12,Woodleigh,Chinatown,245
+WEEKDAY,14,Buangkok,Little India,245
+WEEKDAY,12,Buangkok,Outram Park,245
+WEEKDAY,18,Dhoby Ghaut,Woodleigh,245
+WEEKDAY,16,Clarke Quay,Potong Pasir,245
+WEEKDAY,16,Boon Keng,Clarke Quay,245
+WEEKDAY,11,Woodleigh,Boon Keng,245
+WEEKDAY,20,HarbourFront,Clarke Quay,245
+WEEKDAY,13,Clarke Quay,HarbourFront,244
+WEEKDAY,10,Farrer Park,Kovan,244
+WEEKDAY,22,Potong Pasir,Buangkok,244
+WEEKDAY,21,HarbourFront,Potong Pasir,244
+WEEKDAY,20,Woodleigh,Potong Pasir,244
+WEEKDAY,16,Woodleigh,Boon Keng,244
+WEEKDAY,11,Punggol,HarbourFront,244
+WEEKDAY,8,Boon Keng,Woodleigh,244
+WEEKDAY,7,Dhoby Ghaut,Farrer Park,243
+WEEKDAY,8,Little India,Punggol,243
+WEEKDAY,10,Chinatown,Potong Pasir,243
+WEEKDAY,22,Kovan,Boon Keng,243
+WEEKDAY,20,Serangoon,Dhoby Ghaut,243
+WEEKDAY,17,Clarke Quay,HarbourFront,243
+WEEKDAY,10,Little India,Potong Pasir,243
+WEEKDAY,22,Little India,HarbourFront,242
+WEEKDAY,9,Outram Park,HarbourFront,242
+WEEKDAY,11,Farrer Park,HarbourFront,242
+WEEKDAY,14,Hougang,Clarke Quay,242
+WEEKDAY,17,Hougang,HarbourFront,242
+WEEKDAY,12,Potong Pasir,Buangkok,241
+WEEKDAY,13,Outram Park,Clarke Quay,241
+WEEKDAY,12,Woodleigh,Boon Keng,241
+WEEKDAY,13,Potong Pasir,Clarke Quay,241
+WEEKDAY,23,Chinatown,Kovan,241
+WEEKDAY,22,Little India,Potong Pasir,241
+WEEKDAY,15,Kovan,Woodleigh,241
+WEEKDAY,7,Outram Park,HarbourFront,240
+WEEKDAY,13,Punggol,HarbourFront,240
+WEEKDAY,11,Buangkok,Clarke Quay,239
+WEEKDAY,17,Outram Park,Woodleigh,239
+WEEKDAY,17,Sengkang,HarbourFront,239
+WEEKDAY,21,Little India,Clarke Quay,239
+WEEKDAY,22,Sengkang,Farrer Park,239
+WEEKDAY,11,Woodleigh,Serangoon,238
+WEEKDAY,15,Boon Keng,Clarke Quay,238
+WEEKDAY,23,HarbourFront,Boon Keng,238
+WEEKDAY,12,Buangkok,Boon Keng,237
+WEEKDAY,18,Hougang,HarbourFront,237
+WEEKDAY,19,Kovan,Woodleigh,237
+WEEKDAY,21,HarbourFront,Outram Park,237
+WEEKDAY,7,HarbourFront,Punggol,236
+WEEKDAY,22,Farrer Park,Dhoby Ghaut,236
+WEEKDAY,11,Clarke Quay,Serangoon,236
+WEEKDAY,22,Little India,Chinatown,236
+WEEKDAY,6,Chinatown,Boon Keng,234
+WEEKDAY,21,Serangoon,Chinatown,234
+WEEKDAY,6,Potong Pasir,Farrer Park,234
+WEEKDAY,18,Hougang,Woodleigh,233
+WEEKDAY,15,Buangkok,Dhoby Ghaut,233
+WEEKDAY,20,Hougang,Dhoby Ghaut,233
+WEEKDAY,22,Hougang,Serangoon,233
+WEEKDAY,16,Serangoon,HarbourFront,233
+WEEKDAY,15,Boon Keng,Outram Park,233
+WEEKDAY,12,Clarke Quay,Sengkang,233
+WEEKDAY,6,Little India,Farrer Park,233
+WEEKDAY,6,HarbourFront,Hougang,232
+WEEKDAY,18,Sengkang,HarbourFront,232
+WEEKDAY,11,Farrer Park,Punggol,232
+WEEKDAY,8,Woodleigh,Dhoby Ghaut,232
+WEEKDAY,15,Serangoon,Clarke Quay,232
+WEEKDAY,6,Farrer Park,Kovan,232
+WEEKDAY,19,Buangkok,Potong Pasir,231
+WEEKDAY,11,Buangkok,Outram Park,231
+WEEKDAY,22,Buangkok,Sengkang,231
+WEEKDAY,11,Potong Pasir,Outram Park,231
+WEEKDAY,22,Farrer Park,Woodleigh,231
+WEEKDAY,10,Farrer Park,Sengkang,230
+WEEKDAY,18,Punggol,HarbourFront,230
+WEEKDAY,18,Woodleigh,Chinatown,230
+WEEKDAY,14,Buangkok,Farrer Park,230
+WEEKDAY,18,Sengkang,Outram Park,230
+WEEKDAY,14,Woodleigh,Hougang,230
+WEEKDAY,11,Potong Pasir,Clarke Quay,229
+WEEKDAY,19,Woodleigh,Boon Keng,229
+WEEKDAY,7,HarbourFront,Outram Park,229
+WEEKDAY,13,Boon Keng,Woodleigh,229
+WEEKDAY,12,Potong Pasir,Clarke Quay,229
+WEEKDAY,13,HarbourFront,Sengkang,229
+WEEKDAY,16,Boon Keng,HarbourFront,228
+WEEKDAY,23,Dhoby Ghaut,Farrer Park,228
+WEEKDAY,17,Serangoon,HarbourFront,228
+WEEKDAY,9,Woodleigh,Farrer Park,228
+WEEKDAY,13,Clarke Quay,Hougang,228
+WEEKDAY,14,HarbourFront,Clarke Quay,227
+WEEKDAY,15,Farrer Park,HarbourFront,227
+WEEKDAY,22,Potong Pasir,Kovan,227
+WEEKDAY,12,Buangkok,Potong Pasir,227
+WEEKDAY,17,Punggol,Woodleigh,227
+WEEKDAY,11,Boon Keng,Buangkok,227
+WEEKDAY,18,Little India,Woodleigh,227
+WEEKDAY,17,Punggol,Clarke Quay,226
+WEEKDAY,17,Boon Keng,Woodleigh,226
+WEEKDAY,22,Hougang,Buangkok,226
+WEEKDAY,18,Punggol,Clarke Quay,226
+WEEKDAY,10,Punggol,Woodleigh,226
+WEEKDAY,18,Kovan,Woodleigh,226
+WEEKDAY,8,Chinatown,Serangoon,226
+WEEKDAY,13,Potong Pasir,Woodleigh,225
+WEEKDAY,9,HarbourFront,Sengkang,225
+WEEKDAY,22,Boon Keng,Potong Pasir,225
+WEEKDAY,14,Chinatown,Woodleigh,225
+WEEKDAY,9,HarbourFront,Serangoon,225
+WEEKDAY,13,Kovan,Clarke Quay,224
+WEEKDAY,6,Dhoby Ghaut,HarbourFront,224
+WEEKDAY,22,Hougang,Kovan,224
+WEEKDAY,15,Clarke Quay,Potong Pasir,224
+WEEKDAY,15,Woodleigh,Boon Keng,223
+WEEKDAY,11,HarbourFront,Clarke Quay,223
+WEEKDAY,12,Farrer Park,HarbourFront,223
+WEEKDAY,14,Hougang,HarbourFront,223
+WEEKDAY,20,Serangoon,Clarke Quay,222
+WEEKDAY,12,Clarke Quay,HarbourFront,222
+WEEKDAY,16,Farrer Park,HarbourFront,222
+WEEKDAY,22,Woodleigh,Punggol,222
+WEEKDAY,17,Potong Pasir,Clarke Quay,222
+WEEKDAY,19,Punggol,Woodleigh,221
+WEEKDAY,9,Kovan,Woodleigh,221
+WEEKDAY,12,HarbourFront,Serangoon,221
+WEEKDAY,9,Chinatown,Sengkang,221
+WEEKDAY,22,Farrer Park,HarbourFront,220
+WEEKDAY,7,HarbourFront,Clarke Quay,220
+WEEKDAY,9,Woodleigh,Boon Keng,220
+WEEKDAY,14,Punggol,Outram Park,219
+WEEKDAY,16,Outram Park,Clarke Quay,219
+WEEKDAY,22,Buangkok,Punggol,219
+WEEKDAY,10,HarbourFront,Clarke Quay,219
+WEEKDAY,12,Woodleigh,Kovan,219
+WEEKDAY,15,Woodleigh,HarbourFront,219
+WEEKDAY,22,Kovan,Potong Pasir,218
+WEEKDAY,23,Potong Pasir,Sengkang,218
+WEEKDAY,13,Farrer Park,HarbourFront,218
+WEEKDAY,9,Farrer Park,Punggol,218
+WEEKDAY,22,HarbourFront,Outram Park,218
+WEEKDAY,14,Farrer Park,Woodleigh,218
+WEEKDAY,6,Little India,Dhoby Ghaut,218
+WEEKDAY,15,Sengkang,Clarke Quay,218
+WEEKDAY,6,Boon Keng,Woodleigh,218
+WEEKDAY,15,Buangkok,Farrer Park,218
+WEEKDAY,23,Boon Keng,Hougang,218
+WEEKDAY,6,Potong Pasir,Dhoby Ghaut,217
+WEEKDAY,14,Clarke Quay,Punggol,217
+WEEKDAY,14,Buangkok,Potong Pasir,217
+WEEKDAY,23,Serangoon,Punggol,217
+WEEKDAY,7,Dhoby Ghaut,Boon Keng,216
+WEEKDAY,18,Punggol,Woodleigh,216
+WEEKDAY,22,HarbourFront,Potong Pasir,216
+WEEKDAY,8,Woodleigh,Hougang,216
+WEEKDAY,21,Serangoon,Woodleigh,216
+WEEKDAY,14,Clarke Quay,Potong Pasir,216
+WEEKDAY,14,Clarke Quay,Kovan,216
+WEEKDAY,10,Buangkok,Outram Park,215
+WEEKDAY,16,Punggol,Clarke Quay,215
+WEEKDAY,5,Hougang,Dhoby Ghaut,215
+WEEKDAY,19,Boon Keng,HarbourFront,215
+WEEKDAY,10,HarbourFront,Boon Keng,214
+WEEKDAY,21,Buangkok,Hougang,214
+WEEKDAY,11,Serangoon,Woodleigh,212
+WEEKDAY,15,Buangkok,Little India,212
+WEEKDAY,22,Outram Park,Potong Pasir,212
+WEEKDAY,15,Sengkang,Woodleigh,212
+WEEKDAY,23,Little India,Punggol,212
+WEEKDAY,8,HarbourFront,Potong Pasir,212
+WEEKDAY,13,Potong Pasir,Outram Park,211
+WEEKDAY,12,Clarke Quay,Outram Park,211
+WEEKDAY,23,HarbourFront,Serangoon,211
+WEEKDAY,10,Dhoby Ghaut,Boon Keng,211
+WEEKDAY,5,Sengkang,Potong Pasir,211
+WEEKDAY,23,Dhoby Ghaut,Potong Pasir,211
+WEEKDAY,10,Outram Park,Punggol,210
+WEEKDAY,15,Outram Park,Potong Pasir,210
+WEEKDAY,7,Woodleigh,Little India,210
+WEEKDAY,13,Clarke Quay,Boon Keng,210
+WEEKDAY,12,Farrer Park,Woodleigh,210
+WEEKDAY,6,Boon Keng,Buangkok,210
+WEEKDAY,16,Buangkok,Little India,209
+WEEKDAY,14,Potong Pasir,Outram Park,209
+WEEKDAY,23,Boon Keng,Serangoon,209
+WEEKDAY,7,HarbourFront,Potong Pasir,209
+WEEKDAY,22,Outram Park,Kovan,209
+WEEKDAY,17,Potong Pasir,Outram Park,209
+WEEKDAY,18,Kovan,HarbourFront,208
+WEEKDAY,15,HarbourFront,Clarke Quay,208
+WEEKDAY,16,Buangkok,Chinatown,208
+WEEKDAY,11,Woodleigh,Little India,208
+WEEKDAY,14,Dhoby Ghaut,Woodleigh,208
+WEEKDAY,23,Outram Park,Hougang,208
+WEEKDAY,12,HarbourFront,Sengkang,207
+WEEKDAY,9,Outram Park,Punggol,207
+WEEKDAY,7,Woodleigh,Kovan,207
+WEEKDAY,7,Woodleigh,Clarke Quay,207
+WEEKDAY,10,Dhoby Ghaut,Serangoon,206
+WEEKDAY,16,Buangkok,Dhoby Ghaut,206
+WEEKDAY,21,Sengkang,HarbourFront,206
+WEEKDAY,22,Chinatown,Dhoby Ghaut,206
+WEEKDAY,7,Dhoby Ghaut,Chinatown,206
+WEEKDAY,11,Potong Pasir,Buangkok,205
+WEEKDAY,22,Dhoby Ghaut,HarbourFront,205
+WEEKDAY,21,Boon Keng,Chinatown,205
+WEEKDAY,15,Woodleigh,Little India,205
+WEEKDAY,19,Woodleigh,Potong Pasir,205
+WEEKDAY,23,Clarke Quay,Potong Pasir,204
+WEEKDAY,14,Buangkok,Boon Keng,204
+WEEKDAY,13,Woodleigh,Hougang,204
+WEEKDAY,21,Kovan,Little India,204
+WEEKDAY,8,Dhoby Ghaut,Potong Pasir,204
+WEEKDAY,22,Hougang,Potong Pasir,204
+WEEKDAY,9,Serangoon,Buangkok,204
+WEEKDAY,12,Potong Pasir,Woodleigh,203
+WEEKDAY,6,Kovan,Buangkok,203
+WEEKDAY,14,Serangoon,HarbourFront,203
+WEEKDAY,16,Buangkok,Potong Pasir,203
+WEEKDAY,11,Chinatown,Buangkok,203
+WEEKDAY,15,Farrer Park,Woodleigh,203
+WEEKDAY,6,Outram Park,HarbourFront,203
+WEEKDAY,23,Little India,Kovan,202
+WEEKDAY,13,Woodleigh,Chinatown,202
+WEEKDAY,20,Hougang,HarbourFront,202
+WEEKDAY,8,Little India,Potong Pasir,202
+WEEKDAY,19,Boon Keng,Woodleigh,202
+WEEKDAY,14,Sengkang,HarbourFront,201
+WEEKDAY,12,Dhoby Ghaut,Buangkok,201
+WEEKDAY,21,Hougang,Chinatown,201
+WEEKDAY,12,Woodleigh,Sengkang,201
+WEEKDAY,5,Sengkang,Kovan,201
+WEEKDAY,9,Woodleigh,Outram Park,201
+WEEKDAY,14,Kovan,Woodleigh,200
+WEEKDAY,16,Farrer Park,Woodleigh,200
+WEEKDAY,22,HarbourFront,Dhoby Ghaut,200
+WEEKDAY,6,Outram Park,Hougang,200
+WEEKDAY,21,Hougang,Dhoby Ghaut,199
+WEEKDAY,20,Kovan,Little India,199
+WEEKDAY,17,Punggol,HarbourFront,199
+WEEKDAY,21,Serangoon,HarbourFront,198
+WEEKDAY,14,Potong Pasir,Woodleigh,198
+WEEKDAY,15,Outram Park,HarbourFront,198
+WEEKDAY,13,HarbourFront,Punggol,198
+WEEKDAY,14,HarbourFront,Punggol,198
+WEEKDAY,11,Dhoby Ghaut,HarbourFront,197
+WEEKDAY,16,Woodleigh,Chinatown,197
+WEEKDAY,5,Punggol,Outram Park,197
+WEEKDAY,8,Chinatown,Hougang,197
+WEEKDAY,13,Woodleigh,Punggol,197
+WEEKDAY,21,Punggol,HarbourFront,197
+WEEKDAY,16,Chinatown,Woodleigh,197
+WEEKDAY,14,Woodleigh,Kovan,197
+WEEKDAY,15,Serangoon,HarbourFront,197
+WEEKDAY,23,Little India,Serangoon,196
+WEEKDAY,17,Punggol,Outram Park,196
+WEEKDAY,20,Woodleigh,Little India,196
+WEEKDAY,13,Clarke Quay,Potong Pasir,196
+WEEKDAY,10,Clarke Quay,Little India,196
+WEEKDAY,17,Dhoby Ghaut,Woodleigh,195
+WEEKDAY,9,Little India,Potong Pasir,195
+WEEKDAY,10,Clarke Quay,Dhoby Ghaut,195
+WEEKDAY,6,Potong Pasir,Woodleigh,195
+WEEKDAY,14,Kovan,Clarke Quay,194
+WEEKDAY,12,Farrer Park,Buangkok,194
+WEEKDAY,10,Dhoby Ghaut,Outram Park,194
+WEEKDAY,17,Little India,Woodleigh,194
+WEEKDAY,13,Buangkok,Outram Park,194
+WEEKDAY,18,Potong Pasir,HarbourFront,193
+WEEKDAY,20,Boon Keng,Outram Park,192
+WEEKDAY,22,Clarke Quay,Chinatown,192
+WEEKDAY,12,Potong Pasir,Outram Park,192
+WEEKDAY,14,Farrer Park,HarbourFront,192
+WEEKDAY,20,Serangoon,HarbourFront,192
+WEEKDAY,16,Sengkang,Outram Park,192
+WEEKDAY,23,Serangoon,Farrer Park,191
+WEEKDAY,11,HarbourFront,Boon Keng,191
+WEEKDAY,8,Woodleigh,Sengkang,191
+WEEKDAY,10,Buangkok,HarbourFront,191
+WEEKDAY,12,Clarke Quay,Punggol,190
+WEEKDAY,6,HarbourFront,Sengkang,190
+WEEKDAY,9,Outram Park,Kovan,190
+WEEKDAY,20,Sengkang,Dhoby Ghaut,190
+WEEKDAY,22,Outram Park,Buangkok,190
+WEEKDAY,15,Hougang,Outram Park,190
+WEEKDAY,11,Clarke Quay,Boon Keng,190
+WEEKDAY,8,Chinatown,Kovan,189
+WEEKDAY,8,Outram Park,Punggol,189
+WEEKDAY,15,Clarke Quay,Buangkok,189
+WEEKDAY,9,Woodleigh,Dhoby Ghaut,189
+WEEKDAY,12,Woodleigh,Little India,189
+WEEKDAY,12,Serangoon,HarbourFront,189
+WEEKDAY,23,Farrer Park,Buangkok,188
+WEEKDAY,15,Buangkok,Potong Pasir,188
+WEEKDAY,5,Sengkang,Dhoby Ghaut,188
+WEEKDAY,10,Dhoby Ghaut,HarbourFront,188
+WEEKDAY,22,Chinatown,HarbourFront,188
+WEEKDAY,13,Kovan,HarbourFront,188
+WEEKDAY,22,Serangoon,Chinatown,187
+WEEKDAY,7,HarbourFront,Dhoby Ghaut,187
+WEEKDAY,13,HarbourFront,Boon Keng,187
+WEEKDAY,6,Woodleigh,HarbourFront,187
+WEEKDAY,6,Outram Park,Farrer Park,187
+WEEKDAY,10,Dhoby Ghaut,Sengkang,186
+WEEKDAY,23,Outram Park,Sengkang,186
+WEEKDAY,5,Serangoon,HarbourFront,186
+WEEKDAY,9,Chinatown,Kovan,186
+WEEKDAY,20,Hougang,Clarke Quay,186
+WEEKDAY,9,Outram Park,Potong Pasir,186
+WEEKDAY,17,Kovan,HarbourFront,185
+WEEKDAY,15,Boon Keng,HarbourFront,185
+WEEKDAY,8,Woodleigh,Serangoon,185
+WEEKDAY,16,Kovan,Woodleigh,185
+WEEKDAY,5,Kovan,Little India,185
+WEEKDAY,23,HarbourFront,Farrer Park,185
+WEEKDAY,18,Buangkok,Chinatown,184
+WEEKDAY,21,HarbourFront,Clarke Quay,184
+WEEKDAY,14,Hougang,Woodleigh,184
+WEEKDAY,15,Chinatown,Woodleigh,184
+WEEKDAY,9,Chinatown,Punggol,184
+WEEKDAY,19,Hougang,HarbourFront,183
+WEEKDAY,23,Serangoon,Boon Keng,183
+WEEKDAY,16,Buangkok,Boon Keng,183
+WEEKDAY,7,Dhoby Ghaut,Clarke Quay,183
+WEEKDAY,22,Woodleigh,Sengkang,183
+WEEKDAY,21,Woodleigh,Hougang,182
+WEEKDAY,10,Serangoon,Buangkok,182
+WEEKDAY,16,Sengkang,Clarke Quay,182
+WEEKDAY,15,Potong Pasir,Outram Park,182
+WEEKDAY,22,Serangoon,Little India,182
+WEEKDAY,23,Boon Keng,Punggol,182
+WEEKDAY,8,Clarke Quay,HarbourFront,181
+WEEKDAY,12,Buangkok,Clarke Quay,181
+WEEKDAY,14,Woodleigh,Boon Keng,181
+WEEKDAY,17,Kovan,Outram Park,180
+WEEKDAY,13,Farrer Park,Woodleigh,180
+WEEKDAY,13,Kovan,Woodleigh,180
+WEEKDAY,21,Serangoon,Clarke Quay,179
+WEEKDAY,10,Woodleigh,Kovan,179
+WEEKDAY,19,Little India,Woodleigh,179
+WEEKDAY,19,Punggol,Clarke Quay,179
+WEEKDAY,14,Kovan,Outram Park,179
+WEEKDAY,19,Potong Pasir,Clarke Quay,179
+WEEKDAY,17,Potong Pasir,Woodleigh,178
+WEEKDAY,23,Little India,Sengkang,178
+WEEKDAY,20,Kovan,Chinatown,178
+WEEKDAY,21,Outram Park,Dhoby Ghaut,177
+WEEKDAY,19,Kovan,Clarke Quay,177
+WEEKDAY,9,Boon Keng,Buangkok,177
+WEEKDAY,22,Clarke Quay,Dhoby Ghaut,177
+WEEKDAY,7,Woodleigh,Serangoon,177
+WEEKDAY,15,Sengkang,Outram Park,177
+WEEKDAY,14,Outram Park,Buangkok,176
+WEEKDAY,19,Buangkok,Boon Keng,176
+WEEKDAY,14,Potong Pasir,Clarke Quay,176
+WEEKDAY,15,Potong Pasir,Woodleigh,176
+WEEKDAY,7,Outram Park,Punggol,176
+WEEKDAY,6,HarbourFront,Serangoon,176
+WEEKDAY,21,Little India,Woodleigh,176
+WEEKDAY,6,Serangoon,Buangkok,176
+WEEKDAY,21,Hougang,Little India,176
+WEEKDAY,22,Dhoby Ghaut,Outram Park,175
+WEEKDAY,6,Woodleigh,Boon Keng,175
+WEEKDAY,5,Punggol,Potong Pasir,175
+WEEKDAY,17,Potong Pasir,HarbourFront,175
+WEEKDAY,6,Potong Pasir,Buangkok,175
+WEEKDAY,22,Little India,Dhoby Ghaut,174
+WEEKDAY,15,Punggol,Outram Park,174
+WEEKDAY,20,Boon Keng,Clarke Quay,174
+WEEKDAY,8,Chinatown,Dhoby Ghaut,174
+WEEKDAY,6,Woodleigh,Potong Pasir,174
+WEEKDAY,13,Sengkang,Woodleigh,173
+WEEKDAY,13,Woodleigh,Kovan,173
+WEEKDAY,22,Farrer Park,Clarke Quay,173
+WEEKDAY,19,Hougang,Woodleigh,173
+WEEKDAY,11,Woodleigh,Kovan,173
+WEEKDAY,14,HarbourFront,Kovan,173
+WEEKDAY,20,Woodleigh,Buangkok,173
+WEEKDAY,10,Farrer Park,Punggol,172
+WEEKDAY,13,Clarke Quay,Punggol,172
+WEEKDAY,17,Buangkok,Woodleigh,172
+WEEKDAY,7,Dhoby Ghaut,Potong Pasir,172
+WEEKDAY,8,Clarke Quay,Boon Keng,172
+WEEKDAY,21,Hougang,HarbourFront,171
+WEEKDAY,8,Dhoby Ghaut,Sengkang,171
+WEEKDAY,10,HarbourFront,Outram Park,171
+WEEKDAY,12,Sengkang,Woodleigh,171
+WEEKDAY,22,Boon Keng,Little India,171
+WEEKDAY,17,Kovan,Woodleigh,171
+WEEKDAY,11,Kovan,HarbourFront,171
+WEEKDAY,9,Chinatown,Clarke Quay,171
+WEEKDAY,10,Clarke Quay,Farrer Park,171
+WEEKDAY,23,HarbourFront,Kovan,170
+WEEKDAY,16,Woodleigh,Clarke Quay,170
+WEEKDAY,19,Kovan,Outram Park,170
+WEEKDAY,5,Punggol,Serangoon,170
+WEEKDAY,8,Farrer Park,Buangkok,170
+WEEKDAY,10,Woodleigh,Little India,170
+WEEKDAY,15,Hougang,HarbourFront,170
+WEEKDAY,5,Serangoon,Outram Park,170
+WEEKDAY,15,Punggol,Clarke Quay,170
+WEEKDAY,9,Clarke Quay,Farrer Park,170
+WEEKDAY,15,Dhoby Ghaut,Woodleigh,170
+WEEKDAY,15,Kovan,Clarke Quay,169
+WEEKDAY,17,Woodleigh,HarbourFront,169
+WEEKDAY,15,HarbourFront,Buangkok,169
+WEEKDAY,23,Potong Pasir,Punggol,168
+WEEKDAY,12,HarbourFront,Hougang,168
+WEEKDAY,14,Punggol,Woodleigh,168
+WEEKDAY,10,Hougang,Woodleigh,168
+WEEKDAY,20,Buangkok,Farrer Park,168
+WEEKDAY,23,Boon Keng,Farrer Park,168
+WEEKDAY,9,Buangkok,Woodleigh,168
+WEEKDAY,6,Little India,Punggol,168
+WEEKDAY,14,Woodleigh,Buangkok,168
+WEEKDAY,21,Buangkok,Farrer Park,167
+WEEKDAY,9,Chinatown,Potong Pasir,167
+WEEKDAY,10,Boon Keng,Buangkok,167
+WEEKDAY,13,Clarke Quay,Kovan,167
+WEEKDAY,9,Dhoby Ghaut,Serangoon,166
+WEEKDAY,6,Outram Park,Serangoon,166
+WEEKDAY,10,Clarke Quay,HarbourFront,166
+WEEKDAY,14,Woodleigh,Chinatown,166
+WEEKDAY,19,Woodleigh,Dhoby Ghaut,166
+WEEKDAY,8,HarbourFront,Buangkok,165
+WEEKDAY,7,Chinatown,Potong Pasir,165
+WEEKDAY,6,HarbourFront,Boon Keng,165
+WEEKDAY,15,Buangkok,Boon Keng,165
+WEEKDAY,19,HarbourFront,Woodleigh,165
+WEEKDAY,21,Outram Park,Chinatown,165
+WEEKDAY,21,Kovan,Woodleigh,165
+WEEKDAY,21,Sengkang,Woodleigh,165
+WEEKDAY,22,Chinatown,Woodleigh,165
+WEEKDAY,12,HarbourFront,Punggol,165
+WEEKDAY,18,Potong Pasir,Woodleigh,164
+WEEKDAY,19,Sengkang,Clarke Quay,164
+WEEKDAY,13,Buangkok,Clarke Quay,163
+WEEKDAY,7,Outram Park,Dhoby Ghaut,163
+WEEKDAY,16,Potong Pasir,Woodleigh,163
+WEEKDAY,20,Sengkang,Chinatown,163
+WEEKDAY,16,Dhoby Ghaut,Woodleigh,163
+WEEKDAY,19,Sengkang,Woodleigh,163
+WEEKDAY,22,Clarke Quay,HarbourFront,162
+WEEKDAY,20,Boon Keng,HarbourFront,162
+WEEKDAY,6,Dhoby Ghaut,Potong Pasir,162
+WEEKDAY,10,Little India,Buangkok,162
+WEEKDAY,9,Woodleigh,Kovan,162
+WEEKDAY,23,HarbourFront,Buangkok,161
+WEEKDAY,11,HarbourFront,Sengkang,161
+WEEKDAY,16,Kovan,Clarke Quay,161
+WEEKDAY,10,Outram Park,Potong Pasir,161
+WEEKDAY,19,Outram Park,Woodleigh,161
+WEEKDAY,8,Potong Pasir,Buangkok,161
+WEEKDAY,20,Serangoon,Outram Park,161
+WEEKDAY,20,Woodleigh,Kovan,161
+WEEKDAY,22,HarbourFront,Woodleigh,160
+WEEKDAY,8,Woodleigh,Potong Pasir,160
+WEEKDAY,22,Outram Park,Little India,160
+WEEKDAY,20,Buangkok,Boon Keng,160
+WEEKDAY,15,Hougang,Woodleigh,160
+WEEKDAY,13,Woodleigh,Dhoby Ghaut,160
+WEEKDAY,6,Woodleigh,Sengkang,159
+WEEKDAY,9,Dhoby Ghaut,Boon Keng,159
+WEEKDAY,16,Hougang,HarbourFront,159
+WEEKDAY,21,Clarke Quay,HarbourFront,159
+WEEKDAY,12,Kovan,HarbourFront,158
+WEEKDAY,6,Little India,Potong Pasir,158
+WEEKDAY,18,Buangkok,Clarke Quay,158
+WEEKDAY,17,Clarke Quay,Woodleigh,158
+WEEKDAY,15,HarbourFront,Potong Pasir,158
+WEEKDAY,12,Clarke Quay,Potong Pasir,157
+WEEKDAY,22,Chinatown,Clarke Quay,157
+WEEKDAY,23,Chinatown,Buangkok,157
+WEEKDAY,23,Outram Park,Serangoon,157
+WEEKDAY,10,Woodleigh,Dhoby Ghaut,157
+WEEKDAY,22,Buangkok,Hougang,157
+WEEKDAY,10,Woodleigh,Serangoon,157
+WEEKDAY,19,Clarke Quay,Outram Park,157
+WEEKDAY,21,Boon Keng,Clarke Quay,156
+WEEKDAY,6,Chinatown,Outram Park,156
+WEEKDAY,10,Potong Pasir,HarbourFront,155
+WEEKDAY,9,HarbourFront,Kovan,155
+WEEKDAY,13,Outram Park,Potong Pasir,154
+WEEKDAY,9,HarbourFront,Punggol,154
+WEEKDAY,20,Punggol,Chinatown,154
+WEEKDAY,13,Outram Park,Buangkok,154
+WEEKDAY,8,Outram Park,Buangkok,154
+WEEKDAY,20,Kovan,Dhoby Ghaut,154
+WEEKDAY,14,Woodleigh,Dhoby Ghaut,153
+WEEKDAY,8,Dhoby Ghaut,Kovan,153
+WEEKDAY,20,Clarke Quay,HarbourFront,153
+WEEKDAY,14,Outram Park,Potong Pasir,153
+WEEKDAY,14,Boon Keng,Woodleigh,153
+WEEKDAY,23,Clarke Quay,Little India,153
+WEEKDAY,6,Little India,Sengkang,153
+WEEKDAY,15,Kovan,Outram Park,153
+WEEKDAY,7,Outram Park,Woodleigh,153
+WEEKDAY,9,Clarke Quay,Boon Keng,152
+WEEKDAY,22,Boon Keng,HarbourFront,152
+WEEKDAY,12,Kovan,Woodleigh,152
+WEEKDAY,11,Buangkok,HarbourFront,152
+WEEKDAY,15,Little India,Woodleigh,152
+WEEKDAY,9,Clarke Quay,Little India,152
+WEEKDAY,20,Outram Park,HarbourFront,152
+WEEKDAY,11,Clarke Quay,HarbourFront,152
+WEEKDAY,19,Punggol,HarbourFront,152
+WEEKDAY,21,Hougang,Clarke Quay,151
+WEEKDAY,12,Woodleigh,Dhoby Ghaut,151
+WEEKDAY,15,Woodleigh,Chinatown,151
+WEEKDAY,11,Outram Park,Potong Pasir,151
+WEEKDAY,5,Serangoon,Boon Keng,151
+WEEKDAY,21,Buangkok,Kovan,151
+WEEKDAY,13,Hougang,Woodleigh,151
+WEEKDAY,7,Woodleigh,Punggol,151
+WEEKDAY,11,Farrer Park,Woodleigh,151
+WEEKDAY,9,Woodleigh,Little India,150
+WEEKDAY,8,Dhoby Ghaut,Serangoon,150
+WEEKDAY,20,Potong Pasir,Chinatown,150
+WEEKDAY,12,HarbourFront,Boon Keng,150
+WEEKDAY,16,Clarke Quay,HarbourFront,150
+WEEKDAY,21,Kovan,Chinatown,150
+WEEKDAY,19,Buangkok,Outram Park,149
+WEEKDAY,16,Sengkang,HarbourFront,149
+WEEKDAY,20,Potong Pasir,Dhoby Ghaut,149
+WEEKDAY,15,Potong Pasir,Clarke Quay,149
+WEEKDAY,12,Woodleigh,Punggol,149
+WEEKDAY,14,Outram Park,Clarke Quay,149
+WEEKDAY,14,Punggol,HarbourFront,149
+WEEKDAY,9,Clarke Quay,HarbourFront,149
+WEEKDAY,20,Punggol,Woodleigh,149
+WEEKDAY,6,Outram Park,Sengkang,149
+WEEKDAY,7,Farrer Park,Buangkok,148
+WEEKDAY,21,Woodleigh,Farrer Park,148
+WEEKDAY,14,Woodleigh,Little India,148
+WEEKDAY,13,Chinatown,Woodleigh,148
+WEEKDAY,12,Outram Park,Potong Pasir,148
+WEEKDAY,23,Little India,Buangkok,148
+WEEKDAY,5,Kovan,Chinatown,148
+WEEKDAY,20,Clarke Quay,Woodleigh,148
+WEEKDAY,18,Punggol,Outram Park,148
+WEEKDAY,20,Hougang,Outram Park,147
+WEEKDAY,23,Serangoon,Buangkok,147
+WEEKDAY,5,Serangoon,Potong Pasir,147
+WEEKDAY,21,Serangoon,Outram Park,147
+WEEKDAY,23,Clarke Quay,Chinatown,147
+WEEKDAY,10,Dhoby Ghaut,Punggol,147
+WEEKDAY,8,Woodleigh,Punggol,147
+WEEKDAY,20,Buangkok,Potong Pasir,147
+WEEKDAY,5,Buangkok,Dhoby Ghaut,147
+WEEKDAY,21,Buangkok,Serangoon,147
+WEEKDAY,9,Clarke Quay,Chinatown,147
+WEEKDAY,7,Dhoby Ghaut,Hougang,146
+WEEKDAY,23,Kovan,Punggol,146
+WEEKDAY,8,Clarke Quay,Farrer Park,146
+WEEKDAY,19,Serangoon,HarbourFront,146
+WEEKDAY,6,Woodleigh,Hougang,146
+WEEKDAY,10,Dhoby Ghaut,Kovan,146
+WEEKDAY,11,HarbourFront,Serangoon,145
+WEEKDAY,21,Sengkang,Little India,145
+WEEKDAY,11,Dhoby Ghaut,Buangkok,145
+WEEKDAY,17,Buangkok,Clarke Quay,145
+WEEKDAY,11,HarbourFront,Hougang,145
+WEEKDAY,8,Chinatown,Punggol,145
+WEEKDAY,8,Clarke Quay,Little India,145
+WEEKDAY,15,Sengkang,HarbourFront,144
+WEEKDAY,7,Chinatown,Hougang,144
+WEEKDAY,23,Little India,Boon Keng,144
+WEEKDAY,21,Sengkang,Chinatown,144
+WEEKDAY,9,Woodleigh,Potong Pasir,144
+WEEKDAY,19,Buangkok,Dhoby Ghaut,143
+WEEKDAY,13,Woodleigh,Little India,143
+WEEKDAY,21,Sengkang,Dhoby Ghaut,143
+WEEKDAY,16,Hougang,Outram Park,143
+WEEKDAY,5,Sengkang,Clarke Quay,143
+WEEKDAY,16,Hougang,Woodleigh,143
+WEEKDAY,7,Woodleigh,Dhoby Ghaut,143
+WEEKDAY,20,Punggol,HarbourFront,143
+WEEKDAY,9,Boon Keng,Woodleigh,142
+WEEKDAY,10,Woodleigh,Outram Park,142
+WEEKDAY,6,HarbourFront,Potong Pasir,142
+WEEKDAY,8,Chinatown,Sengkang,142
+WEEKDAY,21,Woodleigh,Serangoon,142
+WEEKDAY,22,Hougang,Clarke Quay,141
+WEEKDAY,23,Farrer Park,Little India,141
+WEEKDAY,19,Potong Pasir,Outram Park,141
+WEEKDAY,10,HarbourFront,Serangoon,141
+WEEKDAY,6,HarbourFront,Farrer Park,141
+WEEKDAY,15,Outram Park,Clarke Quay,141
+WEEKDAY,7,Dhoby Ghaut,Kovan,141
+WEEKDAY,19,Punggol,Outram Park,140
+WEEKDAY,7,Clarke Quay,Little India,140
+WEEKDAY,21,Boon Keng,Outram Park,140
+WEEKDAY,19,Woodleigh,Chinatown,140
+WEEKDAY,6,Woodleigh,Outram Park,140
+WEEKDAY,21,Boon Keng,HarbourFront,140
+WEEKDAY,23,Serangoon,Kovan,140
+WEEKDAY,23,HarbourFront,Little India,140
+WEEKDAY,10,Dhoby Ghaut,Hougang,140
+WEEKDAY,7,Chinatown,Kovan,139
+WEEKDAY,12,Clarke Quay,Hougang,139
+WEEKDAY,21,Clarke Quay,Outram Park,139
+WEEKDAY,13,Buangkok,HarbourFront,139
+WEEKDAY,20,Buangkok,Little India,139
+WEEKDAY,5,Buangkok,Potong Pasir,138
+WEEKDAY,17,HarbourFront,Woodleigh,138
+WEEKDAY,14,Little India,Woodleigh,138
+WEEKDAY,13,HarbourFront,Kovan,138
+WEEKDAY,16,Sengkang,Woodleigh,138
+WEEKDAY,12,Little India,Woodleigh,138
+WEEKDAY,8,Outram Park,Woodleigh,138
+WEEKDAY,20,Potong Pasir,Clarke Quay,138
+WEEKDAY,21,Potong Pasir,Little India,137
+WEEKDAY,9,Little India,Buangkok,137
+WEEKDAY,14,Clarke Quay,HarbourFront,137
+WEEKDAY,9,Woodleigh,Hougang,137
+WEEKDAY,11,Woodleigh,Hougang,137
+WEEKDAY,16,Potong Pasir,Clarke Quay,136
+WEEKDAY,23,HarbourFront,Dhoby Ghaut,136
+WEEKDAY,15,Clarke Quay,Outram Park,136
+WEEKDAY,7,Woodleigh,Buangkok,136
+WEEKDAY,14,Clarke Quay,Buangkok,136
+WEEKDAY,15,Potong Pasir,HarbourFront,135
+WEEKDAY,23,Kovan,Hougang,135
+WEEKDAY,11,Hougang,Woodleigh,135
+WEEKDAY,11,Sengkang,Woodleigh,135
+WEEKDAY,23,Buangkok,Sengkang,134
+WEEKDAY,6,Woodleigh,Serangoon,134
+WEEKDAY,22,Little India,Clarke Quay,134
+WEEKDAY,23,Boon Keng,Kovan,134
+WEEKDAY,14,Sengkang,Woodleigh,134
+WEEKDAY,23,Outram Park,Punggol,134
+WEEKDAY,6,Little India,Woodleigh,134
+WEEKDAY,16,Punggol,Woodleigh,133
+WEEKDAY,17,Clarke Quay,Outram Park,133
+WEEKDAY,22,Hougang,Chinatown,133
+WEEKDAY,14,Kovan,HarbourFront,132
+WEEKDAY,12,Outram Park,Buangkok,132
+WEEKDAY,21,Punggol,Chinatown,132
+WEEKDAY,6,Woodleigh,Farrer Park,132
+WEEKDAY,23,Sengkang,Hougang,132
+WEEKDAY,18,Buangkok,HarbourFront,132
+WEEKDAY,21,Punggol,Woodleigh,132
+WEEKDAY,18,Buangkok,Outram Park,132
+WEEKDAY,23,Farrer Park,Outram Park,131
+WEEKDAY,11,Woodleigh,Punggol,131
+WEEKDAY,6,Outram Park,Little India,131
+WEEKDAY,7,Clarke Quay,Boon Keng,131
+WEEKDAY,6,HarbourFront,Little India,130
+WEEKDAY,11,Punggol,Woodleigh,130
+WEEKDAY,23,Chinatown,Potong Pasir,130
+WEEKDAY,20,HarbourFront,Woodleigh,130
+WEEKDAY,8,Little India,Buangkok,130
+WEEKDAY,5,Hougang,Clarke Quay,130
+WEEKDAY,15,Punggol,Woodleigh,130
+WEEKDAY,9,Woodleigh,Sengkang,130
+WEEKDAY,11,Potong Pasir,Woodleigh,129
+WEEKDAY,20,Clarke Quay,Outram Park,129
+WEEKDAY,6,Chinatown,Serangoon,129
+WEEKDAY,21,Sengkang,Clarke Quay,129
+WEEKDAY,13,Potong Pasir,HarbourFront,129
+WEEKDAY,11,Clarke Quay,Potong Pasir,129
+WEEKDAY,20,Little India,Woodleigh,129
+WEEKDAY,6,Little India,Kovan,129
+WEEKDAY,11,Clarke Quay,Sengkang,128
+WEEKDAY,5,Hougang,Potong Pasir,128
+WEEKDAY,10,Kovan,Woodleigh,128
+WEEKDAY,21,Punggol,Little India,128
+WEEKDAY,16,Punggol,Outram Park,128
+WEEKDAY,21,Clarke Quay,Woodleigh,128
+WEEKDAY,21,Woodleigh,Little India,128
+WEEKDAY,16,Clarke Quay,Outram Park,128
+WEEKDAY,5,Kovan,Dhoby Ghaut,127
+WEEKDAY,10,Clarke Quay,Kovan,127
+WEEKDAY,23,Little India,Farrer Park,127
+WEEKDAY,20,Outram Park,Clarke Quay,127
+WEEKDAY,7,Chinatown,Sengkang,127
+WEEKDAY,10,Outram Park,Clarke Quay,127
+WEEKDAY,10,Clarke Quay,Serangoon,127
+WEEKDAY,18,Buangkok,Woodleigh,126
+WEEKDAY,9,Serangoon,Woodleigh,126
+WEEKDAY,7,Outram Park,Buangkok,125
+WEEKDAY,16,Punggol,HarbourFront,125
+WEEKDAY,12,Buangkok,HarbourFront,125
+WEEKDAY,11,Clarke Quay,Hougang,125
+WEEKDAY,22,Chinatown,Outram Park,125
+WEEKDAY,21,Woodleigh,Buangkok,124
+WEEKDAY,5,Buangkok,Outram Park,124
+WEEKDAY,20,Kovan,Woodleigh,124
+WEEKDAY,21,Hougang,Woodleigh,124
+WEEKDAY,23,Kovan,Buangkok,124
+WEEKDAY,12,Clarke Quay,Kovan,124
+WEEKDAY,9,Woodleigh,HarbourFront,124
+WEEKDAY,22,Dhoby Ghaut,Woodleigh,123
+WEEKDAY,22,Little India,Woodleigh,123
+WEEKDAY,22,Buangkok,Boon Keng,123
+WEEKDAY,21,Punggol,Outram Park,123
+WEEKDAY,22,Serangoon,HarbourFront,123
+WEEKDAY,23,Kovan,Farrer Park,123
+WEEKDAY,22,Clarke Quay,Outram Park,123
+WEEKDAY,10,Dhoby Ghaut,Potong Pasir,123
+WEEKDAY,5,Potong Pasir,HarbourFront,122
+WEEKDAY,12,HarbourFront,Kovan,122
+WEEKDAY,12,Chinatown,Woodleigh,122
+WEEKDAY,12,Punggol,Woodleigh,122
+WEEKDAY,11,HarbourFront,Punggol,122
+WEEKDAY,19,Potong Pasir,Woodleigh,122
+WEEKDAY,16,Kovan,HarbourFront,122
+WEEKDAY,14,Potong Pasir,HarbourFront,121
+WEEKDAY,12,Woodleigh,Hougang,121
+WEEKDAY,22,Hougang,HarbourFront,121
+WEEKDAY,21,HarbourFront,Woodleigh,121
+WEEKDAY,5,Buangkok,Kovan,120
+WEEKDAY,10,HarbourFront,Hougang,120
+WEEKDAY,16,Kovan,Outram Park,120
+WEEKDAY,8,HarbourFront,Woodleigh,120
+WEEKDAY,12,Hougang,Woodleigh,120
+WEEKDAY,22,Hougang,Little India,120
+WEEKDAY,5,Boon Keng,Little India,120
+WEEKDAY,10,Woodleigh,Potong Pasir,120
+WEEKDAY,9,Chinatown,Buangkok,119
+WEEKDAY,21,Boon Keng,Dhoby Ghaut,119
+WEEKDAY,16,Little India,Woodleigh,119
+WEEKDAY,8,Dhoby Ghaut,Hougang,119
+WEEKDAY,23,Punggol,Buangkok,119
+WEEKDAY,16,Boon Keng,Woodleigh,119
+WEEKDAY,20,Punggol,Dhoby Ghaut,119
+WEEKDAY,15,Kovan,HarbourFront,118
+WEEKDAY,6,Clarke Quay,Hougang,118
+WEEKDAY,11,Potong Pasir,HarbourFront,118
+WEEKDAY,8,Clarke Quay,Potong Pasir,118
+WEEKDAY,12,Woodleigh,Outram Park,118
+WEEKDAY,11,Boon Keng,Woodleigh,118
+WEEKDAY,22,Buangkok,Kovan,118
+WEEKDAY,23,Kovan,Boon Keng,118
+WEEKDAY,5,Sengkang,Farrer Park,118
+WEEKDAY,22,Woodleigh,Hougang,117
+WEEKDAY,16,Potong Pasir,Outram Park,117
+WEEKDAY,7,Clarke Quay,Kovan,117
+WEEKDAY,9,HarbourFront,Potong Pasir,117
+WEEKDAY,7,Chinatown,Dhoby Ghaut,117
+WEEKDAY,12,Potong Pasir,HarbourFront,117
+WEEKDAY,23,Serangoon,Potong Pasir,117
+WEEKDAY,8,Woodleigh,Buangkok,117
+WEEKDAY,8,Clarke Quay,Hougang,117
+WEEKDAY,19,Potong Pasir,HarbourFront,116
+WEEKDAY,11,Woodleigh,Sengkang,116
+WEEKDAY,16,Potong Pasir,HarbourFront,116
+WEEKDAY,7,Dhoby Ghaut,Serangoon,116
+WEEKDAY,23,Farrer Park,Dhoby Ghaut,116
+WEEKDAY,13,Little India,Woodleigh,116
+WEEKDAY,10,Chinatown,Buangkok,116
+WEEKDAY,19,Sengkang,HarbourFront,115
+WEEKDAY,5,Serangoon,Farrer Park,115
+WEEKDAY,16,Outram Park,Woodleigh,115
+WEEKDAY,14,Buangkok,Outram Park,115
+WEEKDAY,10,HarbourFront,Sengkang,115
+WEEKDAY,15,Punggol,HarbourFront,114
+WEEKDAY,20,Sengkang,Woodleigh,114
+WEEKDAY,21,Buangkok,HarbourFront,114
+WEEKDAY,22,Serangoon,Clarke Quay,114
+WEEKDAY,22,Outram Park,Dhoby Ghaut,114
+WEEKDAY,23,Punggol,Kovan,114
+WEEKDAY,7,Dhoby Ghaut,Sengkang,114
+WEEKDAY,6,HarbourFront,Punggol,114
+WEEKDAY,20,Sengkang,Clarke Quay,114
+WEEKDAY,23,Clarke Quay,Dhoby Ghaut,113
+WEEKDAY,9,Dhoby Ghaut,Punggol,113
+WEEKDAY,11,Woodleigh,Dhoby Ghaut,113
+WEEKDAY,21,Outram Park,Clarke Quay,113
+WEEKDAY,21,Kovan,HarbourFront,113
+WEEKDAY,20,Hougang,Woodleigh,113
+WEEKDAY,5,Kovan,Outram Park,113
+WEEKDAY,11,Farrer Park,Buangkok,112
+WEEKDAY,23,Potong Pasir,Kovan,112
+WEEKDAY,21,Buangkok,Potong Pasir,112
+WEEKDAY,22,Serangoon,Outram Park,112
+WEEKDAY,9,Farrer Park,Buangkok,111
+WEEKDAY,20,Outram Park,Woodleigh,111
+WEEKDAY,10,Woodleigh,Hougang,111
+WEEKDAY,5,Boon Keng,Outram Park,110
+WEEKDAY,19,Buangkok,Chinatown,110
+WEEKDAY,23,Chinatown,Little India,110
+WEEKDAY,21,Kovan,Dhoby Ghaut,110
+WEEKDAY,5,Punggol,Kovan,110
+WEEKDAY,22,Punggol,Chinatown,110
+WEEKDAY,14,Buangkok,Clarke Quay,110
+WEEKDAY,10,Potong Pasir,Buangkok,110
+WEEKDAY,8,Clarke Quay,Serangoon,110
+WEEKDAY,6,Woodleigh,Kovan,110
+WEEKDAY,21,Serangoon,Dhoby Ghaut,109
+WEEKDAY,23,Outram Park,Boon Keng,109
+WEEKDAY,23,HarbourFront,Outram Park,109
+WEEKDAY,20,Kovan,Clarke Quay,109
+WEEKDAY,13,Punggol,Woodleigh,109
+WEEKDAY,23,Boon Keng,Buangkok,108
+WEEKDAY,20,Punggol,Clarke Quay,108
+WEEKDAY,5,Buangkok,Farrer Park,108
+WEEKDAY,20,Boon Keng,Woodleigh,108
+WEEKDAY,6,HarbourFront,Chinatown,108
+WEEKDAY,18,Woodleigh,HarbourFront,108
+WEEKDAY,23,Serangoon,Chinatown,108
+WEEKDAY,7,Chinatown,Punggol,108
+WEEKDAY,5,Buangkok,Woodleigh,107
+WEEKDAY,5,Hougang,Farrer Park,107
+WEEKDAY,11,Woodleigh,Outram Park,107
+WEEKDAY,22,Sengkang,HarbourFront,107
+WEEKDAY,21,Punggol,Clarke Quay,107
+WEEKDAY,10,Outram Park,Buangkok,107
+WEEKDAY,21,Outram Park,HarbourFront,107
+WEEKDAY,22,Buangkok,Serangoon,107
+WEEKDAY,10,Serangoon,Woodleigh,106
+WEEKDAY,11,Outram Park,Buangkok,106
+WEEKDAY,23,Outram Park,Kovan,106
+WEEKDAY,10,HarbourFront,Kovan,106
+WEEKDAY,22,HarbourFront,Clarke Quay,106
+WEEKDAY,11,Clarke Quay,Outram Park,106
+WEEKDAY,21,Buangkok,Boon Keng,105
+WEEKDAY,5,Punggol,Farrer Park,105
+WEEKDAY,22,Buangkok,Potong Pasir,105
+WEEKDAY,5,Kovan,Farrer Park,105
+WEEKDAY,6,Woodleigh,Punggol,105
+WEEKDAY,6,Chinatown,Potong Pasir,104
+WEEKDAY,5,Sengkang,Serangoon,104
+WEEKDAY,7,Chinatown,Woodleigh,104
+WEEKDAY,9,Dhoby Ghaut,Hougang,104
+WEEKDAY,23,Dhoby Ghaut,Clarke Quay,104
+WEEKDAY,10,HarbourFront,Punggol,104
+WEEKDAY,14,HarbourFront,Potong Pasir,103
+WEEKDAY,19,Buangkok,Clarke Quay,103
+WEEKDAY,10,Boon Keng,Woodleigh,103
+WEEKDAY,10,Farrer Park,Buangkok,103
+WEEKDAY,23,Kovan,Potong Pasir,103
+WEEKDAY,9,Dhoby Ghaut,Sengkang,103
+WEEKDAY,9,Potong Pasir,Woodleigh,103
+WEEKDAY,6,Chinatown,Hougang,103
+WEEKDAY,15,Clarke Quay,HarbourFront,103
+WEEKDAY,23,Hougang,Buangkok,103
+WEEKDAY,15,Buangkok,Outram Park,103
+WEEKDAY,22,Sengkang,Woodleigh,103
+WEEKDAY,7,Clarke Quay,HarbourFront,102
+WEEKDAY,17,Woodleigh,Clarke Quay,102
+WEEKDAY,10,Clarke Quay,Sengkang,102
+WEEKDAY,23,Little India,Outram Park,102
+WEEKDAY,12,HarbourFront,Potong Pasir,102
+WEEKDAY,22,Boon Keng,Chinatown,102
+WEEKDAY,5,Punggol,Dhoby Ghaut,101
+WEEKDAY,23,Outram Park,Farrer Park,101
+WEEKDAY,6,Chinatown,Farrer Park,101
+WEEKDAY,20,Woodleigh,Boon Keng,101
+WEEKDAY,9,Clarke Quay,Hougang,101
+WEEKDAY,6,Dhoby Ghaut,Serangoon,101
+WEEKDAY,13,Buangkok,Woodleigh,101
+WEEKDAY,18,Woodleigh,Outram Park,101
+WEEKDAY,11,Clarke Quay,Kovan,101
+WEEKDAY,10,Woodleigh,Sengkang,101
+WEEKDAY,20,Potong Pasir,Woodleigh,101
+WEEKDAY,10,Farrer Park,Woodleigh,101
+WEEKDAY,9,HarbourFront,Buangkok,100
+WEEKDAY,8,Clarke Quay,Chinatown,100
+WEEKDAY,17,Woodleigh,Outram Park,100
+WEEKDAY,7,Clarke Quay,Hougang,100
+WEEKDAY,5,Serangoon,Little India,100
+WEEKDAY,6,Chinatown,Kovan,100
+WEEKDAY,23,Hougang,Farrer Park,100
+WEEKDAY,6,Farrer Park,Sengkang,100
+WEEKDAY,11,Kovan,Woodleigh,99
+WEEKDAY,10,Clarke Quay,Boon Keng,99
+WEEKDAY,23,Potong Pasir,Hougang,99
+WEEKDAY,9,Potong Pasir,Buangkok,99
+WEEKDAY,5,Boon Keng,Farrer Park,99
+WEEKDAY,22,Hougang,Woodleigh,99
+WEEKDAY,23,Farrer Park,Woodleigh,99
+WEEKDAY,9,Little India,Woodleigh,98
+WEEKDAY,21,Woodleigh,Boon Keng,98
+WEEKDAY,7,Clarke Quay,Serangoon,98
+WEEKDAY,22,Sengkang,Outram Park,98
+WEEKDAY,22,Buangkok,Farrer Park,98
+WEEKDAY,18,Woodleigh,Clarke Quay,98
+WEEKDAY,9,Dhoby Ghaut,Kovan,97
+WEEKDAY,8,Dhoby Ghaut,Punggol,97
+WEEKDAY,5,Buangkok,Clarke Quay,97
+WEEKDAY,23,Sengkang,Kovan,96
+WEEKDAY,22,Punggol,Little India,96
+WEEKDAY,9,Farrer Park,Woodleigh,96
+WEEKDAY,21,Woodleigh,Potong Pasir,95
+WEEKDAY,22,Punggol,Outram Park,95
+WEEKDAY,6,Clarke Quay,Boon Keng,95
+WEEKDAY,6,Chinatown,Little India,95
+WEEKDAY,5,Boon Keng,Kovan,94
+WEEKDAY,6,HarbourFront,Kovan,93
+WEEKDAY,5,Punggol,Woodleigh,93
+WEEKDAY,6,HarbourFront,Dhoby Ghaut,93
+WEEKDAY,23,Farrer Park,Chinatown,93
+WEEKDAY,9,Woodleigh,Serangoon,93
+WEEKDAY,23,Clarke Quay,HarbourFront,93
+WEEKDAY,10,Woodleigh,Punggol,92
+WEEKDAY,9,Dhoby Ghaut,Potong Pasir,92
+WEEKDAY,23,Potong Pasir,Serangoon,91
+WEEKDAY,21,Hougang,Outram Park,91
+WEEKDAY,15,Woodleigh,Clarke Quay,91
+WEEKDAY,23,HarbourFront,Potong Pasir,91
+WEEKDAY,14,Outram Park,Woodleigh,91
+WEEKDAY,8,Clarke Quay,Kovan,91
+WEEKDAY,22,Punggol,Woodleigh,91
+WEEKDAY,13,Woodleigh,Buangkok,91
+WEEKDAY,7,Outram Park,Clarke Quay,90
+WEEKDAY,6,Chinatown,Punggol,90
+WEEKDAY,6,HarbourFront,Woodleigh,90
+WEEKDAY,5,Hougang,Punggol,90
+WEEKDAY,19,Kovan,HarbourFront,89
+WEEKDAY,21,Punggol,Dhoby Ghaut,89
+WEEKDAY,11,Little India,Woodleigh,89
+WEEKDAY,13,Clarke Quay,Buangkok,89
+WEEKDAY,11,HarbourFront,Kovan,89
+WEEKDAY,22,Punggol,HarbourFront,89
+WEEKDAY,14,Buangkok,Woodleigh,89
+WEEKDAY,23,Clarke Quay,Outram Park,89
+WEEKDAY,21,Kovan,Clarke Quay,88
+WEEKDAY,20,Kovan,HarbourFront,88
+WEEKDAY,17,Buangkok,Outram Park,88
+WEEKDAY,23,Potong Pasir,Boon Keng,88
+WEEKDAY,8,Clarke Quay,Sengkang,88
+WEEKDAY,7,Little India,Buangkok,88
+WEEKDAY,13,Dhoby Ghaut,Woodleigh,88
+WEEKDAY,22,Punggol,Dhoby Ghaut,88
+WEEKDAY,21,Potong Pasir,Woodleigh,88
+WEEKDAY,11,Clarke Quay,Punggol,88
+WEEKDAY,6,Outram Park,Dhoby Ghaut,87
+WEEKDAY,6,Chinatown,Dhoby Ghaut,87
+WEEKDAY,13,HarbourFront,Potong Pasir,87
+WEEKDAY,9,Clarke Quay,Potong Pasir,87
+WEEKDAY,15,Buangkok,HarbourFront,87
+WEEKDAY,13,HarbourFront,Buangkok,87
+WEEKDAY,12,Clarke Quay,Buangkok,87
+WEEKDAY,22,Serangoon,Dhoby Ghaut,86
+WEEKDAY,23,Potong Pasir,Buangkok,86
+WEEKDAY,16,Buangkok,Outram Park,86
+WEEKDAY,5,Kovan,Clarke Quay,86
+WEEKDAY,22,Sengkang,Clarke Quay,86
+WEEKDAY,15,Buangkok,Clarke Quay,85
+WEEKDAY,10,Clarke Quay,Potong Pasir,85
+WEEKDAY,23,Potong Pasir,Farrer Park,85
+WEEKDAY,5,Buangkok,Hougang,85
+WEEKDAY,8,Chinatown,Clarke Quay,85
+WEEKDAY,20,Sengkang,HarbourFront,84
+WEEKDAY,5,Boon Keng,Hougang,84
+WEEKDAY,5,Buangkok,Serangoon,84
+WEEKDAY,22,Clarke Quay,Woodleigh,84
+WEEKDAY,23,Little India,Potong Pasir,84
+WEEKDAY,15,Boon Keng,Woodleigh,84
+WEEKDAY,21,Woodleigh,Kovan,84
+WEEKDAY,6,Outram Park,Punggol,83
+WEEKDAY,9,Clarke Quay,Serangoon,83
+WEEKDAY,22,Kovan,Dhoby Ghaut,83
+WEEKDAY,13,Woodleigh,HarbourFront,83
+WEEKDAY,22,Serangoon,Woodleigh,83
+WEEKDAY,11,Chinatown,Woodleigh,82
+WEEKDAY,14,HarbourFront,Buangkok,82
+WEEKDAY,10,Potong Pasir,Woodleigh,82
+WEEKDAY,9,Woodleigh,Punggol,82
+WEEKDAY,22,Outram Park,Clarke Quay,81
+WEEKDAY,12,HarbourFront,Buangkok,81
+WEEKDAY,23,Little India,Chinatown,81
+WEEKDAY,6,Outram Park,Kovan,81
+WEEKDAY,23,Kovan,Serangoon,81
+WEEKDAY,22,Woodleigh,Farrer Park,80
+WEEKDAY,13,Woodleigh,Outram Park,80
+WEEKDAY,5,Boon Keng,Chinatown,80
+WEEKDAY,6,Dhoby Ghaut,Hougang,79
+WEEKDAY,21,Potong Pasir,Dhoby Ghaut,79
+WEEKDAY,23,Punggol,Boon Keng,79
+WEEKDAY,22,Kovan,Chinatown,78
+WEEKDAY,5,Punggol,Buangkok,78
+WEEKDAY,7,Clarke Quay,Farrer Park,78
+WEEKDAY,23,Buangkok,Punggol,78
+WEEKDAY,22,Potong Pasir,Little India,78
+WEEKDAY,5,Chinatown,Little India,78
+WEEKDAY,10,Clarke Quay,Hougang,78
+WEEKDAY,23,Farrer Park,Clarke Quay,78
+WEEKDAY,6,Dhoby Ghaut,Boon Keng,77
+WEEKDAY,17,Buangkok,HarbourFront,77
+WEEKDAY,23,Punggol,Serangoon,77
+WEEKDAY,6,Outram Park,Chinatown,77
+WEEKDAY,23,Outram Park,Buangkok,77
+WEEKDAY,14,Buangkok,HarbourFront,76
+WEEKDAY,12,Buangkok,Woodleigh,76
+WEEKDAY,22,Boon Keng,Clarke Quay,76
+WEEKDAY,5,Potong Pasir,Hougang,75
+WEEKDAY,22,Buangkok,HarbourFront,75
+WEEKDAY,21,Potong Pasir,Chinatown,75
+WEEKDAY,21,Outram Park,Woodleigh,75
+WEEKDAY,22,Hougang,Dhoby Ghaut,75
+WEEKDAY,8,Clarke Quay,Outram Park,75
+WEEKDAY,5,Outram Park,Serangoon,74
+WEEKDAY,7,Dhoby Ghaut,Punggol,74
+WEEKDAY,5,Boon Keng,Dhoby Ghaut,74
+WEEKDAY,22,Outram Park,Woodleigh,74
+WEEKDAY,16,Buangkok,Clarke Quay,74
+WEEKDAY,7,HarbourFront,Buangkok,73
+WEEKDAY,22,Sengkang,Chinatown,73
+WEEKDAY,22,Woodleigh,Boon Keng,73
+WEEKDAY,5,Sengkang,Woodleigh,73
+WEEKDAY,7,Clarke Quay,Sengkang,73
+WEEKDAY,5,Chinatown,Hougang,73
+WEEKDAY,23,Dhoby Ghaut,Chinatown,72
+WEEKDAY,9,Clarke Quay,Dhoby Ghaut,72
+WEEKDAY,22,Sengkang,Little India,72
+WEEKDAY,15,Outram Park,Woodleigh,72
+WEEKDAY,5,Farrer Park,Little India,72
+WEEKDAY,6,Chinatown,Sengkang,72
+WEEKDAY,7,Clarke Quay,Outram Park,71
+WEEKDAY,5,Kovan,Potong Pasir,71
+WEEKDAY,16,Clarke Quay,Woodleigh,71
+WEEKDAY,6,Dhoby Ghaut,Farrer Park,71
+WEEKDAY,6,HarbourFront,Buangkok,71
+WEEKDAY,8,Chinatown,Woodleigh,70
+WEEKDAY,23,Buangkok,Potong Pasir,70
+WEEKDAY,19,Woodleigh,Outram Park,70
+WEEKDAY,5,Hougang,Serangoon,70
+WEEKDAY,0,Sengkang,Punggol,70
+WEEKDAY,21,Kovan,Outram Park,70
+WEEKDAY,22,Woodleigh,Buangkok,70
+WEEKDAY,10,Buangkok,Woodleigh,70
+WEEKDAY,6,Little India,Buangkok,70
+WEEKDAY,23,Outram Park,Potong Pasir,70
+WEEKDAY,10,Little India,Woodleigh,70
+WEEKDAY,15,Buangkok,Woodleigh,70
+WEEKDAY,22,Sengkang,Dhoby Ghaut,69
+WEEKDAY,9,Outram Park,Buangkok,69
+WEEKDAY,6,Clarke Quay,Serangoon,69
+WEEKDAY,10,Woodleigh,Clarke Quay,69
+WEEKDAY,21,Sengkang,Outram Park,69
+WEEKDAY,21,Potong Pasir,Clarke Quay,69
+WEEKDAY,21,Potong Pasir,Outram Park,69
+WEEKDAY,22,Potong Pasir,Woodleigh,68
+WEEKDAY,16,Woodleigh,Outram Park,68
+WEEKDAY,5,Potong Pasir,Clarke Quay,68
+WEEKDAY,22,Potong Pasir,Clarke Quay,68
+WEEKDAY,20,Potong Pasir,Outram Park,68
+WEEKDAY,9,Clarke Quay,Outram Park,68
+WEEKDAY,22,Potong Pasir,HarbourFront,68
+WEEKDAY,23,Chinatown,HarbourFront,68
+WEEKDAY,9,Clarke Quay,Sengkang,68
+WEEKDAY,12,Woodleigh,HarbourFront,68
+WEEKDAY,22,Outram Park,Chinatown,68
+WEEKDAY,8,Clarke Quay,Punggol,68
+WEEKDAY,23,Punggol,Potong Pasir,68
+WEEKDAY,7,Clarke Quay,Woodleigh,68
+WEEKDAY,12,Woodleigh,Buangkok,68
+WEEKDAY,9,Outram Park,Woodleigh,67
+WEEKDAY,11,HarbourFront,Potong Pasir,67
+WEEKDAY,6,Clarke Quay,Farrer Park,66
+WEEKDAY,5,Clarke Quay,Boon Keng,66
+WEEKDAY,22,Outram Park,HarbourFront,66
+WEEKDAY,19,Buangkok,Woodleigh,66
+WEEKDAY,9,Clarke Quay,Kovan,66
+WEEKDAY,23,Sengkang,Boon Keng,66
+WEEKDAY,11,Buangkok,Woodleigh,66
+WEEKDAY,16,Buangkok,HarbourFront,65
+WEEKDAY,20,Sengkang,Outram Park,65
+WEEKDAY,23,Chinatown,Dhoby Ghaut,65
+WEEKDAY,23,Woodleigh,Sengkang,65
+WEEKDAY,6,Dhoby Ghaut,Punggol,65
+WEEKDAY,23,HarbourFront,Woodleigh,64
+WEEKDAY,21,Buangkok,Little India,64
+WEEKDAY,23,Boon Keng,Little India,64
+WEEKDAY,8,Dhoby Ghaut,Buangkok,64
+WEEKDAY,6,Dhoby Ghaut,Sengkang,64
+WEEKDAY,0,Farrer Park,Sengkang,63
+WEEKDAY,20,Buangkok,Woodleigh,63
+WEEKDAY,7,Clarke Quay,Potong Pasir,63
+WEEKDAY,23,Farrer Park,HarbourFront,63
+WEEKDAY,6,HarbourFront,Outram Park,63
+WEEKDAY,5,Boon Keng,Serangoon,62
+WEEKDAY,5,Boon Keng,Punggol,62
+WEEKDAY,5,Hougang,Kovan,62
+WEEKDAY,20,Buangkok,Outram Park,62
+WEEKDAY,19,Woodleigh,Clarke Quay,62
+WEEKDAY,21,Boon Keng,Woodleigh,62
+WEEKDAY,19,Buangkok,HarbourFront,62
+WEEKDAY,10,Chinatown,Woodleigh,62
+WEEKDAY,23,Hougang,Potong Pasir,61
+WEEKDAY,6,Woodleigh,Little India,61
+WEEKDAY,22,Kovan,Clarke Quay,61
+WEEKDAY,23,Dhoby Ghaut,Little India,61
+WEEKDAY,22,Buangkok,Woodleigh,61
+WEEKDAY,23,HarbourFront,Clarke Quay,61
+WEEKDAY,20,Buangkok,Clarke Quay,60
+WEEKDAY,15,Clarke Quay,Woodleigh,60
+WEEKDAY,15,Woodleigh,Outram Park,60
+WEEKDAY,14,Woodleigh,Outram Park,59
+WEEKDAY,5,Outram Park,Sengkang,59
+WEEKDAY,23,Serangoon,Outram Park,59
+WEEKDAY,23,Punggol,Farrer Park,59
+WEEKDAY,22,Kovan,Outram Park,59
+WEEKDAY,22,Hougang,Outram Park,59
+WEEKDAY,20,Buangkok,Chinatown,58
+WEEKDAY,21,Buangkok,Chinatown,58
+WEEKDAY,22,Woodleigh,Potong Pasir,58
+WEEKDAY,23,Dhoby Ghaut,Outram Park,58
+WEEKDAY,16,Buangkok,Woodleigh,58
+WEEKDAY,22,Potong Pasir,Chinatown,58
+WEEKDAY,23,Sengkang,Serangoon,57
+WEEKDAY,23,Hougang,Chinatown,57
+WEEKDAY,8,Clarke Quay,Dhoby Ghaut,57
+WEEKDAY,11,HarbourFront,Buangkok,57
+WEEKDAY,5,Sengkang,Buangkok,57
+WEEKDAY,23,Little India,HarbourFront,57
+WEEKDAY,23,Outram Park,Little India,57
+WEEKDAY,22,Kovan,Little India,57
+WEEKDAY,22,Boon Keng,Dhoby Ghaut,56
+WEEKDAY,12,Dhoby Ghaut,Woodleigh,56
+WEEKDAY,20,Potong Pasir,HarbourFront,56
+WEEKDAY,20,Kovan,Outram Park,56
+WEEKDAY,5,Punggol,Clarke Quay,56
+WEEKDAY,10,HarbourFront,Potong Pasir,56
+WEEKDAY,10,Dhoby Ghaut,Buangkok,55
+WEEKDAY,5,Farrer Park,Hougang,55
+WEEKDAY,23,Chinatown,Woodleigh,55
+WEEKDAY,16,HarbourFront,Woodleigh,55
+WEEKDAY,19,Woodleigh,HarbourFront,55
+WEEKDAY,10,Clarke Quay,Outram Park,55
+WEEKDAY,21,Potong Pasir,HarbourFront,55
+WEEKDAY,5,Serangoon,Dhoby Ghaut,55
+WEEKDAY,22,Boon Keng,Outram Park,55
+WEEKDAY,23,Chinatown,Outram Park,54
+WEEKDAY,9,Clarke Quay,Punggol,54
+WEEKDAY,15,HarbourFront,Woodleigh,54
+WEEKDAY,10,Clarke Quay,Punggol,54
+WEEKDAY,5,Chinatown,Farrer Park,54
+WEEKDAY,23,Sengkang,Farrer Park,53
+WEEKDAY,23,Dhoby Ghaut,Woodleigh,53
+WEEKDAY,11,Woodleigh,Clarke Quay,53
+WEEKDAY,6,Woodleigh,Buangkok,53
+WEEKDAY,10,Woodleigh,Buangkok,53
+WEEKDAY,23,Woodleigh,Punggol,53
+WEEKDAY,22,Punggol,Clarke Quay,53
+WEEKDAY,20,Woodleigh,Chinatown,53
+WEEKDAY,11,Woodleigh,HarbourFront,53
+WEEKDAY,22,Kovan,Woodleigh,52
+WEEKDAY,6,Dhoby Ghaut,Chinatown,52
+WEEKDAY,20,Buangkok,Dhoby Ghaut,52
+WEEKDAY,22,Buangkok,Clarke Quay,52
+WEEKDAY,5,Boon Keng,Sengkang,52
+WEEKDAY,23,Dhoby Ghaut,HarbourFront,52
+WEEKDAY,6,Woodleigh,Chinatown,52
+WEEKDAY,23,Hougang,Serangoon,52
+WEEKDAY,6,Woodleigh,Clarke Quay,52
+WEEKDAY,23,Chinatown,Clarke Quay,52
+WEEKDAY,6,Dhoby Ghaut,Clarke Quay,52
+WEEKDAY,20,Punggol,Outram Park,51
+WEEKDAY,13,Woodleigh,Clarke Quay,51
+WEEKDAY,10,Woodleigh,HarbourFront,51
+WEEKDAY,5,Farrer Park,HarbourFront,51
+WEEKDAY,23,Boon Keng,Potong Pasir,50
+WEEKDAY,23,Sengkang,Buangkok,50
+WEEKDAY,11,Woodleigh,Buangkok,50
+WEEKDAY,5,Farrer Park,Serangoon,50
+WEEKDAY,20,Buangkok,HarbourFront,49
+WEEKDAY,6,Dhoby Ghaut,Little India,49
+WEEKDAY,23,Sengkang,Dhoby Ghaut,49
+WEEKDAY,23,Clarke Quay,Woodleigh,49
+WEEKDAY,21,Buangkok,Clarke Quay,48
+WEEKDAY,12,Woodleigh,Clarke Quay,48
+WEEKDAY,5,Farrer Park,Dhoby Ghaut,48
+WEEKDAY,9,Chinatown,Woodleigh,48
+WEEKDAY,14,Clarke Quay,Woodleigh,47
+WEEKDAY,23,Buangkok,Boon Keng,47
+WEEKDAY,23,Buangkok,Serangoon,47
+WEEKDAY,14,Woodleigh,Clarke Quay,47
+WEEKDAY,9,Dhoby Ghaut,Buangkok,47
+WEEKDAY,5,Potong Pasir,Boon Keng,47
+WEEKDAY,5,Potong Pasir,Serangoon,47
+WEEKDAY,5,Serangoon,Clarke Quay,47
+WEEKDAY,22,Woodleigh,Kovan,46
+WEEKDAY,23,Buangkok,Kovan,46
+WEEKDAY,7,Dhoby Ghaut,Buangkok,46
+WEEKDAY,21,Buangkok,Woodleigh,46
+WEEKDAY,5,Little India,Outram Park,46
+WEEKDAY,23,Boon Keng,Chinatown,46
+WEEKDAY,5,Farrer Park,Outram Park,46
+WEEKDAY,5,Farrer Park,Punggol,46
+WEEKDAY,6,Outram Park,Woodleigh,45
+WEEKDAY,5,Little India,Serangoon,45
+WEEKDAY,6,Chinatown,Buangkok,45
+WEEKDAY,23,Sengkang,Potong Pasir,45
+WEEKDAY,6,Clarke Quay,Kovan,45
+WEEKDAY,5,Buangkok,Little India,44
+WEEKDAY,7,Chinatown,Buangkok,44
+WEEKDAY,5,Serangoon,Sengkang,44
+WEEKDAY,23,Serangoon,Little India,43
+WEEKDAY,22,Buangkok,Outram Park,43
+WEEKDAY,5,Farrer Park,Clarke Quay,43
+WEEKDAY,6,Chinatown,Woodleigh,43
+WEEKDAY,23,Little India,Clarke Quay,43
+WEEKDAY,7,Clarke Quay,Buangkok,43
+WEEKDAY,23,Hougang,Boon Keng,42
+WEEKDAY,0,Serangoon,Sengkang,42
+WEEKDAY,21,Buangkok,Outram Park,42
+WEEKDAY,13,Outram Park,Woodleigh,41
+WEEKDAY,11,Outram Park,Woodleigh,41
+WEEKDAY,11,Clarke Quay,Buangkok,41
+WEEKDAY,5,Chinatown,Serangoon,41
+WEEKDAY,23,Potong Pasir,Woodleigh,40
+WEEKDAY,23,Outram Park,Dhoby Ghaut,40
+WEEKDAY,22,Potong Pasir,Dhoby Ghaut,40
+WEEKDAY,5,Potong Pasir,Dhoby Ghaut,40
+WEEKDAY,23,Hougang,Kovan,40
+WEEKDAY,23,Outram Park,Woodleigh,39
+WEEKDAY,8,Chinatown,Buangkok,39
+WEEKDAY,9,Clarke Quay,Buangkok,39
+WEEKDAY,5,Outram Park,Little India,39
+WEEKDAY,22,Boon Keng,Woodleigh,39
+WEEKDAY,5,Potong Pasir,Little India,39
+WEEKDAY,5,Outram Park,Woodleigh,39
+WEEKDAY,6,Woodleigh,Dhoby Ghaut,39
+WEEKDAY,8,Clarke Quay,Buangkok,38
+WEEKDAY,10,HarbourFront,Buangkok,38
+WEEKDAY,5,Potong Pasir,Chinatown,37
+WEEKDAY,20,Woodleigh,Dhoby Ghaut,37
+WEEKDAY,23,Buangkok,Farrer Park,37
+WEEKDAY,5,Dhoby Ghaut,Hougang,37
+WEEKDAY,5,Chinatown,Potong Pasir,37
+WEEKDAY,6,Outram Park,Buangkok,36
+WEEKDAY,23,Hougang,Clarke Quay,36
+WEEKDAY,14,HarbourFront,Woodleigh,36
+WEEKDAY,6,Clarke Quay,Sengkang,36
+WEEKDAY,23,Hougang,Dhoby Ghaut,36
+WEEKDAY,22,Kovan,HarbourFront,36
+WEEKDAY,7,Chinatown,Clarke Quay,36
+WEEKDAY,22,Buangkok,Little India,35
+WEEKDAY,20,Woodleigh,Outram Park,35
+WEEKDAY,12,Outram Park,Woodleigh,35
+WEEKDAY,10,Clarke Quay,Buangkok,35
+WEEKDAY,5,Boon Keng,Buangkok,35
+WEEKDAY,23,Outram Park,Chinatown,35
+WEEKDAY,23,Buangkok,Hougang,35
+WEEKDAY,22,Woodleigh,Serangoon,35
+WEEKDAY,23,Sengkang,Clarke Quay,35
+WEEKDAY,23,Outram Park,Clarke Quay,34
+WEEKDAY,22,Woodleigh,Little India,34
+WEEKDAY,5,Potong Pasir,Farrer Park,34
+WEEKDAY,5,Little India,Kovan,34
+WEEKDAY,10,Outram Park,Woodleigh,33
+WEEKDAY,5,Buangkok,Sengkang,33
+WEEKDAY,0,Kovan,Sengkang,33
+WEEKDAY,5,Farrer Park,Kovan,33
+WEEKDAY,23,Little India,Woodleigh,33
+WEEKDAY,14,Woodleigh,HarbourFront,33
+WEEKDAY,23,Little India,Dhoby Ghaut,32
+WEEKDAY,6,Chinatown,Clarke Quay,32
+WEEKDAY,23,Serangoon,Woodleigh,32
+WEEKDAY,22,Potong Pasir,Outram Park,32
+WEEKDAY,5,Hougang,Woodleigh,32
+WEEKDAY,5,Outram Park,Boon Keng,32
+WEEKDAY,23,Boon Keng,Clarke Quay,32
+WEEKDAY,5,Outram Park,Buangkok,32
+WEEKDAY,5,Dhoby Ghaut,HarbourFront,31
+WEEKDAY,23,Serangoon,Clarke Quay,31
+WEEKDAY,0,Hougang,Punggol,31
+WEEKDAY,5,Potong Pasir,Sengkang,31
+WEEKDAY,22,Buangkok,Chinatown,31
+WEEKDAY,0,Hougang,Sengkang,31
+WEEKDAY,5,Outram Park,Hougang,31
+WEEKDAY,23,Woodleigh,Hougang,30
+WEEKDAY,5,Little India,Farrer Park,30
+WEEKDAY,11,Dhoby Ghaut,Woodleigh,30
+WEEKDAY,7,Clarke Quay,Punggol,30
+WEEKDAY,23,Boon Keng,Dhoby Ghaut,30
+WEEKDAY,10,Dhoby Ghaut,Woodleigh,30
+WEEKDAY,21,Buangkok,Dhoby Ghaut,30
+WEEKDAY,9,Dhoby Ghaut,Woodleigh,30
+WEEKDAY,9,Woodleigh,Buangkok,29
+WEEKDAY,21,Woodleigh,Chinatown,29
+WEEKDAY,5,Serangoon,Hougang,29
+WEEKDAY,5,Little India,Clarke Quay,29
+WEEKDAY,10,HarbourFront,Woodleigh,29
+WEEKDAY,6,Dhoby Ghaut,Kovan,28
+WEEKDAY,5,Boon Keng,Potong Pasir,28
+WEEKDAY,22,Buangkok,Dhoby Ghaut,28
+WEEKDAY,23,Boon Keng,HarbourFront,28
+WEEKDAY,6,HarbourFront,Clarke Quay,27
+WEEKDAY,23,Sengkang,Chinatown,27
+WEEKDAY,6,Clarke Quay,Punggol,27
+WEEKDAY,9,Clarke Quay,Woodleigh,27
+WEEKDAY,23,Punggol,Little India,27
+WEEKDAY,23,Sengkang,Woodleigh,27
+WEEKDAY,13,HarbourFront,Woodleigh,27
+WEEKDAY,23,Serangoon,Dhoby Ghaut,26
+WEEKDAY,23,Sengkang,Outram Park,26
+WEEKDAY,12,HarbourFront,Woodleigh,26
+WEEKDAY,5,HarbourFront,Chinatown,26
+WEEKDAY,8,Clarke Quay,Woodleigh,26
+WEEKDAY,23,Punggol,Dhoby Ghaut,25
+WEEKDAY,23,Potong Pasir,Chinatown,25
+WEEKDAY,5,Chinatown,Sengkang,25
+WEEKDAY,20,Woodleigh,Clarke Quay,25
+WEEKDAY,6,Clarke Quay,HarbourFront,25
+WEEKDAY,23,Punggol,Chinatown,25
+WEEKDAY,11,Clarke Quay,Woodleigh,25
+WEEKDAY,23,Woodleigh,Buangkok,24
+WEEKDAY,5,Kovan,Serangoon,24
+WEEKDAY,6,Farrer Park,Buangkok,24
+WEEKDAY,5,Farrer Park,Sengkang,24
+WEEKDAY,23,Sengkang,HarbourFront,23
+WEEKDAY,7,Clarke Quay,Chinatown,23
+WEEKDAY,22,Woodleigh,Dhoby Ghaut,23
+WEEKDAY,11,HarbourFront,Woodleigh,23
+WEEKDAY,5,Clarke Quay,Hougang,23
+WEEKDAY,9,HarbourFront,Woodleigh,23
+WEEKDAY,5,Kovan,Sengkang,23
+WEEKDAY,13,Clarke Quay,Woodleigh,23
+WEEKDAY,12,Clarke Quay,Woodleigh,23
+WEEKDAY,5,Chinatown,Punggol,22
+WEEKDAY,0,Farrer Park,Hougang,22
+WEEKDAY,23,Woodleigh,Boon Keng,22
+WEEKDAY,23,Serangoon,HarbourFront,22
+WEEKDAY,5,Dhoby Ghaut,Sengkang,22
+WEEKDAY,5,Little India,Chinatown,22
+WEEKDAY,5,Chinatown,Buangkok,22
+WEEKDAY,6,Clarke Quay,Little India,22
+WEEKDAY,0,Hougang,Buangkok,21
+WEEKDAY,5,Woodleigh,Farrer Park,21
+WEEKDAY,6,Clarke Quay,Potong Pasir,21
+WEEKDAY,7,Clarke Quay,Dhoby Ghaut,21
+WEEKDAY,5,Serangoon,Punggol,21
+WEEKDAY,5,Little India,Punggol,21
+WEEKDAY,5,Chinatown,Woodleigh,21
+WEEKDAY,5,Kovan,Punggol,21
+WEEKDAY,5,Potong Pasir,Outram Park,21
+WEEKDAY,5,Woodleigh,Little India,20
+WEEKDAY,5,Little India,HarbourFront,20
+WEEKDAY,0,Serangoon,Punggol,20
+WEEKDAY,5,Chinatown,Outram Park,20
+WEEKDAY,23,Punggol,Woodleigh,20
+WEEKDAY,6,Outram Park,Clarke Quay,20
+WEEKDAY,5,Little India,Boon Keng,20
+WEEKDAY,5,Outram Park,Farrer Park,20
+WEEKDAY,0,Kovan,Hougang,19
+WEEKDAY,0,Kovan,Buangkok,19
+WEEKDAY,23,Woodleigh,Chinatown,19
+WEEKDAY,5,Farrer Park,Woodleigh,19
+WEEKDAY,6,Clarke Quay,Outram Park,19
+WEEKDAY,5,Outram Park,Punggol,19
+WEEKDAY,21,Woodleigh,Outram Park,19
+WEEKDAY,0,Potong Pasir,Hougang,19
+WEEKDAY,23,Sengkang,Little India,19
+WEEKDAY,21,Woodleigh,Dhoby Ghaut,19
+WEEKDAY,21,Woodleigh,HarbourFront,19
+WEEKDAY,23,Kovan,Woodleigh,18
+WEEKDAY,23,Potong Pasir,Outram Park,18
+WEEKDAY,0,Boon Keng,Sengkang,18
+WEEKDAY,5,Boon Keng,Clarke Quay,18
+WEEKDAY,5,HarbourFront,Boon Keng,18
+WEEKDAY,5,Little India,Hougang,17
+WEEKDAY,23,Potong Pasir,Little India,17
+WEEKDAY,5,Chinatown,HarbourFront,17
+WEEKDAY,5,Potong Pasir,Woodleigh,17
+WEEKDAY,23,Hougang,Woodleigh,17
+WEEKDAY,0,Dhoby Ghaut,Serangoon,17
+WEEKDAY,23,Punggol,Outram Park,17
+WEEKDAY,23,Boon Keng,Outram Park,17
+WEEKDAY,5,Kovan,Woodleigh,17
+WEEKDAY,22,Woodleigh,HarbourFront,17
+WEEKDAY,23,Hougang,Outram Park,16
+WEEKDAY,5,Potong Pasir,Kovan,16
+WEEKDAY,23,Buangkok,Clarke Quay,16
+WEEKDAY,5,Clarke Quay,Outram Park,16
+WEEKDAY,23,Potong Pasir,Dhoby Ghaut,16
+WEEKDAY,0,Boon Keng,Punggol,16
+WEEKDAY,5,Little India,Potong Pasir,16
+WEEKDAY,23,Woodleigh,Kovan,15
+WEEKDAY,5,Hougang,Sengkang,15
+WEEKDAY,5,Farrer Park,Buangkok,15
+WEEKDAY,5,Clarke Quay,Punggol,15
+WEEKDAY,6,Dhoby Ghaut,Buangkok,15
+WEEKDAY,10,Clarke Quay,Woodleigh,15
+WEEKDAY,23,Buangkok,Chinatown,15
+WEEKDAY,23,Kovan,Chinatown,15
+WEEKDAY,23,Woodleigh,Potong Pasir,15
+WEEKDAY,23,Kovan,Clarke Quay,14
+WEEKDAY,5,Woodleigh,Dhoby Ghaut,14
+WEEKDAY,23,Hougang,HarbourFront,14
+WEEKDAY,5,Serangoon,Kovan,14
+WEEKDAY,23,Kovan,Little India,14
+WEEKDAY,0,Serangoon,Hougang,14
+WEEKDAY,23,Kovan,Outram Park,14
+WEEKDAY,5,HarbourFront,Hougang,14
+WEEKDAY,23,Kovan,HarbourFront,14
+WEEKDAY,6,Clarke Quay,Buangkok,14
+WEEKDAY,23,Punggol,HarbourFront,14
+WEEKDAY,5,Little India,Sengkang,14
+WEEKDAY,5,Clarke Quay,Farrer Park,14
+WEEKDAY,0,Potong Pasir,Serangoon,13
+WEEKDAY,23,Hougang,Little India,13
+WEEKDAY,22,Woodleigh,Chinatown,13
+WEEKDAY,23,Woodleigh,HarbourFront,13
+WEEKDAY,5,Chinatown,Dhoby Ghaut,13
+WEEKDAY,5,Farrer Park,Boon Keng,13
+WEEKDAY,23,Woodleigh,Farrer Park,13
+WEEKDAY,6,Clarke Quay,Dhoby Ghaut,13
+WEEKDAY,6,Dhoby Ghaut,Woodleigh,13
+WEEKDAY,0,Potong Pasir,Sengkang,13
+WEEKDAY,23,Potong Pasir,HarbourFront,13
+WEEKDAY,0,Potong Pasir,Kovan,12
+WEEKDAY,0,Farrer Park,Serangoon,12
+WEEKDAY,0,Dhoby Ghaut,Sengkang,12
+WEEKDAY,0,Dhoby Ghaut,Hougang,12
+WEEKDAY,23,Boon Keng,Woodleigh,12
+WEEKDAY,23,Kovan,Dhoby Ghaut,12
+WEEKDAY,5,Boon Keng,Woodleigh,12
+WEEKDAY,5,Farrer Park,Chinatown,12
+WEEKDAY,0,Farrer Park,Punggol,12
+WEEKDAY,5,Dhoby Ghaut,Chinatown,11
+WEEKDAY,0,Little India,Kovan,11
+WEEKDAY,0,Clarke Quay,Serangoon,11
+WEEKDAY,23,Potong Pasir,Clarke Quay,11
+WEEKDAY,23,Buangkok,Dhoby Ghaut,11
+WEEKDAY,0,Farrer Park,Buangkok,11
+WEEKDAY,0,Boon Keng,Kovan,10
+WEEKDAY,5,HarbourFront,Potong Pasir,10
+WEEKDAY,0,Little India,Hougang,10
+WEEKDAY,0,Buangkok,Punggol,10
+WEEKDAY,23,Outram Park,HarbourFront,10
+WEEKDAY,5,Chinatown,Kovan,10
+WEEKDAY,0,Farrer Park,Boon Keng,10
+WEEKDAY,0,Little India,Punggol,10
+WEEKDAY,23,Woodleigh,Little India,10
+WEEKDAY,22,Woodleigh,Outram Park,10
+WEEKDAY,0,Farrer Park,Kovan,10
+WEEKDAY,0,Buangkok,Sengkang,10
+WEEKDAY,5,HarbourFront,Punggol,10
+WEEKDAY,5,Little India,Buangkok,9
+WEEKDAY,5,Woodleigh,Hougang,9
+WEEKDAY,5,HarbourFront,Farrer Park,9
+WEEKDAY,0,Boon Keng,Hougang,9
+WEEKDAY,0,Boon Keng,Serangoon,9
+WEEKDAY,5,Dhoby Ghaut,Little India,9
+WEEKDAY,5,Dhoby Ghaut,Serangoon,9
+WEEKDAY,23,Buangkok,Outram Park,9
+WEEKDAY,0,Clarke Quay,Sengkang,9
+WEEKDAY,0,Potong Pasir,Punggol,9
+WEEKDAY,6,Clarke Quay,Chinatown,8
+WEEKDAY,5,HarbourFront,Little India,8
+WEEKDAY,0,Little India,Buangkok,8
+WEEKDAY,23,Woodleigh,Dhoby Ghaut,8
+WEEKDAY,23,Woodleigh,Outram Park,8
+WEEKDAY,0,Kovan,Punggol,8
+WEEKDAY,5,Outram Park,Chinatown,8
+WEEKDAY,5,Outram Park,Kovan,8
+WEEKDAY,23,Buangkok,Little India,8
+WEEKDAY,5,Woodleigh,Chinatown,8
+WEEKDAY,0,Dhoby Ghaut,Punggol,8
+WEEKDAY,0,Serangoon,Buangkok,8
+WEEKDAY,5,HarbourFront,Dhoby Ghaut,7
+WEEKDAY,23,Woodleigh,Serangoon,7
+WEEKDAY,5,Farrer Park,Potong Pasir,7
+WEEKDAY,5,Outram Park,Dhoby Ghaut,7
+WEEKDAY,5,Potong Pasir,Punggol,7
+WEEKDAY,5,Clarke Quay,Kovan,7
+WEEKDAY,0,Dhoby Ghaut,Kovan,7
+WEEKDAY,0,Little India,Sengkang,7
+WEEKDAY,5,Dhoby Ghaut,Kovan,7
+WEEKDAY,5,HarbourFront,Clarke Quay,6
+WEEKDAY,5,Clarke Quay,Sengkang,6
+WEEKDAY,0,Little India,Serangoon,6
+WEEKDAY,0,Farrer Park,Potong Pasir,6
+WEEKDAY,0,Clarke Quay,Hougang,6
+WEEKDAY,23,Buangkok,HarbourFront,6
+WEEKDAY,5,Serangoon,Buangkok,6
+WEEKDAY,22,Woodleigh,Clarke Quay,6
+WEEKDAY,5,Dhoby Ghaut,Punggol,6
+WEEKDAY,5,HarbourFront,Buangkok,6
+WEEKDAY,0,Serangoon,Kovan,5
+WEEKDAY,20,Woodleigh,HarbourFront,5
+WEEKDAY,0,Little India,Farrer Park,5
+WEEKDAY,5,Woodleigh,Boon Keng,5
+WEEKDAY,5,Little India,Dhoby Ghaut,5
+WEEKDAY,5,Little India,Woodleigh,5
+WEEKDAY,23,Buangkok,Woodleigh,5
+WEEKDAY,6,Clarke Quay,Woodleigh,5
+WEEKDAY,23,Punggol,Clarke Quay,5
+WEEKDAY,5,Kovan,Buangkok,5
+WEEKDAY,0,Dhoby Ghaut,Boon Keng,5
+WEEKDAY,5,Outram Park,Potong Pasir,4
+WEEKDAY,5,Woodleigh,Outram Park,4
+WEEKDAY,0,Dhoby Ghaut,Buangkok,4
+WEEKDAY,5,HarbourFront,Woodleigh,4
+WEEKDAY,5,Clarke Quay,Serangoon,4
+WEEKDAY,0,Potong Pasir,Buangkok,4
+WEEKDAY,5,Dhoby Ghaut,Farrer Park,4
+WEEKDAY,0,Clarke Quay,Kovan,4
+WEEKDAY,0,Little India,Boon Keng,4
+WEEKDAY,5,HarbourFront,Outram Park,4
+WEEKDAY,5,Woodleigh,Kovan,4
+WEEKDAY,5,Buangkok,Punggol,4
+WEEKDAY,21,Woodleigh,Clarke Quay,3
+WEEKDAY,0,Clarke Quay,Farrer Park,3
+WEEKDAY,0,Boon Keng,Buangkok,3
+WEEKDAY,0,Woodleigh,Buangkok,3
+WEEKDAY,23,Woodleigh,Clarke Quay,3
+WEEKDAY,0,Little India,Potong Pasir,3
+WEEKDAY,5,Potong Pasir,Buangkok,3
+WEEKDAY,5,Serangoon,Woodleigh,3
+WEEKDAY,5,HarbourFront,Kovan,3
+WEEKDAY,5,Dhoby Ghaut,Woodleigh,3
+WEEKDAY,5,Outram Park,HarbourFront,2
+WEEKDAY,0,Clarke Quay,Boon Keng,2
+WEEKDAY,5,Kovan,Hougang,2
+WEEKDAY,5,HarbourFront,Serangoon,2
+WEEKDAY,5,HarbourFront,Sengkang,2
+WEEKDAY,5,Woodleigh,Serangoon,2
+WEEKDAY,5,Dhoby Ghaut,Buangkok,2
+WEEKDAY,5,Dhoby Ghaut,Outram Park,2
+WEEKDAY,0,Clarke Quay,Punggol,2
+WEEKDAY,5,Dhoby Ghaut,Clarke Quay,2
+WEEKDAY,0,Clarke Quay,Woodleigh,2
+WEEKDAY,0,Chinatown,Clarke Quay,2
+WEEKDAY,0,Woodleigh,Sengkang,2
+WEEKDAY,5,Hougang,Buangkok,2
+WEEKDAY,0,Woodleigh,Kovan,2
+WEEKDAY,0,Hougang,Chinatown,1
+WEEKDAY,5,Clarke Quay,Little India,1
+WEEKDAY,0,Dhoby Ghaut,Potong Pasir,1
+WEEKDAY,0,Boon Keng,Potong Pasir,1
+WEEKDAY,5,Woodleigh,Sengkang,1
+WEEKDAY,0,Woodleigh,Serangoon,1
+WEEKDAY,0,Woodleigh,Hougang,1
+WEEKDAY,5,Clarke Quay,Chinatown,1
+WEEKDAY,0,Dhoby Ghaut,Little India,1
+WEEKDAY,0,HarbourFront,Kovan,1
+WEEKDAY,0,Kovan,Potong Pasir,1
+WEEKDAY,5,Dhoby Ghaut,Potong Pasir,1
+WEEKDAY,0,Farrer Park,Woodleigh,1
+WEEKDAY,0,Clarke Quay,Buangkok,1
+WEEKDAY,0,Chinatown,Boon Keng,1
+WEEKDAY,0,Chinatown,Potong Pasir,1
+WEEKDAY,5,Woodleigh,Potong Pasir,1
+WEEKDAY,0,Little India,Woodleigh,1
+WEEKDAY,5,Chinatown,Clarke Quay,1
+WEEKDAY,5,Dhoby Ghaut,Boon Keng,1
+WEEKDAY,0,Chinatown,Kovan,1
+WEEKDAY,5,Clarke Quay,Dhoby Ghaut,1
+WEEKDAY,5,Clarke Quay,HarbourFront,1
+WEEKDAY,0,Outram Park,Punggol,1
+WEEKDAY,5,Outram Park,Clarke Quay,1
+WEEKDAY,5,Clarke Quay,Buangkok,1
+WEEKDAY,0,Chinatown,Hougang,1
+WEEKDAY,0,Clarke Quay,Potong Pasir,1
+WEEKDAY,0,Woodleigh,Punggol,1
+WEEKDAY,0,Dhoby Ghaut,Farrer Park,1
+WEEKDAY,5,Woodleigh,HarbourFront,1
